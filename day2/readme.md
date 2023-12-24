@@ -6,7 +6,48 @@
 ## What I learned
 
 ### Named Tuples and Data classes
+
 - nice, clean easy way to get something typed-ish like a struct without writing a full class.
+- 
+
+### Generator expressions
+
+similar to but different from list comprehensions
+
+generator expression syntax 
+```python
+(expression for item in iterable if condition)
+```
+
+List comprehensions
+```python
+[ expression for item in iterable if condition ]
+```
+#### Key Differences:
+Memory Usage: List comprehensions build the entire list in memory, while generator expressions yield items one at a time, consuming less memory for large datasets.
+Return Type: List comprehensions return a list, whereas generator expressions return a generator object.
+Use Case: Use list comprehensions when you need to access the elements directly and repeatedly. Use generator expressions when dealing with large data sets where you want to process items one at a time or when you want to iterate over the results once.
+
+### You can create a list of boolean checks
+
+return all([ a < b, a < c, ..])
+
+### getattr
+
+dynamically get at attribute of an object
+
+```python
+@dataclass
+class Round:
+    red: int = 0
+    green: int = 0
+    blue: int = 0
+
+bob = Round()
+getattr(bob, 'red')
+```
+
+
 
 ## Notes
 

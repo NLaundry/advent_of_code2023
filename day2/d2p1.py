@@ -6,8 +6,8 @@ from typing import Match
 from functools import reduce
 
 
-
 # Round = namedtuple("Round", ["red", "green", "blue"])
+
 
 @dataclass
 class Round:
@@ -18,7 +18,9 @@ class Round:
     def __str__(self):
         return f"Round: red: {self.red}, green: {self.green}, blue: {self.blue}"
 
+
 MaxValues = namedtuple("MaxValues", ["red", "green", "blue"])
+
 
 class Game:
     rounds: list[Round]
@@ -48,9 +50,10 @@ class Game:
 
     def is_possible(self, max_values: MaxValues) -> bool:
         game_maxes: MaxValues = self.get_max_rgb_values()
-        if game_maxes.red > max_values.red or game_maxes.green > max_values.green or game_maxes.blue > max_values.blue:
-            return False
-        return True
+        return all(
+            getattr(game_maxes, color) <= getattr(max_values, color)
+            for color in ["red", "green", "blue"]
+        )
 
 
 def read_input(file_name: str) -> list[str]:
@@ -66,6 +69,7 @@ def parse_games(input_list: list[str]) -> list[Game]:
             games.append(Game(id=int(match.group(0)), original_input=line))
     return games
 
+
 def parse_rounds(line: str) -> list[Round]:
     """Parse a line of input into a list of Rounds, return for adding to an existing Game"""
     rounds: list[Round] = []
@@ -75,9 +79,9 @@ def parse_rounds(line: str) -> list[Round]:
     # now break it up into a list of rounds by splittin on semicolon
     round_string_list: list[str] = line.split(";")
     for round_string in round_string_list:
-        red_match = re.search(r'(\d+) red', round_string)
-        green_match = re.search(r'(\d+) green', round_string)
-        blue_match = re.search(r'(\d+) blue', round_string)
+        red_match = re.search(r"(\d+) red", round_string)
+        green_match = re.search(r"(\d+) green", round_string)
+        blue_match = re.search(r"(\d+) blue", round_string)
         red, green, blue = 0, 0, 0
         if red_match is not None:
             red = int(red_match.group(1))
@@ -86,14 +90,16 @@ def parse_rounds(line: str) -> list[Round]:
         if blue_match is not None:
             blue = int(blue_match.group(1))
 
-        rounds.append(Round(red=red, green=green, blue=blue))  
+        rounds.append(Round(red=red, green=green, blue=blue))
 
     return rounds
+
 
 def strip_game_id(line: str) -> str:
     """Remove the game id from the line of input"""
     # use the regex pattern = r'(\w+): (\d+)' # this says "match any word, then a colon, then a space, then a number"
-    return re.sub(r'(\w+) (\d+): ', '', line)
+    return re.sub(r"(\w+) (\d+): ", "", line)
+
 
 def main():
     args = sys.argv[1:]  # assume first arg is file name
