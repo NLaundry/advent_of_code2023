@@ -36,17 +36,10 @@ class Game:
         return f"Game: {self.id}, Rounds: {self.rounds}"
 
     def get_max_rgb_values(self) -> MaxValues:
-        red: int = 0
-        green: int = 0
-        blue: int = 0
-        for round in self.rounds:
-            if round.red > red:
-                red = round.red
-            if round.green > green:
-                green = round.green
-            if round.blue > blue:
-                blue = round.blue
-        return MaxValues(red=red, green=green, blue=blue)
+        max_red = max(round.red for round in self.rounds) if self.rounds else 0
+        max_green = max(round.green for round in self.rounds) if self.rounds else 0
+        max_blue = max(round.blue for round in self.rounds) if self.rounds else 0
+        return MaxValues(red=max_red, green=max_green, blue=max_blue)
 
     def is_possible(self, max_values: MaxValues) -> bool:
         game_maxes: MaxValues = self.get_max_rgb_values()

@@ -47,6 +47,30 @@ bob = Round()
 getattr(bob, 'red')
 ```
 
+### Built in max function for lists
+
+```python
+
+    def get_max_rgb_values(self) -> MaxValues:
+        red: int = 0
+        green: int = 0
+        blue: int = 0
+        for round in self.rounds:
+            if round.red > red:
+                red = round.red
+            if round.green > green:
+                green = round.green
+            if round.blue > blue:
+                blue = round.blue
+        return MaxValues(red=red, green=green, blue=blue)
+
+    def get_max_rgb_values(self) -> MaxValues:
+        max_red = max(round.red for round in self.rounds) if self.rounds else 0
+        max_green = max(round.green for round in self.rounds) if self.rounds else 0
+        max_blue = max(round.blue for round in self.rounds) if self.rounds else 0
+        return MaxValues(red=max_red, green=max_green, blue=max_blue)
+
+```
 
 
 ## Notes
