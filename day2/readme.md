@@ -1,5 +1,7 @@
 # Part 2
 
+## Problem Description
+what is the fewest number of cubes of each color that could have been in the bag to make the game possible?
 
 # Part 1
 
