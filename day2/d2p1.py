@@ -70,6 +70,12 @@ def parse_games(input_list: list[str]) -> list[Game]:
     return games
 
 
+def find_color_value(round_string: str, color: str) -> int:
+    """Find and return the value for a given color in the round string."""
+    match = re.search(rf"(\d+) {color}", round_string)
+    return int(match.group(1)) if match else 0
+
+
 def parse_rounds(line: str) -> list[Round]:
     """Parse a line of input into a list of Rounds, return for adding to an existing Game"""
     rounds: list[Round] = []
@@ -78,18 +84,11 @@ def parse_rounds(line: str) -> list[Round]:
     line = strip_game_id(line)
     # now break it up into a list of rounds by splittin on semicolon
     round_string_list: list[str] = line.split(";")
-    for round_string in round_string_list:
-        red_match = re.search(r"(\d+) red", round_string)
-        green_match = re.search(r"(\d+) green", round_string)
-        blue_match = re.search(r"(\d+) blue", round_string)
-        red, green, blue = 0, 0, 0
-        if red_match is not None:
-            red = int(red_match.group(1))
-        if green_match is not None:
-            green = int(green_match.group(1))
-        if blue_match is not None:
-            blue = int(blue_match.group(1))
 
+    for round_string in round_string_list:
+        red = find_color_value(round_string, "red")
+        green = find_color_value(round_string, "green")
+        blue = find_color_value(round_string, "blue")
         rounds.append(Round(red=red, green=green, blue=blue))
 
     return rounds
