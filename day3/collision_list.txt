@@ -1,0 +1,3582 @@
+PartNumber: 798   x_left_coord: 9, x_right_coord: 12, y_coord: 0
+[Symbol(x_coord=12, y_coord=1, symbol='*')]
+True
+PartNumber: 145   x_left_coord: 15, x_right_coord: 18, y_coord: 0
+[Symbol(x_coord=18, y_coord=1, symbol='*')]
+True
+PartNumber: 629   x_left_coord: 27, x_right_coord: 30, y_coord: 0
+[Symbol(x_coord=30, y_coord=1, symbol='*')]
+True
+PartNumber: 579   x_left_coord: 34, x_right_coord: 37, y_coord: 0
+[Symbol(x_coord=34, y_coord=1, symbol='&')]
+True
+PartNumber: 455   x_left_coord: 42, x_right_coord: 45, y_coord: 0
+[Symbol(x_coord=42, y_coord=1, symbol='*')]
+True
+PartNumber: 130   x_left_coord: 66, x_right_coord: 69, y_coord: 0
+[Symbol(x_coord=69, y_coord=1, symbol='*')]
+True
+PartNumber: 243   x_left_coord: 82, x_right_coord: 85, y_coord: 0
+[Symbol(x_coord=82, y_coord=1, symbol='/')]
+True
+PartNumber: 154   x_left_coord: 102, x_right_coord: 105, y_coord: 0
+[Symbol(x_coord=101, y_coord=1, symbol='*')]
+True
+PartNumber: 167   x_left_coord: 113, x_right_coord: 116, y_coord: 0
+[]
+False
+PartNumber: 179   x_left_coord: 38, x_right_coord: 41, y_coord: 1
+[Symbol(x_coord=42, y_coord=1, symbol='*'), Symbol(x_coord=40, y_coord=2, symbol='*')]
+True
+PartNumber: 737   x_left_coord: 51, x_right_coord: 54, y_coord: 1
+[Symbol(x_coord=54, y_coord=2, symbol='*')]
+True
+PartNumber: 194   x_left_coord: 57, x_right_coord: 60, y_coord: 1
+[Symbol(x_coord=59, y_coord=2, symbol='*')]
+True
+PartNumber: 854   x_left_coord: 70, x_right_coord: 73, y_coord: 1
+[Symbol(x_coord=69, y_coord=1, symbol='*')]
+True
+PartNumber: 52   x_left_coord: 94, x_right_coord: 96, y_coord: 1
+[]
+False
+PartNumber: 560   x_left_coord: 98, x_right_coord: 101, y_coord: 1
+[Symbol(x_coord=101, y_coord=1, symbol='*')]
+True
+PartNumber: 699   x_left_coord: 130, x_right_coord: 133, y_coord: 1
+[Symbol(x_coord=132, y_coord=2, symbol='*')]
+True
+PartNumber: 459   x_left_coord: 8, x_right_coord: 11, y_coord: 2
+[Symbol(x_coord=12, y_coord=1, symbol='*'), Symbol(x_coord=11, y_coord=3, symbol='@')]
+True
+PartNumber: 489   x_left_coord: 13, x_right_coord: 16, y_coord: 2
+[Symbol(x_coord=12, y_coord=1, symbol='*')]
+True
+PartNumber: 817   x_left_coord: 17, x_right_coord: 20, y_coord: 2
+[Symbol(x_coord=18, y_coord=1, symbol='*')]
+True
+PartNumber: 880   x_left_coord: 28, x_right_coord: 31, y_coord: 2
+[Symbol(x_coord=30, y_coord=1, symbol='*')]
+True
+PartNumber: 996   x_left_coord: 43, x_right_coord: 46, y_coord: 2
+[Symbol(x_coord=42, y_coord=1, symbol='*')]
+True
+PartNumber: 36   x_left_coord: 134, x_right_coord: 136, y_coord: 2
+[Symbol(x_coord=136, y_coord=1, symbol='&')]
+True
+PartNumber: 813   x_left_coord: 37, x_right_coord: 40, y_coord: 3
+[Symbol(x_coord=40, y_coord=2, symbol='*')]
+True
+PartNumber: 234   x_left_coord: 52, x_right_coord: 55, y_coord: 3
+[Symbol(x_coord=54, y_coord=2, symbol='*')]
+True
+PartNumber: 552   x_left_coord: 56, x_right_coord: 59, y_coord: 3
+[Symbol(x_coord=59, y_coord=2, symbol='*')]
+True
+PartNumber: 307   x_left_coord: 61, x_right_coord: 64, y_coord: 3
+[Symbol(x_coord=62, y_coord=4, symbol='*')]
+True
+PartNumber: 184   x_left_coord: 68, x_right_coord: 71, y_coord: 3
+[Symbol(x_coord=71, y_coord=4, symbol='=')]
+True
+PartNumber: 370   x_left_coord: 83, x_right_coord: 86, y_coord: 3
+[Symbol(x_coord=83, y_coord=4, symbol='*')]
+True
+PartNumber: 736   x_left_coord: 104, x_right_coord: 107, y_coord: 3
+[Symbol(x_coord=103, y_coord=4, symbol='*')]
+True
+PartNumber: 960   x_left_coord: 112, x_right_coord: 115, y_coord: 3
+[]
+False
+PartNumber: 631   x_left_coord: 129, x_right_coord: 132, y_coord: 3
+[Symbol(x_coord=132, y_coord=2, symbol='*')]
+True
+PartNumber: 100   x_left_coord: 3, x_right_coord: 6, y_coord: 4
+[Symbol(x_coord=6, y_coord=5, symbol='+')]
+True
+PartNumber: 131   x_left_coord: 41, x_right_coord: 44, y_coord: 4
+[Symbol(x_coord=42, y_coord=5, symbol='*')]
+True
+PartNumber: 435   x_left_coord: 78, x_right_coord: 81, y_coord: 4
+[Symbol(x_coord=81, y_coord=5, symbol='/')]
+True
+PartNumber: 34   x_left_coord: 90, x_right_coord: 92, y_coord: 4
+[]
+False
+PartNumber: 126   x_left_coord: 12, x_right_coord: 15, y_coord: 5
+[Symbol(x_coord=11, y_coord=5, symbol='#')]
+True
+PartNumber: 214   x_left_coord: 22, x_right_coord: 25, y_coord: 5
+[Symbol(x_coord=25, y_coord=4, symbol='*')]
+True
+PartNumber: 939   x_left_coord: 62, x_right_coord: 65, y_coord: 5
+[Symbol(x_coord=62, y_coord=4, symbol='*')]
+True
+PartNumber: 729   x_left_coord: 84, x_right_coord: 87, y_coord: 5
+[Symbol(x_coord=83, y_coord=4, symbol='*')]
+True
+PartNumber: 861   x_left_coord: 101, x_right_coord: 104, y_coord: 5
+[Symbol(x_coord=103, y_coord=4, symbol='*')]
+True
+PartNumber: 243   x_left_coord: 109, x_right_coord: 112, y_coord: 5
+[Symbol(x_coord=112, y_coord=6, symbol='*')]
+True
+PartNumber: 438   x_left_coord: 122, x_right_coord: 125, y_coord: 5
+[Symbol(x_coord=123, y_coord=6, symbol='*')]
+True
+PartNumber: 854   x_left_coord: 35, x_right_coord: 38, y_coord: 6
+[Symbol(x_coord=35, y_coord=5, symbol='$')]
+True
+PartNumber: 979   x_left_coord: 42, x_right_coord: 45, y_coord: 6
+[Symbol(x_coord=42, y_coord=5, symbol='*')]
+True
+PartNumber: 177   x_left_coord: 49, x_right_coord: 52, y_coord: 6
+[Symbol(x_coord=48, y_coord=5, symbol='+')]
+True
+PartNumber: 280   x_left_coord: 69, x_right_coord: 72, y_coord: 6
+[]
+False
+PartNumber: 138   x_left_coord: 74, x_right_coord: 77, y_coord: 6
+[Symbol(x_coord=76, y_coord=7, symbol='*')]
+True
+PartNumber: 158   x_left_coord: 93, x_right_coord: 96, y_coord: 6
+[Symbol(x_coord=96, y_coord=6, symbol='*')]
+True
+PartNumber: 241   x_left_coord: 97, x_right_coord: 100, y_coord: 6
+[Symbol(x_coord=96, y_coord=6, symbol='*')]
+True
+PartNumber: 904   x_left_coord: 129, x_right_coord: 132, y_coord: 6
+[Symbol(x_coord=128, y_coord=6, symbol='*')]
+True
+PartNumber: 427   x_left_coord: 7, x_right_coord: 10, y_coord: 7
+[Symbol(x_coord=7, y_coord=8, symbol='*')]
+True
+PartNumber: 683   x_left_coord: 54, x_right_coord: 57, y_coord: 7
+[Symbol(x_coord=57, y_coord=7, symbol='&')]
+True
+PartNumber: 726   x_left_coord: 59, x_right_coord: 62, y_coord: 7
+[Symbol(x_coord=59, y_coord=6, symbol='%')]
+True
+PartNumber: 303   x_left_coord: 65, x_right_coord: 68, y_coord: 7
+[Symbol(x_coord=67, y_coord=8, symbol='/')]
+True
+PartNumber: 905   x_left_coord: 84, x_right_coord: 87, y_coord: 7
+[Symbol(x_coord=87, y_coord=8, symbol='*')]
+True
+PartNumber: 115   x_left_coord: 113, x_right_coord: 116, y_coord: 7
+[Symbol(x_coord=112, y_coord=6, symbol='*')]
+True
+PartNumber: 412   x_left_coord: 121, x_right_coord: 124, y_coord: 7
+[Symbol(x_coord=123, y_coord=6, symbol='*')]
+True
+PartNumber: 479   x_left_coord: 125, x_right_coord: 128, y_coord: 7
+[Symbol(x_coord=128, y_coord=6, symbol='*')]
+True
+PartNumber: 491   x_left_coord: 133, x_right_coord: 136, y_coord: 7
+[Symbol(x_coord=135, y_coord=6, symbol='#')]
+True
+PartNumber: 989   x_left_coord: 19, x_right_coord: 22, y_coord: 8
+[Symbol(x_coord=21, y_coord=9, symbol='*')]
+True
+PartNumber: 888   x_left_coord: 28, x_right_coord: 31, y_coord: 8
+[Symbol(x_coord=27, y_coord=9, symbol='*')]
+True
+PartNumber: 226   x_left_coord: 69, x_right_coord: 72, y_coord: 8
+[]
+False
+PartNumber: 922   x_left_coord: 76, x_right_coord: 79, y_coord: 8
+[Symbol(x_coord=76, y_coord=7, symbol='*'), Symbol(x_coord=80, y_coord=9, symbol='*')]
+True
+PartNumber: 172   x_left_coord: 80, x_right_coord: 83, y_coord: 8
+[Symbol(x_coord=80, y_coord=9, symbol='*')]
+True
+PartNumber: 702   x_left_coord: 90, x_right_coord: 93, y_coord: 8
+[Symbol(x_coord=93, y_coord=8, symbol='*')]
+True
+PartNumber: 693   x_left_coord: 94, x_right_coord: 97, y_coord: 8
+[Symbol(x_coord=93, y_coord=8, symbol='*')]
+True
+PartNumber: 543   x_left_coord: 108, x_right_coord: 111, y_coord: 8
+[Symbol(x_coord=110, y_coord=7, symbol='&')]
+True
+PartNumber: 924   x_left_coord: 2, x_right_coord: 5, y_coord: 9
+[Symbol(x_coord=5, y_coord=8, symbol='=')]
+True
+PartNumber: 219   x_left_coord: 7, x_right_coord: 10, y_coord: 9
+[Symbol(x_coord=7, y_coord=8, symbol='*')]
+True
+PartNumber: 979   x_left_coord: 36, x_right_coord: 39, y_coord: 9
+[]
+False
+PartNumber: 191   x_left_coord: 51, x_right_coord: 54, y_coord: 9
+[Symbol(x_coord=52, y_coord=8, symbol='$'), Symbol(x_coord=55, y_coord=9, symbol='%')]
+True
+PartNumber: 323   x_left_coord: 86, x_right_coord: 89, y_coord: 9
+[Symbol(x_coord=87, y_coord=8, symbol='*')]
+True
+PartNumber: 777   x_left_coord: 125, x_right_coord: 128, y_coord: 9
+[Symbol(x_coord=128, y_coord=10, symbol='=')]
+True
+PartNumber: 109   x_left_coord: 20, x_right_coord: 23, y_coord: 10
+[Symbol(x_coord=21, y_coord=9, symbol='*')]
+True
+PartNumber: 559   x_left_coord: 47, x_right_coord: 50, y_coord: 10
+[Symbol(x_coord=49, y_coord=11, symbol='=')]
+True
+PartNumber: 835   x_left_coord: 55, x_right_coord: 58, y_coord: 10
+[Symbol(x_coord=55, y_coord=9, symbol='%')]
+True
+PartNumber: 708   x_left_coord: 63, x_right_coord: 66, y_coord: 10
+[Symbol(x_coord=65, y_coord=9, symbol='+')]
+True
+PartNumber: 989   x_left_coord: 74, x_right_coord: 77, y_coord: 10
+[]
+False
+PartNumber: 685   x_left_coord: 79, x_right_coord: 82, y_coord: 10
+[Symbol(x_coord=80, y_coord=9, symbol='*')]
+True
+PartNumber: 915   x_left_coord: 130, x_right_coord: 133, y_coord: 10
+[Symbol(x_coord=130, y_coord=11, symbol='/')]
+True
+PartNumber: 751   x_left_coord: 59, x_right_coord: 62, y_coord: 11
+[Symbol(x_coord=61, y_coord=12, symbol='*')]
+True
+PartNumber: 886   x_left_coord: 70, x_right_coord: 73, y_coord: 11
+[Symbol(x_coord=71, y_coord=12, symbol='*')]
+True
+PartNumber: 243   x_left_coord: 89, x_right_coord: 92, y_coord: 11
+[]
+False
+PartNumber: 154   x_left_coord: 99, x_right_coord: 102, y_coord: 11
+[Symbol(x_coord=102, y_coord=11, symbol='+')]
+True
+PartNumber: 922   x_left_coord: 105, x_right_coord: 108, y_coord: 11
+[Symbol(x_coord=107, y_coord=12, symbol='*')]
+True
+PartNumber: 347   x_left_coord: 111, x_right_coord: 114, y_coord: 11
+[Symbol(x_coord=114, y_coord=10, symbol='#')]
+True
+PartNumber: 923   x_left_coord: 6, x_right_coord: 9, y_coord: 12
+[Symbol(x_coord=9, y_coord=13, symbol='*')]
+True
+PartNumber: 571   x_left_coord: 24, x_right_coord: 27, y_coord: 12
+[Symbol(x_coord=24, y_coord=13, symbol='&')]
+True
+PartNumber: 672   x_left_coord: 34, x_right_coord: 37, y_coord: 12
+[Symbol(x_coord=35, y_coord=13, symbol='=')]
+True
+PartNumber: 963   x_left_coord: 41, x_right_coord: 44, y_coord: 12
+[Symbol(x_coord=40, y_coord=11, symbol='*'), Symbol(x_coord=45, y_coord=13, symbol='*')]
+True
+PartNumber: 471   x_left_coord: 45, x_right_coord: 48, y_coord: 12
+[Symbol(x_coord=49, y_coord=11, symbol='='), Symbol(x_coord=45, y_coord=13, symbol='*')]
+True
+PartNumber: 154   x_left_coord: 55, x_right_coord: 58, y_coord: 12
+[]
+False
+PartNumber: 914   x_left_coord: 93, x_right_coord: 96, y_coord: 12
+[]
+False
+PartNumber: 891   x_left_coord: 121, x_right_coord: 124, y_coord: 12
+[Symbol(x_coord=121, y_coord=13, symbol='*')]
+True
+PartNumber: 73   x_left_coord: 133, x_right_coord: 135, y_coord: 12
+[Symbol(x_coord=135, y_coord=12, symbol='*')]
+True
+PartNumber: 212   x_left_coord: 136, x_right_coord: 139, y_coord: 12
+[Symbol(x_coord=135, y_coord=12, symbol='*')]
+True
+PartNumber: 654   x_left_coord: 16, x_right_coord: 19, y_coord: 13
+[Symbol(x_coord=19, y_coord=13, symbol='+')]
+True
+PartNumber: 309   x_left_coord: 29, x_right_coord: 32, y_coord: 13
+[Symbol(x_coord=32, y_coord=12, symbol='@')]
+True
+PartNumber: 543   x_left_coord: 50, x_right_coord: 53, y_coord: 13
+[Symbol(x_coord=52, y_coord=14, symbol='*')]
+True
+PartNumber: 583   x_left_coord: 62, x_right_coord: 65, y_coord: 13
+[Symbol(x_coord=61, y_coord=12, symbol='*')]
+True
+PartNumber: 871   x_left_coord: 69, x_right_coord: 72, y_coord: 13
+[Symbol(x_coord=71, y_coord=12, symbol='*')]
+True
+PartNumber: 551   x_left_coord: 102, x_right_coord: 105, y_coord: 13
+[]
+False
+PartNumber: 370   x_left_coord: 108, x_right_coord: 111, y_coord: 13
+[Symbol(x_coord=107, y_coord=12, symbol='*')]
+True
+PartNumber: 492   x_left_coord: 125, x_right_coord: 128, y_coord: 13
+[Symbol(x_coord=126, y_coord=14, symbol='%')]
+True
+PartNumber: 618   x_left_coord: 2, x_right_coord: 5, y_coord: 14
+[Symbol(x_coord=5, y_coord=14, symbol='*')]
+True
+PartNumber: 60   x_left_coord: 10, x_right_coord: 12, y_coord: 14
+[Symbol(x_coord=9, y_coord=13, symbol='*')]
+True
+PartNumber: 426   x_left_coord: 37, x_right_coord: 40, y_coord: 14
+[Symbol(x_coord=36, y_coord=15, symbol='*')]
+True
+PartNumber: 645   x_left_coord: 45, x_right_coord: 48, y_coord: 14
+[Symbol(x_coord=45, y_coord=13, symbol='*')]
+True
+PartNumber: 203   x_left_coord: 73, x_right_coord: 76, y_coord: 14
+[Symbol(x_coord=77, y_coord=13, symbol='*'), Symbol(x_coord=73, y_coord=15, symbol='*')]
+True
+PartNumber: 310   x_left_coord: 78, x_right_coord: 81, y_coord: 14
+[Symbol(x_coord=77, y_coord=13, symbol='*')]
+True
+PartNumber: 166   x_left_coord: 98, x_right_coord: 101, y_coord: 14
+[Symbol(x_coord=97, y_coord=14, symbol='@')]
+True
+PartNumber: 477   x_left_coord: 112, x_right_coord: 115, y_coord: 14
+[Symbol(x_coord=114, y_coord=13, symbol='$')]
+True
+PartNumber: 150   x_left_coord: 133, x_right_coord: 136, y_coord: 14
+[Symbol(x_coord=136, y_coord=14, symbol='*')]
+True
+PartNumber: 353   x_left_coord: 6, x_right_coord: 9, y_coord: 15
+[Symbol(x_coord=5, y_coord=14, symbol='*')]
+True
+PartNumber: 381   x_left_coord: 15, x_right_coord: 18, y_coord: 15
+[]
+False
+PartNumber: 416   x_left_coord: 28, x_right_coord: 31, y_coord: 15
+[Symbol(x_coord=29, y_coord=16, symbol='*')]
+True
+PartNumber: 19   x_left_coord: 41, x_right_coord: 43, y_coord: 15
+[Symbol(x_coord=43, y_coord=14, symbol='&')]
+True
+PartNumber: 536   x_left_coord: 49, x_right_coord: 52, y_coord: 15
+[Symbol(x_coord=52, y_coord=14, symbol='*')]
+True
+PartNumber: 312   x_left_coord: 61, x_right_coord: 64, y_coord: 15
+[Symbol(x_coord=64, y_coord=16, symbol='*')]
+True
+PartNumber: 790   x_left_coord: 69, x_right_coord: 72, y_coord: 15
+[Symbol(x_coord=68, y_coord=15, symbol='/'), Symbol(x_coord=73, y_coord=15, symbol='*')]
+True
+PartNumber: 779   x_left_coord: 86, x_right_coord: 89, y_coord: 15
+[Symbol(x_coord=85, y_coord=14, symbol='$')]
+True
+PartNumber: 985   x_left_coord: 116, x_right_coord: 119, y_coord: 15
+[Symbol(x_coord=118, y_coord=14, symbol='@')]
+True
+PartNumber: 761   x_left_coord: 137, x_right_coord: 140, y_coord: 15
+[Symbol(x_coord=136, y_coord=14, symbol='*')]
+True
+PartNumber: 636   x_left_coord: 24, x_right_coord: 27, y_coord: 16
+[Symbol(x_coord=25, y_coord=17, symbol='$')]
+True
+PartNumber: 238   x_left_coord: 34, x_right_coord: 37, y_coord: 16
+[Symbol(x_coord=36, y_coord=15, symbol='*')]
+True
+PartNumber: 576   x_left_coord: 56, x_right_coord: 59, y_coord: 16
+[Symbol(x_coord=58, y_coord=15, symbol='#')]
+True
+PartNumber: 899   x_left_coord: 73, x_right_coord: 76, y_coord: 16
+[Symbol(x_coord=73, y_coord=15, symbol='*')]
+True
+PartNumber: 460   x_left_coord: 92, x_right_coord: 95, y_coord: 16
+[Symbol(x_coord=91, y_coord=15, symbol='$')]
+True
+PartNumber: 841   x_left_coord: 96, x_right_coord: 99, y_coord: 16
+[Symbol(x_coord=98, y_coord=17, symbol='-')]
+True
+PartNumber: 829   x_left_coord: 101, x_right_coord: 104, y_coord: 16
+[Symbol(x_coord=103, y_coord=15, symbol='/'), Symbol(x_coord=105, y_coord=17, symbol='*')]
+True
+PartNumber: 415   x_left_coord: 105, x_right_coord: 108, y_coord: 16
+[Symbol(x_coord=105, y_coord=17, symbol='*')]
+True
+PartNumber: 271   x_left_coord: 111, x_right_coord: 114, y_coord: 16
+[Symbol(x_coord=114, y_coord=16, symbol='*')]
+True
+PartNumber: 168   x_left_coord: 122, x_right_coord: 125, y_coord: 16
+[Symbol(x_coord=124, y_coord=17, symbol='*')]
+True
+PartNumber: 77   x_left_coord: 126, x_right_coord: 128, y_coord: 16
+[]
+False
+PartNumber: 427   x_left_coord: 10, x_right_coord: 13, y_coord: 17
+[Symbol(x_coord=11, y_coord=16, symbol='#')]
+True
+PartNumber: 75   x_left_coord: 65, x_right_coord: 67, y_coord: 17
+[Symbol(x_coord=64, y_coord=16, symbol='*')]
+True
+PartNumber: 789   x_left_coord: 81, x_right_coord: 84, y_coord: 17
+[Symbol(x_coord=82, y_coord=18, symbol='*')]
+True
+PartNumber: 942   x_left_coord: 87, x_right_coord: 90, y_coord: 17
+[Symbol(x_coord=88, y_coord=18, symbol='*')]
+True
+PartNumber: 795   x_left_coord: 115, x_right_coord: 118, y_coord: 17
+[Symbol(x_coord=114, y_coord=16, symbol='*')]
+True
+PartNumber: 73   x_left_coord: 132, x_right_coord: 134, y_coord: 17
+[Symbol(x_coord=132, y_coord=16, symbol='=')]
+True
+PartNumber: 863   x_left_coord: 4, x_right_coord: 7, y_coord: 18
+[Symbol(x_coord=3, y_coord=19, symbol='*')]
+True
+PartNumber: 920   x_left_coord: 31, x_right_coord: 34, y_coord: 18
+[Symbol(x_coord=34, y_coord=19, symbol='&')]
+True
+PartNumber: 152   x_left_coord: 45, x_right_coord: 48, y_coord: 18
+[Symbol(x_coord=44, y_coord=18, symbol='*')]
+True
+PartNumber: 852   x_left_coord: 53, x_right_coord: 56, y_coord: 18
+[Symbol(x_coord=56, y_coord=18, symbol='*')]
+True
+PartNumber: 387   x_left_coord: 57, x_right_coord: 60, y_coord: 18
+[Symbol(x_coord=56, y_coord=18, symbol='*')]
+True
+PartNumber: 990   x_left_coord: 69, x_right_coord: 72, y_coord: 18
+[]
+False
+PartNumber: 563   x_left_coord: 77, x_right_coord: 80, y_coord: 18
+[Symbol(x_coord=78, y_coord=19, symbol='&')]
+True
+PartNumber: 629   x_left_coord: 92, x_right_coord: 95, y_coord: 18
+[]
+False
+PartNumber: 772   x_left_coord: 103, x_right_coord: 106, y_coord: 18
+[Symbol(x_coord=105, y_coord=17, symbol='*')]
+True
+PartNumber: 912   x_left_coord: 110, x_right_coord: 113, y_coord: 18
+[Symbol(x_coord=109, y_coord=19, symbol='*')]
+True
+PartNumber: 283   x_left_coord: 125, x_right_coord: 128, y_coord: 18
+[Symbol(x_coord=124, y_coord=17, symbol='*')]
+True
+PartNumber: 837   x_left_coord: 0, x_right_coord: 3, y_coord: 19
+[Symbol(x_coord=3, y_coord=19, symbol='*')]
+True
+PartNumber: 897   x_left_coord: 11, x_right_coord: 14, y_coord: 19
+[Symbol(x_coord=14, y_coord=20, symbol='*')]
+True
+PartNumber: 674   x_left_coord: 21, x_right_coord: 24, y_coord: 19
+[Symbol(x_coord=23, y_coord=18, symbol='%')]
+True
+PartNumber: 966   x_left_coord: 27, x_right_coord: 30, y_coord: 19
+[Symbol(x_coord=27, y_coord=20, symbol='*')]
+True
+PartNumber: 621   x_left_coord: 37, x_right_coord: 40, y_coord: 19
+[Symbol(x_coord=36, y_coord=19, symbol='%')]
+True
+PartNumber: 77   x_left_coord: 42, x_right_coord: 44, y_coord: 19
+[Symbol(x_coord=44, y_coord=18, symbol='*')]
+True
+PartNumber: 571   x_left_coord: 81, x_right_coord: 84, y_coord: 19
+[Symbol(x_coord=82, y_coord=18, symbol='*')]
+True
+PartNumber: 272   x_left_coord: 87, x_right_coord: 90, y_coord: 19
+[Symbol(x_coord=88, y_coord=18, symbol='*')]
+True
+PartNumber: 566   x_left_coord: 99, x_right_coord: 102, y_coord: 19
+[Symbol(x_coord=99, y_coord=20, symbol='*')]
+True
+PartNumber: 16   x_left_coord: 107, x_right_coord: 109, y_coord: 19
+[Symbol(x_coord=109, y_coord=19, symbol='*')]
+True
+PartNumber: 936   x_left_coord: 115, x_right_coord: 118, y_coord: 19
+[]
+False
+PartNumber: 980   x_left_coord: 130, x_right_coord: 133, y_coord: 19
+[]
+False
+PartNumber: 424   x_left_coord: 73, x_right_coord: 76, y_coord: 20
+[Symbol(x_coord=76, y_coord=20, symbol='#')]
+True
+PartNumber: 53   x_left_coord: 96, x_right_coord: 98, y_coord: 20
+[Symbol(x_coord=99, y_coord=20, symbol='*'), Symbol(x_coord=97, y_coord=21, symbol='*')]
+True
+PartNumber: 203   x_left_coord: 122, x_right_coord: 125, y_coord: 20
+[Symbol(x_coord=123, y_coord=19, symbol='&')]
+True
+PartNumber: 826   x_left_coord: 3, x_right_coord: 6, y_coord: 21
+[Symbol(x_coord=3, y_coord=22, symbol='$')]
+True
+PartNumber: 781   x_left_coord: 7, x_right_coord: 10, y_coord: 21
+[]
+False
+PartNumber: 105   x_left_coord: 15, x_right_coord: 18, y_coord: 21
+[Symbol(x_coord=14, y_coord=20, symbol='*')]
+True
+PartNumber: 771   x_left_coord: 28, x_right_coord: 31, y_coord: 21
+[Symbol(x_coord=27, y_coord=20, symbol='*'), Symbol(x_coord=32, y_coord=20, symbol='-')]
+True
+PartNumber: 982   x_left_coord: 32, x_right_coord: 35, y_coord: 21
+[Symbol(x_coord=32, y_coord=20, symbol='-')]
+True
+PartNumber: 967   x_left_coord: 47, x_right_coord: 50, y_coord: 21
+[Symbol(x_coord=49, y_coord=22, symbol='*')]
+True
+PartNumber: 40   x_left_coord: 56, x_right_coord: 58, y_coord: 21
+[Symbol(x_coord=58, y_coord=20, symbol='*')]
+True
+PartNumber: 223   x_left_coord: 59, x_right_coord: 62, y_coord: 21
+[Symbol(x_coord=58, y_coord=20, symbol='*')]
+True
+PartNumber: 71   x_left_coord: 83, x_right_coord: 85, y_coord: 21
+[Symbol(x_coord=83, y_coord=22, symbol='*')]
+True
+PartNumber: 123   x_left_coord: 100, x_right_coord: 103, y_coord: 21
+[Symbol(x_coord=99, y_coord=20, symbol='*')]
+True
+PartNumber: 998   x_left_coord: 137, x_right_coord: 140, y_coord: 21
+[]
+False
+PartNumber: 64   x_left_coord: 20, x_right_coord: 22, y_coord: 22
+[]
+False
+PartNumber: 562   x_left_coord: 23, x_right_coord: 26, y_coord: 22
+[Symbol(x_coord=24, y_coord=21, symbol='&')]
+True
+PartNumber: 382   x_left_coord: 42, x_right_coord: 45, y_coord: 22
+[Symbol(x_coord=41, y_coord=22, symbol='/')]
+True
+PartNumber: 866   x_left_coord: 67, x_right_coord: 70, y_coord: 22
+[Symbol(x_coord=70, y_coord=22, symbol='-')]
+True
+PartNumber: 276   x_left_coord: 75, x_right_coord: 78, y_coord: 22
+[Symbol(x_coord=74, y_coord=23, symbol='$')]
+True
+PartNumber: 750   x_left_coord: 92, x_right_coord: 95, y_coord: 22
+[]
+False
+PartNumber: 975   x_left_coord: 96, x_right_coord: 99, y_coord: 22
+[Symbol(x_coord=97, y_coord=21, symbol='*')]
+True
+PartNumber: 878   x_left_coord: 110, x_right_coord: 113, y_coord: 22
+[Symbol(x_coord=112, y_coord=21, symbol='-')]
+True
+PartNumber: 156   x_left_coord: 115, x_right_coord: 118, y_coord: 22
+[Symbol(x_coord=116, y_coord=21, symbol='@')]
+True
+PartNumber: 188   x_left_coord: 128, x_right_coord: 131, y_coord: 22
+[]
+False
+PartNumber: 38   x_left_coord: 11, x_right_coord: 13, y_coord: 23
+[Symbol(x_coord=13, y_coord=23, symbol='+')]
+True
+PartNumber: 937   x_left_coord: 28, x_right_coord: 31, y_coord: 23
+[Symbol(x_coord=31, y_coord=24, symbol='+')]
+True
+PartNumber: 142   x_left_coord: 50, x_right_coord: 53, y_coord: 23
+[Symbol(x_coord=49, y_coord=22, symbol='*')]
+True
+PartNumber: 712   x_left_coord: 63, x_right_coord: 66, y_coord: 23
+[Symbol(x_coord=62, y_coord=23, symbol='*')]
+True
+PartNumber: 619   x_left_coord: 80, x_right_coord: 83, y_coord: 23
+[Symbol(x_coord=83, y_coord=22, symbol='*')]
+True
+PartNumber: 734   x_left_coord: 86, x_right_coord: 89, y_coord: 23
+[Symbol(x_coord=85, y_coord=23, symbol='*')]
+True
+PartNumber: 424   x_left_coord: 101, x_right_coord: 104, y_coord: 23
+[Symbol(x_coord=102, y_coord=24, symbol='*')]
+True
+PartNumber: 746   x_left_coord: 4, x_right_coord: 7, y_coord: 24
+[Symbol(x_coord=3, y_coord=25, symbol='*')]
+True
+PartNumber: 868   x_left_coord: 34, x_right_coord: 37, y_coord: 24
+[Symbol(x_coord=34, y_coord=25, symbol='%')]
+True
+PartNumber: 881   x_left_coord: 46, x_right_coord: 49, y_coord: 24
+[]
+False
+PartNumber: 832   x_left_coord: 110, x_right_coord: 113, y_coord: 24
+[Symbol(x_coord=113, y_coord=25, symbol='*')]
+True
+PartNumber: 649   x_left_coord: 121, x_right_coord: 124, y_coord: 24
+[Symbol(x_coord=122, y_coord=23, symbol='=')]
+True
+PartNumber: 181   x_left_coord: 135, x_right_coord: 138, y_coord: 24
+[Symbol(x_coord=135, y_coord=25, symbol='*')]
+True
+PartNumber: 637   x_left_coord: 12, x_right_coord: 15, y_coord: 25
+[Symbol(x_coord=11, y_coord=25, symbol='+')]
+True
+PartNumber: 478   x_left_coord: 18, x_right_coord: 21, y_coord: 25
+[Symbol(x_coord=17, y_coord=26, symbol='$')]
+True
+PartNumber: 628   x_left_coord: 25, x_right_coord: 28, y_coord: 25
+[Symbol(x_coord=26, y_coord=24, symbol='@')]
+True
+PartNumber: 651   x_left_coord: 40, x_right_coord: 43, y_coord: 25
+[Symbol(x_coord=39, y_coord=24, symbol='-')]
+True
+PartNumber: 399   x_left_coord: 71, x_right_coord: 74, y_coord: 25
+[Symbol(x_coord=74, y_coord=25, symbol='%')]
+True
+PartNumber: 396   x_left_coord: 77, x_right_coord: 80, y_coord: 25
+[Symbol(x_coord=76, y_coord=24, symbol='+')]
+True
+PartNumber: 293   x_left_coord: 96, x_right_coord: 99, y_coord: 25
+[Symbol(x_coord=97, y_coord=26, symbol='#')]
+True
+PartNumber: 472   x_left_coord: 100, x_right_coord: 103, y_coord: 25
+[Symbol(x_coord=102, y_coord=24, symbol='*')]
+True
+PartNumber: 960   x_left_coord: 115, x_right_coord: 118, y_coord: 25
+[Symbol(x_coord=116, y_coord=24, symbol='/')]
+True
+PartNumber: 988   x_left_coord: 128, x_right_coord: 131, y_coord: 25
+[Symbol(x_coord=127, y_coord=24, symbol='-')]
+True
+PartNumber: 693   x_left_coord: 4, x_right_coord: 7, y_coord: 26
+[Symbol(x_coord=3, y_coord=25, symbol='*')]
+True
+PartNumber: 711   x_left_coord: 44, x_right_coord: 47, y_coord: 26
+[]
+False
+PartNumber: 99   x_left_coord: 48, x_right_coord: 50, y_coord: 26
+[Symbol(x_coord=49, y_coord=27, symbol='*')]
+True
+PartNumber: 489   x_left_coord: 51, x_right_coord: 54, y_coord: 26
+[]
+False
+PartNumber: 878   x_left_coord: 55, x_right_coord: 58, y_coord: 26
+[Symbol(x_coord=57, y_coord=27, symbol='&')]
+True
+PartNumber: 541   x_left_coord: 62, x_right_coord: 65, y_coord: 26
+[Symbol(x_coord=65, y_coord=25, symbol='/')]
+True
+PartNumber: 565   x_left_coord: 92, x_right_coord: 95, y_coord: 26
+[Symbol(x_coord=93, y_coord=25, symbol='&')]
+True
+PartNumber: 32   x_left_coord: 107, x_right_coord: 109, y_coord: 26
+[Symbol(x_coord=108, y_coord=27, symbol='%')]
+True
+PartNumber: 710   x_left_coord: 111, x_right_coord: 114, y_coord: 26
+[Symbol(x_coord=113, y_coord=25, symbol='*')]
+True
+PartNumber: 499   x_left_coord: 120, x_right_coord: 123, y_coord: 26
+[]
+False
+PartNumber: 888   x_left_coord: 135, x_right_coord: 138, y_coord: 26
+[Symbol(x_coord=135, y_coord=25, symbol='*')]
+True
+PartNumber: 681   x_left_coord: 20, x_right_coord: 23, y_coord: 27
+[]
+False
+PartNumber: 59   x_left_coord: 24, x_right_coord: 26, y_coord: 27
+[Symbol(x_coord=26, y_coord=28, symbol='*')]
+True
+PartNumber: 442   x_left_coord: 27, x_right_coord: 30, y_coord: 27
+[Symbol(x_coord=26, y_coord=28, symbol='*')]
+True
+PartNumber: 368   x_left_coord: 35, x_right_coord: 38, y_coord: 27
+[Symbol(x_coord=36, y_coord=26, symbol='-'), Symbol(x_coord=39, y_coord=27, symbol='%')]
+True
+PartNumber: 974   x_left_coord: 84, x_right_coord: 87, y_coord: 27
+[Symbol(x_coord=86, y_coord=28, symbol='*')]
+True
+PartNumber: 677   x_left_coord: 0, x_right_coord: 3, y_coord: 28
+[]
+False
+PartNumber: 924   x_left_coord: 7, x_right_coord: 10, y_coord: 28
+[]
+False
+PartNumber: 797   x_left_coord: 16, x_right_coord: 19, y_coord: 28
+[]
+False
+PartNumber: 964   x_left_coord: 39, x_right_coord: 42, y_coord: 28
+[Symbol(x_coord=39, y_coord=27, symbol='%')]
+True
+PartNumber: 666   x_left_coord: 48, x_right_coord: 51, y_coord: 28
+[Symbol(x_coord=49, y_coord=27, symbol='*')]
+True
+PartNumber: 89   x_left_coord: 68, x_right_coord: 70, y_coord: 28
+[]
+False
+PartNumber: 309   x_left_coord: 76, x_right_coord: 79, y_coord: 28
+[Symbol(x_coord=77, y_coord=29, symbol='$')]
+True
+PartNumber: 324   x_left_coord: 96, x_right_coord: 99, y_coord: 28
+[Symbol(x_coord=99, y_coord=27, symbol='*')]
+True
+PartNumber: 179   x_left_coord: 100, x_right_coord: 103, y_coord: 28
+[Symbol(x_coord=99, y_coord=27, symbol='*')]
+True
+PartNumber: 437   x_left_coord: 113, x_right_coord: 116, y_coord: 28
+[Symbol(x_coord=113, y_coord=29, symbol='*')]
+True
+PartNumber: 235   x_left_coord: 123, x_right_coord: 126, y_coord: 28
+[Symbol(x_coord=126, y_coord=29, symbol='*')]
+True
+PartNumber: 321   x_left_coord: 127, x_right_coord: 130, y_coord: 28
+[Symbol(x_coord=126, y_coord=29, symbol='*')]
+True
+PartNumber: 678   x_left_coord: 133, x_right_coord: 136, y_coord: 28
+[Symbol(x_coord=135, y_coord=29, symbol='*')]
+True
+PartNumber: 5   x_left_coord: 30, x_right_coord: 31, y_coord: 29
+[Symbol(x_coord=29, y_coord=30, symbol='*')]
+True
+PartNumber: 23   x_left_coord: 61, x_right_coord: 63, y_coord: 29
+[Symbol(x_coord=60, y_coord=30, symbol='*')]
+True
+PartNumber: 328   x_left_coord: 87, x_right_coord: 90, y_coord: 29
+[Symbol(x_coord=86, y_coord=28, symbol='*')]
+True
+PartNumber: 564   x_left_coord: 92, x_right_coord: 95, y_coord: 29
+[]
+False
+PartNumber: 392   x_left_coord: 104, x_right_coord: 107, y_coord: 29
+[Symbol(x_coord=103, y_coord=30, symbol='*'), Symbol(x_coord=108, y_coord=30, symbol='%')]
+True
+PartNumber: 298   x_left_coord: 3, x_right_coord: 6, y_coord: 30
+[]
+False
+PartNumber: 811   x_left_coord: 12, x_right_coord: 15, y_coord: 30
+[Symbol(x_coord=12, y_coord=29, symbol='+')]
+True
+PartNumber: 976   x_left_coord: 24, x_right_coord: 27, y_coord: 30
+[Symbol(x_coord=23, y_coord=29, symbol='$')]
+True
+PartNumber: 400   x_left_coord: 47, x_right_coord: 50, y_coord: 30
+[Symbol(x_coord=46, y_coord=29, symbol='$')]
+True
+PartNumber: 140   x_left_coord: 53, x_right_coord: 56, y_coord: 30
+[Symbol(x_coord=54, y_coord=29, symbol='/')]
+True
+PartNumber: 893   x_left_coord: 68, x_right_coord: 71, y_coord: 30
+[Symbol(x_coord=67, y_coord=31, symbol='*')]
+True
+PartNumber: 682   x_left_coord: 110, x_right_coord: 113, y_coord: 30
+[Symbol(x_coord=113, y_coord=29, symbol='*')]
+True
+PartNumber: 345   x_left_coord: 118, x_right_coord: 121, y_coord: 30
+[Symbol(x_coord=120, y_coord=31, symbol='*')]
+True
+PartNumber: 726   x_left_coord: 134, x_right_coord: 137, y_coord: 30
+[Symbol(x_coord=135, y_coord=29, symbol='*')]
+True
+PartNumber: 570   x_left_coord: 30, x_right_coord: 33, y_coord: 31
+[Symbol(x_coord=29, y_coord=30, symbol='*'), Symbol(x_coord=34, y_coord=32, symbol='#')]
+True
+PartNumber: 839   x_left_coord: 34, x_right_coord: 37, y_coord: 31
+[Symbol(x_coord=34, y_coord=32, symbol='#')]
+True
+PartNumber: 828   x_left_coord: 59, x_right_coord: 62, y_coord: 31
+[Symbol(x_coord=60, y_coord=30, symbol='*')]
+True
+PartNumber: 59   x_left_coord: 81, x_right_coord: 83, y_coord: 31
+[Symbol(x_coord=80, y_coord=32, symbol='*')]
+True
+PartNumber: 373   x_left_coord: 87, x_right_coord: 90, y_coord: 31
+[Symbol(x_coord=88, y_coord=32, symbol='+')]
+True
+PartNumber: 558   x_left_coord: 101, x_right_coord: 104, y_coord: 31
+[Symbol(x_coord=103, y_coord=30, symbol='*')]
+True
+PartNumber: 271   x_left_coord: 106, x_right_coord: 109, y_coord: 31
+[Symbol(x_coord=108, y_coord=30, symbol='%')]
+True
+PartNumber: 751   x_left_coord: 128, x_right_coord: 131, y_coord: 31
+[Symbol(x_coord=127, y_coord=31, symbol='*')]
+True
+PartNumber: 570   x_left_coord: 5, x_right_coord: 8, y_coord: 32
+[Symbol(x_coord=8, y_coord=33, symbol='&')]
+True
+PartNumber: 353   x_left_coord: 19, x_right_coord: 22, y_coord: 32
+[Symbol(x_coord=22, y_coord=32, symbol='*')]
+True
+PartNumber: 674   x_left_coord: 23, x_right_coord: 26, y_coord: 32
+[Symbol(x_coord=22, y_coord=32, symbol='*')]
+True
+PartNumber: 636   x_left_coord: 39, x_right_coord: 42, y_coord: 32
+[]
+False
+PartNumber: 659   x_left_coord: 50, x_right_coord: 53, y_coord: 32
+[]
+False
+PartNumber: 647   x_left_coord: 67, x_right_coord: 70, y_coord: 32
+[Symbol(x_coord=67, y_coord=31, symbol='*')]
+True
+PartNumber: 226   x_left_coord: 75, x_right_coord: 78, y_coord: 32
+[Symbol(x_coord=74, y_coord=31, symbol='-')]
+True
+PartNumber: 684   x_left_coord: 95, x_right_coord: 98, y_coord: 32
+[Symbol(x_coord=97, y_coord=31, symbol='%')]
+True
+PartNumber: 139   x_left_coord: 113, x_right_coord: 116, y_coord: 32
+[Symbol(x_coord=114, y_coord=33, symbol='+')]
+True
+PartNumber: 290   x_left_coord: 119, x_right_coord: 122, y_coord: 32
+[Symbol(x_coord=120, y_coord=31, symbol='*')]
+True
+PartNumber: 401   x_left_coord: 124, x_right_coord: 127, y_coord: 32
+[Symbol(x_coord=127, y_coord=31, symbol='*')]
+True
+PartNumber: 290   x_left_coord: 135, x_right_coord: 138, y_coord: 32
+[Symbol(x_coord=135, y_coord=33, symbol='*')]
+True
+PartNumber: 231   x_left_coord: 27, x_right_coord: 30, y_coord: 33
+[]
+False
+PartNumber: 80   x_left_coord: 45, x_right_coord: 47, y_coord: 33
+[]
+False
+PartNumber: 112   x_left_coord: 58, x_right_coord: 61, y_coord: 33
+[Symbol(x_coord=57, y_coord=33, symbol='@')]
+True
+PartNumber: 892   x_left_coord: 81, x_right_coord: 84, y_coord: 33
+[Symbol(x_coord=80, y_coord=32, symbol='*')]
+True
+PartNumber: 605   x_left_coord: 90, x_right_coord: 93, y_coord: 33
+[Symbol(x_coord=89, y_coord=34, symbol='*')]
+True
+PartNumber: 247   x_left_coord: 108, x_right_coord: 111, y_coord: 33
+[Symbol(x_coord=112, y_coord=34, symbol='@')]
+True
+PartNumber: 165   x_left_coord: 0, x_right_coord: 3, y_coord: 34
+[]
+False
+PartNumber: 329   x_left_coord: 12, x_right_coord: 15, y_coord: 34
+[Symbol(x_coord=11, y_coord=34, symbol='*')]
+True
+PartNumber: 94   x_left_coord: 17, x_right_coord: 19, y_coord: 34
+[Symbol(x_coord=19, y_coord=34, symbol='*')]
+True
+PartNumber: 254   x_left_coord: 20, x_right_coord: 23, y_coord: 34
+[Symbol(x_coord=19, y_coord=34, symbol='*')]
+True
+PartNumber: 115   x_left_coord: 33, x_right_coord: 36, y_coord: 34
+[Symbol(x_coord=35, y_coord=35, symbol='$')]
+True
+PartNumber: 938   x_left_coord: 51, x_right_coord: 54, y_coord: 34
+[Symbol(x_coord=50, y_coord=35, symbol='*')]
+True
+PartNumber: 192   x_left_coord: 71, x_right_coord: 74, y_coord: 34
+[Symbol(x_coord=71, y_coord=35, symbol='*')]
+True
+PartNumber: 58   x_left_coord: 97, x_right_coord: 99, y_coord: 34
+[Symbol(x_coord=96, y_coord=34, symbol='$')]
+True
+PartNumber: 786   x_left_coord: 119, x_right_coord: 122, y_coord: 34
+[Symbol(x_coord=119, y_coord=35, symbol='$')]
+True
+PartNumber: 328   x_left_coord: 127, x_right_coord: 130, y_coord: 34
+[Symbol(x_coord=131, y_coord=33, symbol='$'), Symbol(x_coord=130, y_coord=35, symbol='*')]
+True
+PartNumber: 59   x_left_coord: 132, x_right_coord: 134, y_coord: 34
+[Symbol(x_coord=131, y_coord=33, symbol='$'), Symbol(x_coord=135, y_coord=33, symbol='*')]
+True
+PartNumber: 285   x_left_coord: 136, x_right_coord: 139, y_coord: 34
+[Symbol(x_coord=135, y_coord=33, symbol='*')]
+True
+PartNumber: 98   x_left_coord: 9, x_right_coord: 11, y_coord: 35
+[Symbol(x_coord=11, y_coord=34, symbol='*')]
+True
+PartNumber: 895   x_left_coord: 41, x_right_coord: 44, y_coord: 35
+[Symbol(x_coord=40, y_coord=36, symbol='*')]
+True
+PartNumber: 459   x_left_coord: 66, x_right_coord: 69, y_coord: 35
+[Symbol(x_coord=66, y_coord=36, symbol='*')]
+True
+PartNumber: 399   x_left_coord: 87, x_right_coord: 90, y_coord: 35
+[Symbol(x_coord=89, y_coord=34, symbol='*')]
+True
+PartNumber: 641   x_left_coord: 92, x_right_coord: 95, y_coord: 35
+[Symbol(x_coord=96, y_coord=34, symbol='$'), Symbol(x_coord=93, y_coord=36, symbol='@')]
+True
+PartNumber: 285   x_left_coord: 113, x_right_coord: 116, y_coord: 35
+[Symbol(x_coord=112, y_coord=34, symbol='@')]
+True
+PartNumber: 455   x_left_coord: 18, x_right_coord: 21, y_coord: 36
+[Symbol(x_coord=21, y_coord=36, symbol='*')]
+True
+PartNumber: 429   x_left_coord: 22, x_right_coord: 25, y_coord: 36
+[Symbol(x_coord=21, y_coord=36, symbol='*')]
+True
+PartNumber: 794   x_left_coord: 37, x_right_coord: 40, y_coord: 36
+[Symbol(x_coord=40, y_coord=36, symbol='*')]
+True
+PartNumber: 512   x_left_coord: 62, x_right_coord: 65, y_coord: 36
+[Symbol(x_coord=66, y_coord=36, symbol='*'), Symbol(x_coord=63, y_coord=37, symbol='*')]
+True
+PartNumber: 770   x_left_coord: 71, x_right_coord: 74, y_coord: 36
+[Symbol(x_coord=71, y_coord=35, symbol='*')]
+True
+PartNumber: 448   x_left_coord: 79, x_right_coord: 82, y_coord: 36
+[]
+False
+PartNumber: 336   x_left_coord: 129, x_right_coord: 132, y_coord: 36
+[Symbol(x_coord=130, y_coord=35, symbol='*')]
+True
+PartNumber: 175   x_left_coord: 133, x_right_coord: 136, y_coord: 36
+[Symbol(x_coord=136, y_coord=37, symbol='#')]
+True
+PartNumber: 277   x_left_coord: 13, x_right_coord: 16, y_coord: 37
+[Symbol(x_coord=15, y_coord=36, symbol='/')]
+True
+PartNumber: 763   x_left_coord: 48, x_right_coord: 51, y_coord: 37
+[Symbol(x_coord=49, y_coord=38, symbol='*')]
+True
+PartNumber: 254   x_left_coord: 66, x_right_coord: 69, y_coord: 37
+[Symbol(x_coord=66, y_coord=36, symbol='*')]
+True
+PartNumber: 143   x_left_coord: 95, x_right_coord: 98, y_coord: 37
+[Symbol(x_coord=98, y_coord=38, symbol='%')]
+True
+PartNumber: 495   x_left_coord: 101, x_right_coord: 104, y_coord: 37
+[Symbol(x_coord=104, y_coord=38, symbol='*')]
+True
+PartNumber: 676   x_left_coord: 114, x_right_coord: 117, y_coord: 37
+[Symbol(x_coord=116, y_coord=38, symbol='*')]
+True
+PartNumber: 272   x_left_coord: 7, x_right_coord: 10, y_coord: 38
+[Symbol(x_coord=6, y_coord=37, symbol='#')]
+True
+PartNumber: 711   x_left_coord: 38, x_right_coord: 41, y_coord: 38
+[]
+False
+PartNumber: 911   x_left_coord: 43, x_right_coord: 46, y_coord: 38
+[]
+False
+PartNumber: 614   x_left_coord: 55, x_right_coord: 58, y_coord: 38
+[Symbol(x_coord=55, y_coord=39, symbol='*')]
+True
+PartNumber: 516   x_left_coord: 60, x_right_coord: 63, y_coord: 38
+[Symbol(x_coord=63, y_coord=37, symbol='*')]
+True
+PartNumber: 747   x_left_coord: 75, x_right_coord: 78, y_coord: 38
+[Symbol(x_coord=78, y_coord=39, symbol='*')]
+True
+PartNumber: 389   x_left_coord: 79, x_right_coord: 82, y_coord: 38
+[Symbol(x_coord=78, y_coord=39, symbol='*')]
+True
+PartNumber: 803   x_left_coord: 87, x_right_coord: 90, y_coord: 38
+[Symbol(x_coord=90, y_coord=37, symbol='*'), Symbol(x_coord=91, y_coord=39, symbol='$')]
+True
+PartNumber: 832   x_left_coord: 106, x_right_coord: 109, y_coord: 38
+[Symbol(x_coord=106, y_coord=37, symbol='$')]
+True
+PartNumber: 905   x_left_coord: 121, x_right_coord: 124, y_coord: 38
+[Symbol(x_coord=121, y_coord=39, symbol='%')]
+True
+PartNumber: 576   x_left_coord: 128, x_right_coord: 131, y_coord: 38
+[Symbol(x_coord=127, y_coord=39, symbol='*')]
+True
+PartNumber: 625   x_left_coord: 0, x_right_coord: 3, y_coord: 39
+[]
+False
+PartNumber: 595   x_left_coord: 20, x_right_coord: 23, y_coord: 39
+[Symbol(x_coord=19, y_coord=38, symbol='-')]
+True
+PartNumber: 989   x_left_coord: 29, x_right_coord: 32, y_coord: 39
+[]
+False
+PartNumber: 291   x_left_coord: 47, x_right_coord: 50, y_coord: 39
+[Symbol(x_coord=49, y_coord=38, symbol='*')]
+True
+PartNumber: 201   x_left_coord: 94, x_right_coord: 97, y_coord: 39
+[Symbol(x_coord=98, y_coord=38, symbol='%')]
+True
+PartNumber: 528   x_left_coord: 110, x_right_coord: 113, y_coord: 39
+[Symbol(x_coord=109, y_coord=40, symbol='%')]
+True
+PartNumber: 722   x_left_coord: 114, x_right_coord: 117, y_coord: 39
+[Symbol(x_coord=116, y_coord=38, symbol='*')]
+True
+PartNumber: 896   x_left_coord: 134, x_right_coord: 137, y_coord: 39
+[Symbol(x_coord=133, y_coord=38, symbol='#')]
+True
+PartNumber: 342   x_left_coord: 4, x_right_coord: 7, y_coord: 40
+[Symbol(x_coord=3, y_coord=41, symbol='#')]
+True
+PartNumber: 569   x_left_coord: 51, x_right_coord: 54, y_coord: 40
+[Symbol(x_coord=55, y_coord=39, symbol='*'), Symbol(x_coord=50, y_coord=41, symbol='@')]
+True
+PartNumber: 486   x_left_coord: 56, x_right_coord: 59, y_coord: 40
+[Symbol(x_coord=55, y_coord=39, symbol='*')]
+True
+PartNumber: 278   x_left_coord: 69, x_right_coord: 72, y_coord: 40
+[Symbol(x_coord=72, y_coord=39, symbol='*')]
+True
+PartNumber: 184   x_left_coord: 73, x_right_coord: 76, y_coord: 40
+[Symbol(x_coord=72, y_coord=39, symbol='*')]
+True
+PartNumber: 259   x_left_coord: 85, x_right_coord: 88, y_coord: 40
+[Symbol(x_coord=85, y_coord=41, symbol='*')]
+True
+PartNumber: 107   x_left_coord: 90, x_right_coord: 93, y_coord: 40
+[Symbol(x_coord=91, y_coord=39, symbol='$')]
+True
+PartNumber: 749   x_left_coord: 127, x_right_coord: 130, y_coord: 40
+[Symbol(x_coord=127, y_coord=39, symbol='*')]
+True
+PartNumber: 851   x_left_coord: 22, x_right_coord: 25, y_coord: 41
+[Symbol(x_coord=22, y_coord=42, symbol='#')]
+True
+PartNumber: 16   x_left_coord: 32, x_right_coord: 34, y_coord: 41
+[Symbol(x_coord=32, y_coord=42, symbol='@')]
+True
+PartNumber: 436   x_left_coord: 36, x_right_coord: 39, y_coord: 41
+[Symbol(x_coord=39, y_coord=41, symbol='*')]
+True
+PartNumber: 910   x_left_coord: 40, x_right_coord: 43, y_coord: 41
+[Symbol(x_coord=39, y_coord=41, symbol='*')]
+True
+PartNumber: 338   x_left_coord: 65, x_right_coord: 68, y_coord: 41
+[Symbol(x_coord=66, y_coord=40, symbol='@')]
+True
+PartNumber: 989   x_left_coord: 79, x_right_coord: 82, y_coord: 41
+[Symbol(x_coord=82, y_coord=42, symbol='-')]
+True
+PartNumber: 367   x_left_coord: 98, x_right_coord: 101, y_coord: 41
+[Symbol(x_coord=100, y_coord=42, symbol='%')]
+True
+PartNumber: 867   x_left_coord: 102, x_right_coord: 105, y_coord: 41
+[Symbol(x_coord=105, y_coord=42, symbol='*')]
+True
+PartNumber: 918   x_left_coord: 120, x_right_coord: 123, y_coord: 41
+[Symbol(x_coord=119, y_coord=42, symbol='*')]
+True
+PartNumber: 106   x_left_coord: 17, x_right_coord: 20, y_coord: 42
+[Symbol(x_coord=18, y_coord=43, symbol='+')]
+True
+PartNumber: 99   x_left_coord: 86, x_right_coord: 88, y_coord: 42
+[Symbol(x_coord=85, y_coord=41, symbol='*')]
+True
+PartNumber: 38   x_left_coord: 94, x_right_coord: 96, y_coord: 42
+[Symbol(x_coord=96, y_coord=41, symbol='+')]
+True
+PartNumber: 18   x_left_coord: 107, x_right_coord: 109, y_coord: 42
+[Symbol(x_coord=109, y_coord=42, symbol='&')]
+True
+PartNumber: 550   x_left_coord: 114, x_right_coord: 117, y_coord: 42
+[Symbol(x_coord=117, y_coord=41, symbol='=')]
+True
+PartNumber: 250   x_left_coord: 130, x_right_coord: 133, y_coord: 42
+[]
+False
+PartNumber: 732   x_left_coord: 45, x_right_coord: 48, y_coord: 43
+[Symbol(x_coord=44, y_coord=43, symbol='&')]
+True
+PartNumber: 53   x_left_coord: 52, x_right_coord: 54, y_coord: 43
+[Symbol(x_coord=51, y_coord=44, symbol='*')]
+True
+PartNumber: 258   x_left_coord: 58, x_right_coord: 61, y_coord: 43
+[Symbol(x_coord=60, y_coord=42, symbol='@')]
+True
+PartNumber: 850   x_left_coord: 65, x_right_coord: 68, y_coord: 43
+[Symbol(x_coord=67, y_coord=44, symbol='*')]
+True
+PartNumber: 306   x_left_coord: 102, x_right_coord: 105, y_coord: 43
+[Symbol(x_coord=105, y_coord=42, symbol='*')]
+True
+PartNumber: 539   x_left_coord: 118, x_right_coord: 121, y_coord: 43
+[Symbol(x_coord=119, y_coord=42, symbol='*')]
+True
+PartNumber: 658   x_left_coord: 0, x_right_coord: 3, y_coord: 44
+[Symbol(x_coord=3, y_coord=44, symbol='*')]
+True
+PartNumber: 869   x_left_coord: 4, x_right_coord: 7, y_coord: 44
+[Symbol(x_coord=3, y_coord=44, symbol='*')]
+True
+PartNumber: 684   x_left_coord: 21, x_right_coord: 24, y_coord: 44
+[Symbol(x_coord=24, y_coord=44, symbol='*')]
+True
+PartNumber: 636   x_left_coord: 25, x_right_coord: 28, y_coord: 44
+[Symbol(x_coord=24, y_coord=44, symbol='*')]
+True
+PartNumber: 422   x_left_coord: 32, x_right_coord: 35, y_coord: 44
+[]
+False
+PartNumber: 686   x_left_coord: 36, x_right_coord: 39, y_coord: 44
+[]
+False
+PartNumber: 955   x_left_coord: 71, x_right_coord: 74, y_coord: 44
+[]
+False
+PartNumber: 313   x_left_coord: 125, x_right_coord: 128, y_coord: 44
+[Symbol(x_coord=125, y_coord=43, symbol='@')]
+True
+PartNumber: 604   x_left_coord: 13, x_right_coord: 16, y_coord: 45
+[Symbol(x_coord=12, y_coord=46, symbol='*')]
+True
+PartNumber: 954   x_left_coord: 45, x_right_coord: 48, y_coord: 45
+[Symbol(x_coord=45, y_coord=46, symbol='@')]
+True
+PartNumber: 357   x_left_coord: 52, x_right_coord: 55, y_coord: 45
+[Symbol(x_coord=51, y_coord=44, symbol='*'), Symbol(x_coord=56, y_coord=46, symbol='=')]
+True
+PartNumber: 458   x_left_coord: 64, x_right_coord: 67, y_coord: 45
+[Symbol(x_coord=67, y_coord=44, symbol='*')]
+True
+PartNumber: 168   x_left_coord: 85, x_right_coord: 88, y_coord: 45
+[Symbol(x_coord=88, y_coord=44, symbol='*')]
+True
+PartNumber: 310   x_left_coord: 89, x_right_coord: 92, y_coord: 45
+[Symbol(x_coord=88, y_coord=44, symbol='*')]
+True
+PartNumber: 698   x_left_coord: 99, x_right_coord: 102, y_coord: 45
+[]
+False
+PartNumber: 435   x_left_coord: 114, x_right_coord: 117, y_coord: 45
+[Symbol(x_coord=113, y_coord=44, symbol='/')]
+True
+PartNumber: 394   x_left_coord: 130, x_right_coord: 133, y_coord: 45
+[Symbol(x_coord=133, y_coord=44, symbol='$')]
+True
+PartNumber: 109   x_left_coord: 5, x_right_coord: 8, y_coord: 46
+[Symbol(x_coord=6, y_coord=47, symbol='*')]
+True
+PartNumber: 163   x_left_coord: 22, x_right_coord: 25, y_coord: 46
+[Symbol(x_coord=23, y_coord=47, symbol='#')]
+True
+PartNumber: 962   x_left_coord: 36, x_right_coord: 39, y_coord: 46
+[Symbol(x_coord=39, y_coord=46, symbol='$')]
+True
+PartNumber: 876   x_left_coord: 75, x_right_coord: 78, y_coord: 46
+[Symbol(x_coord=78, y_coord=46, symbol='*')]
+True
+PartNumber: 230   x_left_coord: 103, x_right_coord: 106, y_coord: 46
+[Symbol(x_coord=102, y_coord=47, symbol='%'), Symbol(x_coord=107, y_coord=47, symbol='*')]
+True
+PartNumber: 125   x_left_coord: 108, x_right_coord: 111, y_coord: 46
+[Symbol(x_coord=107, y_coord=47, symbol='*')]
+True
+PartNumber: 24   x_left_coord: 122, x_right_coord: 124, y_coord: 46
+[Symbol(x_coord=123, y_coord=45, symbol='%'), Symbol(x_coord=125, y_coord=47, symbol='*')]
+True
+PartNumber: 972   x_left_coord: 126, x_right_coord: 129, y_coord: 46
+[Symbol(x_coord=125, y_coord=47, symbol='*')]
+True
+PartNumber: 641   x_left_coord: 134, x_right_coord: 137, y_coord: 46
+[]
+False
+PartNumber: 312   x_left_coord: 10, x_right_coord: 13, y_coord: 47
+[Symbol(x_coord=12, y_coord=46, symbol='*')]
+True
+PartNumber: 914   x_left_coord: 49, x_right_coord: 52, y_coord: 47
+[Symbol(x_coord=48, y_coord=47, symbol='*')]
+True
+PartNumber: 740   x_left_coord: 56, x_right_coord: 59, y_coord: 47
+[Symbol(x_coord=56, y_coord=46, symbol='=')]
+True
+PartNumber: 466   x_left_coord: 63, x_right_coord: 66, y_coord: 47
+[Symbol(x_coord=66, y_coord=47, symbol='*')]
+True
+PartNumber: 374   x_left_coord: 79, x_right_coord: 82, y_coord: 47
+[Symbol(x_coord=78, y_coord=46, symbol='*')]
+True
+PartNumber: 46   x_left_coord: 119, x_right_coord: 121, y_coord: 47
+[Symbol(x_coord=121, y_coord=48, symbol='*')]
+True
+PartNumber: 60   x_left_coord: 131, x_right_coord: 133, y_coord: 47
+[]
+False
+PartNumber: 422   x_left_coord: 3, x_right_coord: 6, y_coord: 48
+[Symbol(x_coord=6, y_coord=47, symbol='*')]
+True
+PartNumber: 804   x_left_coord: 18, x_right_coord: 21, y_coord: 48
+[Symbol(x_coord=21, y_coord=49, symbol='*')]
+True
+PartNumber: 589   x_left_coord: 45, x_right_coord: 48, y_coord: 48
+[Symbol(x_coord=48, y_coord=47, symbol='*')]
+True
+PartNumber: 500   x_left_coord: 67, x_right_coord: 70, y_coord: 48
+[Symbol(x_coord=66, y_coord=47, symbol='*')]
+True
+PartNumber: 958   x_left_coord: 72, x_right_coord: 75, y_coord: 48
+[Symbol(x_coord=75, y_coord=49, symbol='=')]
+True
+PartNumber: 21   x_left_coord: 88, x_right_coord: 90, y_coord: 48
+[]
+False
+PartNumber: 301   x_left_coord: 92, x_right_coord: 95, y_coord: 48
+[Symbol(x_coord=95, y_coord=47, symbol='+')]
+True
+PartNumber: 889   x_left_coord: 106, x_right_coord: 109, y_coord: 48
+[Symbol(x_coord=107, y_coord=47, symbol='*')]
+True
+PartNumber: 717   x_left_coord: 124, x_right_coord: 127, y_coord: 48
+[Symbol(x_coord=125, y_coord=47, symbol='*')]
+True
+PartNumber: 474   x_left_coord: 10, x_right_coord: 13, y_coord: 49
+[Symbol(x_coord=12, y_coord=50, symbol='*')]
+True
+PartNumber: 302   x_left_coord: 25, x_right_coord: 28, y_coord: 49
+[Symbol(x_coord=27, y_coord=48, symbol='$'), Symbol(x_coord=29, y_coord=48, symbol='@')]
+True
+PartNumber: 475   x_left_coord: 29, x_right_coord: 32, y_coord: 49
+[Symbol(x_coord=29, y_coord=48, symbol='@')]
+True
+PartNumber: 155   x_left_coord: 33, x_right_coord: 36, y_coord: 49
+[Symbol(x_coord=36, y_coord=48, symbol='%')]
+True
+PartNumber: 665   x_left_coord: 49, x_right_coord: 52, y_coord: 49
+[]
+False
+PartNumber: 800   x_left_coord: 54, x_right_coord: 57, y_coord: 49
+[]
+False
+PartNumber: 46   x_left_coord: 59, x_right_coord: 61, y_coord: 49
+[]
+False
+PartNumber: 19   x_left_coord: 111, x_right_coord: 113, y_coord: 49
+[Symbol(x_coord=110, y_coord=50, symbol='*')]
+True
+PartNumber: 902   x_left_coord: 119, x_right_coord: 122, y_coord: 49
+[Symbol(x_coord=121, y_coord=48, symbol='*')]
+True
+PartNumber: 936   x_left_coord: 130, x_right_coord: 133, y_coord: 49
+[Symbol(x_coord=129, y_coord=50, symbol='*')]
+True
+PartNumber: 887   x_left_coord: 136, x_right_coord: 139, y_coord: 49
+[]
+False
+PartNumber: 754   x_left_coord: 14, x_right_coord: 17, y_coord: 50
+[Symbol(x_coord=15, y_coord=49, symbol='=')]
+True
+PartNumber: 831   x_left_coord: 20, x_right_coord: 23, y_coord: 50
+[Symbol(x_coord=21, y_coord=49, symbol='*')]
+True
+PartNumber: 8   x_left_coord: 38, x_right_coord: 39, y_coord: 50
+[Symbol(x_coord=39, y_coord=50, symbol='@')]
+True
+PartNumber: 110   x_left_coord: 70, x_right_coord: 73, y_coord: 50
+[]
+False
+PartNumber: 554   x_left_coord: 78, x_right_coord: 81, y_coord: 50
+[Symbol(x_coord=78, y_coord=51, symbol='*')]
+True
+PartNumber: 732   x_left_coord: 91, x_right_coord: 94, y_coord: 50
+[]
+False
+PartNumber: 913   x_left_coord: 98, x_right_coord: 101, y_coord: 50
+[Symbol(x_coord=97, y_coord=50, symbol='='), Symbol(x_coord=102, y_coord=51, symbol='@')]
+True
+PartNumber: 456   x_left_coord: 0, x_right_coord: 3, y_coord: 51
+[]
+False
+PartNumber: 211   x_left_coord: 9, x_right_coord: 12, y_coord: 51
+[Symbol(x_coord=12, y_coord=50, symbol='*')]
+True
+PartNumber: 562   x_left_coord: 29, x_right_coord: 32, y_coord: 51
+[Symbol(x_coord=29, y_coord=52, symbol='+')]
+True
+PartNumber: 183   x_left_coord: 41, x_right_coord: 44, y_coord: 51
+[Symbol(x_coord=41, y_coord=50, symbol='@')]
+True
+PartNumber: 839   x_left_coord: 84, x_right_coord: 87, y_coord: 51
+[Symbol(x_coord=85, y_coord=52, symbol='*')]
+True
+PartNumber: 500   x_left_coord: 106, x_right_coord: 109, y_coord: 51
+[Symbol(x_coord=110, y_coord=50, symbol='*'), Symbol(x_coord=105, y_coord=52, symbol='*')]
+True
+PartNumber: 739   x_left_coord: 110, x_right_coord: 113, y_coord: 51
+[Symbol(x_coord=110, y_coord=50, symbol='*')]
+True
+PartNumber: 962   x_left_coord: 115, x_right_coord: 118, y_coord: 51
+[Symbol(x_coord=116, y_coord=50, symbol='$')]
+True
+PartNumber: 105   x_left_coord: 123, x_right_coord: 126, y_coord: 51
+[Symbol(x_coord=122, y_coord=52, symbol='*')]
+True
+PartNumber: 528   x_left_coord: 129, x_right_coord: 132, y_coord: 51
+[Symbol(x_coord=129, y_coord=50, symbol='*')]
+True
+PartNumber: 794   x_left_coord: 15, x_right_coord: 18, y_coord: 52
+[Symbol(x_coord=18, y_coord=53, symbol='*')]
+True
+PartNumber: 882   x_left_coord: 19, x_right_coord: 22, y_coord: 52
+[Symbol(x_coord=18, y_coord=53, symbol='*')]
+True
+PartNumber: 833   x_left_coord: 46, x_right_coord: 49, y_coord: 52
+[]
+False
+PartNumber: 595   x_left_coord: 61, x_right_coord: 64, y_coord: 52
+[]
+False
+PartNumber: 704   x_left_coord: 68, x_right_coord: 71, y_coord: 52
+[Symbol(x_coord=68, y_coord=51, symbol='@')]
+True
+PartNumber: 693   x_left_coord: 72, x_right_coord: 75, y_coord: 52
+[Symbol(x_coord=75, y_coord=51, symbol='+')]
+True
+PartNumber: 81   x_left_coord: 100, x_right_coord: 102, y_coord: 52
+[Symbol(x_coord=102, y_coord=51, symbol='@')]
+True
+PartNumber: 571   x_left_coord: 119, x_right_coord: 122, y_coord: 52
+[Symbol(x_coord=122, y_coord=52, symbol='*')]
+True
+PartNumber: 727   x_left_coord: 135, x_right_coord: 138, y_coord: 52
+[Symbol(x_coord=134, y_coord=51, symbol='-')]
+True
+PartNumber: 590   x_left_coord: 6, x_right_coord: 9, y_coord: 53
+[Symbol(x_coord=8, y_coord=54, symbol='$')]
+True
+PartNumber: 30   x_left_coord: 10, x_right_coord: 12, y_coord: 53
+[Symbol(x_coord=11, y_coord=54, symbol='*')]
+True
+PartNumber: 872   x_left_coord: 36, x_right_coord: 39, y_coord: 53
+[Symbol(x_coord=35, y_coord=52, symbol='@')]
+True
+PartNumber: 773   x_left_coord: 78, x_right_coord: 81, y_coord: 53
+[Symbol(x_coord=81, y_coord=52, symbol='=')]
+True
+PartNumber: 156   x_left_coord: 86, x_right_coord: 89, y_coord: 53
+[Symbol(x_coord=85, y_coord=52, symbol='*')]
+True
+PartNumber: 346   x_left_coord: 96, x_right_coord: 99, y_coord: 53
+[Symbol(x_coord=95, y_coord=53, symbol='&')]
+True
+PartNumber: 807   x_left_coord: 105, x_right_coord: 108, y_coord: 53
+[Symbol(x_coord=105, y_coord=52, symbol='*'), Symbol(x_coord=109, y_coord=54, symbol='-')]
+True
+PartNumber: 813   x_left_coord: 109, x_right_coord: 112, y_coord: 53
+[Symbol(x_coord=109, y_coord=54, symbol='-')]
+True
+PartNumber: 285   x_left_coord: 113, x_right_coord: 116, y_coord: 53
+[Symbol(x_coord=116, y_coord=53, symbol='+')]
+True
+PartNumber: 380   x_left_coord: 126, x_right_coord: 129, y_coord: 53
+[Symbol(x_coord=129, y_coord=54, symbol='%')]
+True
+PartNumber: 621   x_left_coord: 24, x_right_coord: 27, y_coord: 54
+[Symbol(x_coord=23, y_coord=54, symbol='*')]
+True
+PartNumber: 528   x_left_coord: 32, x_right_coord: 35, y_coord: 54
+[Symbol(x_coord=32, y_coord=55, symbol='*')]
+True
+PartNumber: 835   x_left_coord: 40, x_right_coord: 43, y_coord: 54
+[Symbol(x_coord=42, y_coord=53, symbol='@')]
+True
+PartNumber: 556   x_left_coord: 48, x_right_coord: 51, y_coord: 54
+[Symbol(x_coord=51, y_coord=55, symbol='*')]
+True
+PartNumber: 85   x_left_coord: 59, x_right_coord: 61, y_coord: 54
+[Symbol(x_coord=58, y_coord=54, symbol='*')]
+True
+PartNumber: 516   x_left_coord: 64, x_right_coord: 67, y_coord: 54
+[Symbol(x_coord=67, y_coord=54, symbol='-')]
+True
+PartNumber: 28   x_left_coord: 91, x_right_coord: 93, y_coord: 54
+[Symbol(x_coord=90, y_coord=55, symbol='@')]
+True
+PartNumber: 791   x_left_coord: 120, x_right_coord: 123, y_coord: 54
+[Symbol(x_coord=123, y_coord=54, symbol='$')]
+True
+PartNumber: 965   x_left_coord: 20, x_right_coord: 23, y_coord: 55
+[Symbol(x_coord=23, y_coord=54, symbol='*')]
+True
+PartNumber: 507   x_left_coord: 28, x_right_coord: 31, y_coord: 55
+[Symbol(x_coord=32, y_coord=55, symbol='*'), Symbol(x_coord=27, y_coord=56, symbol='*')]
+True
+PartNumber: 377   x_left_coord: 55, x_right_coord: 58, y_coord: 55
+[Symbol(x_coord=58, y_coord=54, symbol='*')]
+True
+PartNumber: 957   x_left_coord: 71, x_right_coord: 74, y_coord: 55
+[Symbol(x_coord=70, y_coord=56, symbol='*')]
+True
+PartNumber: 835   x_left_coord: 95, x_right_coord: 98, y_coord: 55
+[]
+False
+PartNumber: 707   x_left_coord: 99, x_right_coord: 102, y_coord: 55
+[Symbol(x_coord=102, y_coord=54, symbol='*')]
+True
+PartNumber: 409   x_left_coord: 103, x_right_coord: 106, y_coord: 55
+[Symbol(x_coord=102, y_coord=54, symbol='*')]
+True
+PartNumber: 987   x_left_coord: 111, x_right_coord: 114, y_coord: 55
+[Symbol(x_coord=114, y_coord=55, symbol='*')]
+True
+PartNumber: 729   x_left_coord: 134, x_right_coord: 137, y_coord: 55
+[Symbol(x_coord=135, y_coord=56, symbol='#')]
+True
+PartNumber: 503   x_left_coord: 5, x_right_coord: 8, y_coord: 56
+[Symbol(x_coord=8, y_coord=57, symbol='$')]
+True
+PartNumber: 471   x_left_coord: 14, x_right_coord: 17, y_coord: 56
+[Symbol(x_coord=16, y_coord=57, symbol='*')]
+True
+PartNumber: 267   x_left_coord: 32, x_right_coord: 35, y_coord: 56
+[Symbol(x_coord=32, y_coord=55, symbol='*'), Symbol(x_coord=36, y_coord=57, symbol='*')]
+True
+PartNumber: 169   x_left_coord: 37, x_right_coord: 40, y_coord: 56
+[Symbol(x_coord=36, y_coord=57, symbol='*'), Symbol(x_coord=41, y_coord=57, symbol='&')]
+True
+PartNumber: 200   x_left_coord: 44, x_right_coord: 47, y_coord: 56
+[Symbol(x_coord=46, y_coord=55, symbol='*')]
+True
+PartNumber: 369   x_left_coord: 48, x_right_coord: 51, y_coord: 56
+[Symbol(x_coord=51, y_coord=55, symbol='*')]
+True
+PartNumber: 499   x_left_coord: 61, x_right_coord: 64, y_coord: 56
+[Symbol(x_coord=60, y_coord=57, symbol='*')]
+True
+PartNumber: 161   x_left_coord: 107, x_right_coord: 110, y_coord: 56
+[Symbol(x_coord=109, y_coord=57, symbol='*')]
+True
+PartNumber: 464   x_left_coord: 115, x_right_coord: 118, y_coord: 56
+[Symbol(x_coord=114, y_coord=55, symbol='*')]
+True
+PartNumber: 794   x_left_coord: 123, x_right_coord: 126, y_coord: 56
+[Symbol(x_coord=126, y_coord=55, symbol='=')]
+True
+PartNumber: 808   x_left_coord: 27, x_right_coord: 30, y_coord: 57
+[Symbol(x_coord=27, y_coord=56, symbol='*')]
+True
+PartNumber: 643   x_left_coord: 52, x_right_coord: 55, y_coord: 57
+[Symbol(x_coord=53, y_coord=58, symbol='*')]
+True
+PartNumber: 39   x_left_coord: 65, x_right_coord: 67, y_coord: 57
+[Symbol(x_coord=66, y_coord=56, symbol='#')]
+True
+PartNumber: 354   x_left_coord: 71, x_right_coord: 74, y_coord: 57
+[Symbol(x_coord=70, y_coord=56, symbol='*')]
+True
+PartNumber: 159   x_left_coord: 80, x_right_coord: 83, y_coord: 57
+[Symbol(x_coord=80, y_coord=58, symbol='*')]
+True
+PartNumber: 117   x_left_coord: 91, x_right_coord: 94, y_coord: 57
+[Symbol(x_coord=94, y_coord=57, symbol='@')]
+True
+PartNumber: 308   x_left_coord: 98, x_right_coord: 101, y_coord: 57
+[Symbol(x_coord=100, y_coord=58, symbol='*')]
+True
+PartNumber: 144   x_left_coord: 119, x_right_coord: 122, y_coord: 57
+[Symbol(x_coord=120, y_coord=58, symbol='%')]
+True
+PartNumber: 452   x_left_coord: 131, x_right_coord: 134, y_coord: 57
+[Symbol(x_coord=131, y_coord=56, symbol='*'), Symbol(x_coord=135, y_coord=56, symbol='#')]
+True
+PartNumber: 910   x_left_coord: 17, x_right_coord: 20, y_coord: 58
+[Symbol(x_coord=16, y_coord=57, symbol='*')]
+True
+PartNumber: 195   x_left_coord: 31, x_right_coord: 34, y_coord: 58
+[Symbol(x_coord=31, y_coord=59, symbol='@')]
+True
+PartNumber: 952   x_left_coord: 36, x_right_coord: 39, y_coord: 58
+[Symbol(x_coord=36, y_coord=57, symbol='*')]
+True
+PartNumber: 320   x_left_coord: 41, x_right_coord: 44, y_coord: 58
+[Symbol(x_coord=41, y_coord=57, symbol='&')]
+True
+PartNumber: 832   x_left_coord: 60, x_right_coord: 63, y_coord: 58
+[Symbol(x_coord=60, y_coord=57, symbol='*')]
+True
+PartNumber: 296   x_left_coord: 84, x_right_coord: 87, y_coord: 58
+[Symbol(x_coord=83, y_coord=59, symbol='*')]
+True
+PartNumber: 860   x_left_coord: 103, x_right_coord: 106, y_coord: 58
+[Symbol(x_coord=105, y_coord=57, symbol='-')]
+True
+PartNumber: 401   x_left_coord: 108, x_right_coord: 111, y_coord: 58
+[Symbol(x_coord=109, y_coord=57, symbol='*')]
+True
+PartNumber: 157   x_left_coord: 125, x_right_coord: 128, y_coord: 58
+[Symbol(x_coord=128, y_coord=58, symbol='/')]
+True
+PartNumber: 438   x_left_coord: 7, x_right_coord: 10, y_coord: 59
+[Symbol(x_coord=10, y_coord=58, symbol='$')]
+True
+PartNumber: 721   x_left_coord: 12, x_right_coord: 15, y_coord: 59
+[Symbol(x_coord=13, y_coord=60, symbol='-')]
+True
+PartNumber: 89   x_left_coord: 46, x_right_coord: 48, y_coord: 59
+[]
+False
+PartNumber: 144   x_left_coord: 50, x_right_coord: 53, y_coord: 59
+[Symbol(x_coord=53, y_coord=58, symbol='*')]
+True
+PartNumber: 332   x_left_coord: 55, x_right_coord: 58, y_coord: 59
+[Symbol(x_coord=55, y_coord=60, symbol='*')]
+True
+PartNumber: 987   x_left_coord: 66, x_right_coord: 69, y_coord: 59
+[Symbol(x_coord=69, y_coord=60, symbol='*')]
+True
+PartNumber: 979   x_left_coord: 78, x_right_coord: 81, y_coord: 59
+[Symbol(x_coord=80, y_coord=58, symbol='*')]
+True
+PartNumber: 824   x_left_coord: 99, x_right_coord: 102, y_coord: 59
+[Symbol(x_coord=100, y_coord=58, symbol='*')]
+True
+PartNumber: 709   x_left_coord: 114, x_right_coord: 117, y_coord: 59
+[]
+False
+PartNumber: 710   x_left_coord: 133, x_right_coord: 136, y_coord: 59
+[Symbol(x_coord=133, y_coord=60, symbol='*')]
+True
+PartNumber: 209   x_left_coord: 3, x_right_coord: 6, y_coord: 60
+[Symbol(x_coord=4, y_coord=61, symbol='&')]
+True
+PartNumber: 952   x_left_coord: 38, x_right_coord: 41, y_coord: 60
+[Symbol(x_coord=37, y_coord=60, symbol='=')]
+True
+PartNumber: 292   x_left_coord: 70, x_right_coord: 73, y_coord: 60
+[Symbol(x_coord=69, y_coord=60, symbol='*')]
+True
+PartNumber: 582   x_left_coord: 82, x_right_coord: 85, y_coord: 60
+[Symbol(x_coord=83, y_coord=59, symbol='*')]
+True
+PartNumber: 661   x_left_coord: 86, x_right_coord: 89, y_coord: 60
+[Symbol(x_coord=89, y_coord=59, symbol='%')]
+True
+PartNumber: 815   x_left_coord: 103, x_right_coord: 106, y_coord: 60
+[]
+False
+PartNumber: 857   x_left_coord: 119, x_right_coord: 122, y_coord: 60
+[]
+False
+PartNumber: 254   x_left_coord: 126, x_right_coord: 129, y_coord: 60
+[Symbol(x_coord=129, y_coord=61, symbol='*')]
+True
+PartNumber: 218   x_left_coord: 7, x_right_coord: 10, y_coord: 61
+[Symbol(x_coord=10, y_coord=61, symbol='%')]
+True
+PartNumber: 100   x_left_coord: 21, x_right_coord: 24, y_coord: 61
+[Symbol(x_coord=24, y_coord=60, symbol='/')]
+True
+PartNumber: 74   x_left_coord: 56, x_right_coord: 58, y_coord: 61
+[Symbol(x_coord=55, y_coord=60, symbol='*')]
+True
+PartNumber: 692   x_left_coord: 95, x_right_coord: 98, y_coord: 61
+[Symbol(x_coord=94, y_coord=60, symbol='$'), Symbol(x_coord=99, y_coord=61, symbol='-')]
+True
+PartNumber: 545   x_left_coord: 107, x_right_coord: 110, y_coord: 61
+[]
+False
+PartNumber: 297   x_left_coord: 13, x_right_coord: 16, y_coord: 62
+[]
+False
+PartNumber: 101   x_left_coord: 26, x_right_coord: 29, y_coord: 62
+[Symbol(x_coord=25, y_coord=63, symbol='=')]
+True
+PartNumber: 276   x_left_coord: 33, x_right_coord: 36, y_coord: 62
+[Symbol(x_coord=34, y_coord=63, symbol='#'), Symbol(x_coord=37, y_coord=63, symbol='*')]
+True
+PartNumber: 756   x_left_coord: 37, x_right_coord: 40, y_coord: 62
+[Symbol(x_coord=37, y_coord=63, symbol='*')]
+True
+PartNumber: 462   x_left_coord: 59, x_right_coord: 62, y_coord: 62
+[Symbol(x_coord=59, y_coord=63, symbol='%')]
+True
+PartNumber: 492   x_left_coord: 68, x_right_coord: 71, y_coord: 62
+[Symbol(x_coord=71, y_coord=62, symbol='*')]
+True
+PartNumber: 578   x_left_coord: 72, x_right_coord: 75, y_coord: 62
+[Symbol(x_coord=71, y_coord=62, symbol='*')]
+True
+PartNumber: 636   x_left_coord: 77, x_right_coord: 80, y_coord: 62
+[Symbol(x_coord=78, y_coord=61, symbol='*')]
+True
+PartNumber: 860   x_left_coord: 99, x_right_coord: 102, y_coord: 62
+[Symbol(x_coord=99, y_coord=61, symbol='-')]
+True
+PartNumber: 399   x_left_coord: 128, x_right_coord: 131, y_coord: 62
+[Symbol(x_coord=129, y_coord=61, symbol='*')]
+True
+PartNumber: 171   x_left_coord: 8, x_right_coord: 11, y_coord: 63
+[Symbol(x_coord=7, y_coord=64, symbol='*')]
+True
+PartNumber: 407   x_left_coord: 53, x_right_coord: 56, y_coord: 63
+[Symbol(x_coord=54, y_coord=62, symbol='#')]
+True
+PartNumber: 331   x_left_coord: 83, x_right_coord: 86, y_coord: 63
+[Symbol(x_coord=86, y_coord=62, symbol='=')]
+True
+PartNumber: 915   x_left_coord: 88, x_right_coord: 91, y_coord: 63
+[Symbol(x_coord=88, y_coord=64, symbol='@')]
+True
+PartNumber: 919   x_left_coord: 121, x_right_coord: 124, y_coord: 63
+[Symbol(x_coord=121, y_coord=64, symbol='*')]
+True
+PartNumber: 454   x_left_coord: 4, x_right_coord: 7, y_coord: 64
+[Symbol(x_coord=7, y_coord=64, symbol='*')]
+True
+PartNumber: 83   x_left_coord: 28, x_right_coord: 30, y_coord: 64
+[Symbol(x_coord=27, y_coord=64, symbol='*')]
+True
+PartNumber: 100   x_left_coord: 36, x_right_coord: 39, y_coord: 64
+[Symbol(x_coord=37, y_coord=63, symbol='*')]
+True
+PartNumber: 702   x_left_coord: 41, x_right_coord: 44, y_coord: 64
+[]
+False
+PartNumber: 271   x_left_coord: 74, x_right_coord: 77, y_coord: 64
+[Symbol(x_coord=76, y_coord=65, symbol='=')]
+True
+PartNumber: 59   x_left_coord: 100, x_right_coord: 102, y_coord: 64
+[Symbol(x_coord=101, y_coord=65, symbol='+')]
+True
+PartNumber: 582   x_left_coord: 106, x_right_coord: 109, y_coord: 64
+[Symbol(x_coord=106, y_coord=65, symbol='*')]
+True
+PartNumber: 185   x_left_coord: 14, x_right_coord: 17, y_coord: 65
+[Symbol(x_coord=17, y_coord=65, symbol='*')]
+True
+PartNumber: 687   x_left_coord: 24, x_right_coord: 27, y_coord: 65
+[Symbol(x_coord=27, y_coord=64, symbol='*')]
+True
+PartNumber: 186   x_left_coord: 54, x_right_coord: 57, y_coord: 65
+[Symbol(x_coord=55, y_coord=66, symbol='*')]
+True
+PartNumber: 739   x_left_coord: 69, x_right_coord: 72, y_coord: 65
+[Symbol(x_coord=72, y_coord=65, symbol='-')]
+True
+PartNumber: 380   x_left_coord: 112, x_right_coord: 115, y_coord: 65
+[Symbol(x_coord=112, y_coord=64, symbol='/')]
+True
+PartNumber: 539   x_left_coord: 117, x_right_coord: 120, y_coord: 65
+[Symbol(x_coord=121, y_coord=64, symbol='*'), Symbol(x_coord=118, y_coord=66, symbol='*')]
+True
+PartNumber: 192   x_left_coord: 122, x_right_coord: 125, y_coord: 65
+[Symbol(x_coord=121, y_coord=64, symbol='*')]
+True
+PartNumber: 80   x_left_coord: 126, x_right_coord: 128, y_coord: 65
+[]
+False
+PartNumber: 455   x_left_coord: 134, x_right_coord: 137, y_coord: 65
+[Symbol(x_coord=133, y_coord=64, symbol='+')]
+True
+PartNumber: 174   x_left_coord: 7, x_right_coord: 10, y_coord: 66
+[]
+False
+PartNumber: 686   x_left_coord: 18, x_right_coord: 21, y_coord: 66
+[Symbol(x_coord=17, y_coord=65, symbol='*')]
+True
+PartNumber: 562   x_left_coord: 30, x_right_coord: 33, y_coord: 66
+[]
+False
+PartNumber: 958   x_left_coord: 36, x_right_coord: 39, y_coord: 66
+[Symbol(x_coord=35, y_coord=67, symbol='-')]
+True
+PartNumber: 192   x_left_coord: 45, x_right_coord: 48, y_coord: 66
+[Symbol(x_coord=46, y_coord=67, symbol='*')]
+True
+PartNumber: 117   x_left_coord: 58, x_right_coord: 61, y_coord: 66
+[]
+False
+PartNumber: 108   x_left_coord: 64, x_right_coord: 67, y_coord: 66
+[Symbol(x_coord=66, y_coord=67, symbol='%')]
+True
+PartNumber: 567   x_left_coord: 80, x_right_coord: 83, y_coord: 66
+[Symbol(x_coord=83, y_coord=65, symbol='*')]
+True
+PartNumber: 298   x_left_coord: 84, x_right_coord: 87, y_coord: 66
+[Symbol(x_coord=83, y_coord=65, symbol='*')]
+True
+PartNumber: 545   x_left_coord: 104, x_right_coord: 107, y_coord: 66
+[Symbol(x_coord=106, y_coord=65, symbol='*')]
+True
+PartNumber: 887   x_left_coord: 11, x_right_coord: 14, y_coord: 67
+[Symbol(x_coord=12, y_coord=68, symbol='*')]
+True
+PartNumber: 131   x_left_coord: 22, x_right_coord: 25, y_coord: 67
+[]
+False
+PartNumber: 955   x_left_coord: 40, x_right_coord: 43, y_coord: 67
+[Symbol(x_coord=41, y_coord=68, symbol='%')]
+True
+PartNumber: 504   x_left_coord: 52, x_right_coord: 55, y_coord: 67
+[Symbol(x_coord=55, y_coord=66, symbol='*')]
+True
+PartNumber: 243   x_left_coord: 68, x_right_coord: 71, y_coord: 67
+[Symbol(x_coord=69, y_coord=68, symbol='*')]
+True
+PartNumber: 281   x_left_coord: 73, x_right_coord: 76, y_coord: 67
+[]
+False
+PartNumber: 877   x_left_coord: 100, x_right_coord: 103, y_coord: 67
+[Symbol(x_coord=103, y_coord=68, symbol='*')]
+True
+PartNumber: 610   x_left_coord: 116, x_right_coord: 119, y_coord: 67
+[Symbol(x_coord=118, y_coord=66, symbol='*')]
+True
+PartNumber: 216   x_left_coord: 125, x_right_coord: 128, y_coord: 67
+[Symbol(x_coord=127, y_coord=68, symbol='@')]
+True
+PartNumber: 130   x_left_coord: 130, x_right_coord: 133, y_coord: 67
+[Symbol(x_coord=130, y_coord=66, symbol='$')]
+True
+PartNumber: 646   x_left_coord: 5, x_right_coord: 8, y_coord: 68
+[Symbol(x_coord=5, y_coord=67, symbol='$')]
+True
+PartNumber: 76   x_left_coord: 19, x_right_coord: 21, y_coord: 68
+[Symbol(x_coord=19, y_coord=69, symbol='*')]
+True
+PartNumber: 50   x_left_coord: 44, x_right_coord: 46, y_coord: 68
+[Symbol(x_coord=46, y_coord=67, symbol='*')]
+True
+PartNumber: 541   x_left_coord: 77, x_right_coord: 80, y_coord: 68
+[Symbol(x_coord=76, y_coord=69, symbol='*')]
+True
+PartNumber: 782   x_left_coord: 87, x_right_coord: 90, y_coord: 68
+[Symbol(x_coord=90, y_coord=69, symbol='*')]
+True
+PartNumber: 752   x_left_coord: 95, x_right_coord: 98, y_coord: 68
+[Symbol(x_coord=98, y_coord=68, symbol='+')]
+True
+PartNumber: 296   x_left_coord: 110, x_right_coord: 113, y_coord: 68
+[Symbol(x_coord=113, y_coord=68, symbol='*')]
+True
+PartNumber: 523   x_left_coord: 121, x_right_coord: 124, y_coord: 68
+[Symbol(x_coord=124, y_coord=69, symbol='*')]
+True
+PartNumber: 881   x_left_coord: 134, x_right_coord: 137, y_coord: 68
+[Symbol(x_coord=136, y_coord=67, symbol='-')]
+True
+PartNumber: 802   x_left_coord: 12, x_right_coord: 15, y_coord: 69
+[Symbol(x_coord=12, y_coord=68, symbol='*')]
+True
+PartNumber: 976   x_left_coord: 28, x_right_coord: 31, y_coord: 69
+[Symbol(x_coord=30, y_coord=70, symbol='+')]
+True
+PartNumber: 223   x_left_coord: 48, x_right_coord: 51, y_coord: 69
+[Symbol(x_coord=51, y_coord=69, symbol='*')]
+True
+PartNumber: 478   x_left_coord: 52, x_right_coord: 55, y_coord: 69
+[Symbol(x_coord=51, y_coord=69, symbol='*')]
+True
+PartNumber: 96   x_left_coord: 63, x_right_coord: 65, y_coord: 69
+[Symbol(x_coord=65, y_coord=70, symbol='*')]
+True
+PartNumber: 785   x_left_coord: 68, x_right_coord: 71, y_coord: 69
+[Symbol(x_coord=69, y_coord=68, symbol='*'), Symbol(x_coord=72, y_coord=70, symbol='*')]
+True
+PartNumber: 142   x_left_coord: 72, x_right_coord: 75, y_coord: 69
+[Symbol(x_coord=76, y_coord=69, symbol='*'), Symbol(x_coord=72, y_coord=70, symbol='*')]
+True
+PartNumber: 530   x_left_coord: 83, x_right_coord: 86, y_coord: 69
+[Symbol(x_coord=86, y_coord=70, symbol='*')]
+True
+PartNumber: 721   x_left_coord: 91, x_right_coord: 94, y_coord: 69
+[Symbol(x_coord=90, y_coord=69, symbol='*')]
+True
+PartNumber: 577   x_left_coord: 103, x_right_coord: 106, y_coord: 69
+[Symbol(x_coord=103, y_coord=68, symbol='*')]
+True
+PartNumber: 317   x_left_coord: 114, x_right_coord: 117, y_coord: 69
+[Symbol(x_coord=113, y_coord=68, symbol='*')]
+True
+PartNumber: 295   x_left_coord: 130, x_right_coord: 133, y_coord: 69
+[Symbol(x_coord=133, y_coord=70, symbol='*')]
+True
+PartNumber: 412   x_left_coord: 4, x_right_coord: 7, y_coord: 70
+[Symbol(x_coord=6, y_coord=71, symbol='*'), Symbol(x_coord=8, y_coord=71, symbol='/')]
+True
+PartNumber: 114   x_left_coord: 8, x_right_coord: 11, y_coord: 70
+[Symbol(x_coord=8, y_coord=71, symbol='/')]
+True
+PartNumber: 561   x_left_coord: 19, x_right_coord: 22, y_coord: 70
+[Symbol(x_coord=19, y_coord=69, symbol='*')]
+True
+PartNumber: 52   x_left_coord: 59, x_right_coord: 61, y_coord: 70
+[Symbol(x_coord=61, y_coord=71, symbol='*')]
+True
+PartNumber: 999   x_left_coord: 77, x_right_coord: 80, y_coord: 70
+[Symbol(x_coord=76, y_coord=69, symbol='*')]
+True
+PartNumber: 221   x_left_coord: 125, x_right_coord: 128, y_coord: 70
+[Symbol(x_coord=124, y_coord=69, symbol='*')]
+True
+PartNumber: 40   x_left_coord: 134, x_right_coord: 136, y_coord: 70
+[Symbol(x_coord=133, y_coord=70, symbol='*')]
+True
+PartNumber: 435   x_left_coord: 25, x_right_coord: 28, y_coord: 71
+[Symbol(x_coord=25, y_coord=70, symbol='#')]
+True
+PartNumber: 168   x_left_coord: 38, x_right_coord: 41, y_coord: 71
+[Symbol(x_coord=41, y_coord=72, symbol='#')]
+True
+PartNumber: 779   x_left_coord: 43, x_right_coord: 46, y_coord: 71
+[Symbol(x_coord=43, y_coord=72, symbol='+')]
+True
+PartNumber: 272   x_left_coord: 63, x_right_coord: 66, y_coord: 71
+[Symbol(x_coord=65, y_coord=70, symbol='*')]
+True
+PartNumber: 372   x_left_coord: 71, x_right_coord: 74, y_coord: 71
+[Symbol(x_coord=72, y_coord=70, symbol='*')]
+True
+PartNumber: 652   x_left_coord: 83, x_right_coord: 86, y_coord: 71
+[Symbol(x_coord=86, y_coord=70, symbol='*')]
+True
+PartNumber: 489   x_left_coord: 89, x_right_coord: 92, y_coord: 71
+[Symbol(x_coord=88, y_coord=70, symbol='/')]
+True
+PartNumber: 988   x_left_coord: 101, x_right_coord: 104, y_coord: 71
+[Symbol(x_coord=100, y_coord=71, symbol='*')]
+True
+PartNumber: 810   x_left_coord: 111, x_right_coord: 114, y_coord: 71
+[]
+False
+PartNumber: 80   x_left_coord: 0, x_right_coord: 2, y_coord: 72
+[]
+False
+PartNumber: 110   x_left_coord: 3, x_right_coord: 6, y_coord: 72
+[Symbol(x_coord=6, y_coord=71, symbol='*')]
+True
+PartNumber: 137   x_left_coord: 13, x_right_coord: 16, y_coord: 72
+[Symbol(x_coord=15, y_coord=71, symbol='*')]
+True
+PartNumber: 938   x_left_coord: 20, x_right_coord: 23, y_coord: 72
+[]
+False
+PartNumber: 924   x_left_coord: 34, x_right_coord: 37, y_coord: 72
+[]
+False
+PartNumber: 896   x_left_coord: 47, x_right_coord: 50, y_coord: 72
+[Symbol(x_coord=50, y_coord=71, symbol='-')]
+True
+PartNumber: 305   x_left_coord: 58, x_right_coord: 61, y_coord: 72
+[Symbol(x_coord=61, y_coord=71, symbol='*')]
+True
+PartNumber: 885   x_left_coord: 97, x_right_coord: 100, y_coord: 72
+[Symbol(x_coord=100, y_coord=71, symbol='*')]
+True
+PartNumber: 831   x_left_coord: 127, x_right_coord: 130, y_coord: 72
+[Symbol(x_coord=130, y_coord=73, symbol='+')]
+True
+PartNumber: 792   x_left_coord: 24, x_right_coord: 27, y_coord: 73
+[Symbol(x_coord=25, y_coord=74, symbol='&')]
+True
+PartNumber: 773   x_left_coord: 68, x_right_coord: 71, y_coord: 73
+[Symbol(x_coord=71, y_coord=73, symbol='*')]
+True
+PartNumber: 100   x_left_coord: 72, x_right_coord: 75, y_coord: 73
+[Symbol(x_coord=71, y_coord=73, symbol='*')]
+True
+PartNumber: 958   x_left_coord: 76, x_right_coord: 79, y_coord: 73
+[Symbol(x_coord=79, y_coord=74, symbol='*')]
+True
+PartNumber: 78   x_left_coord: 82, x_right_coord: 84, y_coord: 73
+[Symbol(x_coord=81, y_coord=73, symbol='&')]
+True
+PartNumber: 902   x_left_coord: 104, x_right_coord: 107, y_coord: 73
+[Symbol(x_coord=104, y_coord=74, symbol='$')]
+True
+PartNumber: 286   x_left_coord: 111, x_right_coord: 114, y_coord: 73
+[Symbol(x_coord=111, y_coord=74, symbol='@')]
+True
+PartNumber: 873   x_left_coord: 8, x_right_coord: 11, y_coord: 74
+[Symbol(x_coord=8, y_coord=73, symbol='&')]
+True
+PartNumber: 585   x_left_coord: 37, x_right_coord: 40, y_coord: 74
+[Symbol(x_coord=37, y_coord=75, symbol='*')]
+True
+PartNumber: 127   x_left_coord: 58, x_right_coord: 61, y_coord: 74
+[Symbol(x_coord=61, y_coord=74, symbol='*')]
+True
+PartNumber: 899   x_left_coord: 62, x_right_coord: 65, y_coord: 74
+[Symbol(x_coord=61, y_coord=74, symbol='*')]
+True
+PartNumber: 60   x_left_coord: 87, x_right_coord: 89, y_coord: 74
+[Symbol(x_coord=89, y_coord=73, symbol='*')]
+True
+PartNumber: 982   x_left_coord: 90, x_right_coord: 93, y_coord: 74
+[Symbol(x_coord=89, y_coord=73, symbol='*')]
+True
+PartNumber: 268   x_left_coord: 116, x_right_coord: 119, y_coord: 74
+[Symbol(x_coord=118, y_coord=75, symbol='*')]
+True
+PartNumber: 370   x_left_coord: 121, x_right_coord: 124, y_coord: 74
+[]
+False
+PartNumber: 567   x_left_coord: 137, x_right_coord: 140, y_coord: 74
+[]
+False
+PartNumber: 781   x_left_coord: 12, x_right_coord: 15, y_coord: 75
+[Symbol(x_coord=13, y_coord=76, symbol='$')]
+True
+PartNumber: 174   x_left_coord: 31, x_right_coord: 34, y_coord: 75
+[Symbol(x_coord=30, y_coord=75, symbol='*')]
+True
+PartNumber: 26   x_left_coord: 69, x_right_coord: 71, y_coord: 75
+[Symbol(x_coord=70, y_coord=76, symbol='*')]
+True
+PartNumber: 203   x_left_coord: 79, x_right_coord: 82, y_coord: 75
+[Symbol(x_coord=79, y_coord=74, symbol='*')]
+True
+PartNumber: 652   x_left_coord: 83, x_right_coord: 86, y_coord: 75
+[Symbol(x_coord=85, y_coord=76, symbol='/')]
+True
+PartNumber: 538   x_left_coord: 131, x_right_coord: 134, y_coord: 75
+[Symbol(x_coord=133, y_coord=76, symbol='@')]
+True
+PartNumber: 534   x_left_coord: 19, x_right_coord: 22, y_coord: 76
+[Symbol(x_coord=18, y_coord=75, symbol='*')]
+True
+PartNumber: 848   x_left_coord: 27, x_right_coord: 30, y_coord: 76
+[Symbol(x_coord=30, y_coord=75, symbol='*')]
+True
+PartNumber: 170   x_left_coord: 36, x_right_coord: 39, y_coord: 76
+[Symbol(x_coord=37, y_coord=75, symbol='*')]
+True
+PartNumber: 418   x_left_coord: 45, x_right_coord: 48, y_coord: 76
+[]
+False
+PartNumber: 494   x_left_coord: 56, x_right_coord: 59, y_coord: 76
+[Symbol(x_coord=59, y_coord=76, symbol='/')]
+True
+PartNumber: 298   x_left_coord: 64, x_right_coord: 67, y_coord: 76
+[Symbol(x_coord=67, y_coord=77, symbol='@')]
+True
+PartNumber: 792   x_left_coord: 75, x_right_coord: 78, y_coord: 76
+[Symbol(x_coord=76, y_coord=77, symbol='$')]
+True
+PartNumber: 687   x_left_coord: 101, x_right_coord: 104, y_coord: 76
+[Symbol(x_coord=100, y_coord=76, symbol='+')]
+True
+PartNumber: 179   x_left_coord: 118, x_right_coord: 121, y_coord: 76
+[Symbol(x_coord=118, y_coord=75, symbol='*')]
+True
+PartNumber: 160   x_left_coord: 135, x_right_coord: 138, y_coord: 76
+[]
+False
+PartNumber: 474   x_left_coord: 2, x_right_coord: 5, y_coord: 77
+[Symbol(x_coord=5, y_coord=78, symbol='*')]
+True
+PartNumber: 711   x_left_coord: 8, x_right_coord: 11, y_coord: 77
+[]
+False
+PartNumber: 417   x_left_coord: 31, x_right_coord: 34, y_coord: 77
+[]
+False
+PartNumber: 458   x_left_coord: 69, x_right_coord: 72, y_coord: 77
+[Symbol(x_coord=70, y_coord=76, symbol='*'), Symbol(x_coord=73, y_coord=78, symbol='*')]
+True
+PartNumber: 338   x_left_coord: 88, x_right_coord: 91, y_coord: 77
+[Symbol(x_coord=87, y_coord=77, symbol='*')]
+True
+PartNumber: 719   x_left_coord: 93, x_right_coord: 96, y_coord: 77
+[Symbol(x_coord=93, y_coord=76, symbol='%')]
+True
+PartNumber: 509   x_left_coord: 108, x_right_coord: 111, y_coord: 77
+[Symbol(x_coord=110, y_coord=78, symbol='&')]
+True
+PartNumber: 488   x_left_coord: 113, x_right_coord: 116, y_coord: 77
+[Symbol(x_coord=113, y_coord=78, symbol='-')]
+True
+PartNumber: 781   x_left_coord: 122, x_right_coord: 125, y_coord: 77
+[]
+False
+PartNumber: 982   x_left_coord: 126, x_right_coord: 129, y_coord: 77
+[Symbol(x_coord=127, y_coord=78, symbol='*')]
+True
+PartNumber: 235   x_left_coord: 16, x_right_coord: 19, y_coord: 78
+[Symbol(x_coord=16, y_coord=79, symbol='*')]
+True
+PartNumber: 622   x_left_coord: 36, x_right_coord: 39, y_coord: 78
+[Symbol(x_coord=38, y_coord=79, symbol='$')]
+True
+PartNumber: 804   x_left_coord: 55, x_right_coord: 58, y_coord: 78
+[Symbol(x_coord=58, y_coord=78, symbol='+')]
+True
+PartNumber: 577   x_left_coord: 80, x_right_coord: 83, y_coord: 78
+[]
+False
+PartNumber: 870   x_left_coord: 84, x_right_coord: 87, y_coord: 78
+[Symbol(x_coord=87, y_coord=77, symbol='*')]
+True
+PartNumber: 43   x_left_coord: 103, x_right_coord: 105, y_coord: 78
+[Symbol(x_coord=105, y_coord=79, symbol='*')]
+True
+PartNumber: 278   x_left_coord: 133, x_right_coord: 136, y_coord: 78
+[Symbol(x_coord=132, y_coord=79, symbol='*')]
+True
+PartNumber: 696   x_left_coord: 4, x_right_coord: 7, y_coord: 79
+[Symbol(x_coord=5, y_coord=78, symbol='*')]
+True
+PartNumber: 222   x_left_coord: 8, x_right_coord: 11, y_coord: 79
+[Symbol(x_coord=11, y_coord=80, symbol='*')]
+True
+PartNumber: 604   x_left_coord: 12, x_right_coord: 15, y_coord: 79
+[Symbol(x_coord=16, y_coord=79, symbol='*'), Symbol(x_coord=11, y_coord=80, symbol='*')]
+True
+PartNumber: 29   x_left_coord: 25, x_right_coord: 27, y_coord: 79
+[Symbol(x_coord=24, y_coord=79, symbol='*')]
+True
+PartNumber: 755   x_left_coord: 49, x_right_coord: 52, y_coord: 79
+[Symbol(x_coord=51, y_coord=78, symbol='$')]
+True
+PartNumber: 55   x_left_coord: 63, x_right_coord: 65, y_coord: 79
+[Symbol(x_coord=64, y_coord=80, symbol='*')]
+True
+PartNumber: 631   x_left_coord: 70, x_right_coord: 73, y_coord: 79
+[Symbol(x_coord=73, y_coord=78, symbol='*')]
+True
+PartNumber: 202   x_left_coord: 74, x_right_coord: 77, y_coord: 79
+[Symbol(x_coord=73, y_coord=78, symbol='*')]
+True
+PartNumber: 443   x_left_coord: 98, x_right_coord: 101, y_coord: 79
+[Symbol(x_coord=100, y_coord=78, symbol='&')]
+True
+PartNumber: 692   x_left_coord: 126, x_right_coord: 129, y_coord: 79
+[Symbol(x_coord=127, y_coord=78, symbol='*')]
+True
+PartNumber: 55   x_left_coord: 16, x_right_coord: 18, y_coord: 80
+[Symbol(x_coord=16, y_coord=79, symbol='*')]
+True
+PartNumber: 456   x_left_coord: 21, x_right_coord: 24, y_coord: 80
+[Symbol(x_coord=24, y_coord=79, symbol='*')]
+True
+PartNumber: 782   x_left_coord: 29, x_right_coord: 32, y_coord: 80
+[Symbol(x_coord=31, y_coord=81, symbol='-')]
+True
+PartNumber: 422   x_left_coord: 34, x_right_coord: 37, y_coord: 80
+[Symbol(x_coord=38, y_coord=79, symbol='$'), Symbol(x_coord=35, y_coord=81, symbol='*')]
+True
+PartNumber: 133   x_left_coord: 44, x_right_coord: 47, y_coord: 80
+[Symbol(x_coord=44, y_coord=79, symbol='&')]
+True
+PartNumber: 844   x_left_coord: 53, x_right_coord: 56, y_coord: 80
+[Symbol(x_coord=54, y_coord=81, symbol='*')]
+True
+PartNumber: 286   x_left_coord: 91, x_right_coord: 94, y_coord: 80
+[Symbol(x_coord=94, y_coord=80, symbol='-')]
+True
+PartNumber: 865   x_left_coord: 106, x_right_coord: 109, y_coord: 80
+[Symbol(x_coord=105, y_coord=79, symbol='*')]
+True
+PartNumber: 89   x_left_coord: 110, x_right_coord: 112, y_coord: 80
+[]
+False
+PartNumber: 27   x_left_coord: 114, x_right_coord: 116, y_coord: 80
+[Symbol(x_coord=115, y_coord=81, symbol='*')]
+True
+PartNumber: 718   x_left_coord: 119, x_right_coord: 122, y_coord: 80
+[Symbol(x_coord=121, y_coord=81, symbol='*')]
+True
+PartNumber: 317   x_left_coord: 130, x_right_coord: 133, y_coord: 80
+[Symbol(x_coord=132, y_coord=79, symbol='*')]
+True
+PartNumber: 611   x_left_coord: 7, x_right_coord: 10, y_coord: 81
+[Symbol(x_coord=11, y_coord=80, symbol='*')]
+True
+PartNumber: 995   x_left_coord: 38, x_right_coord: 41, y_coord: 81
+[Symbol(x_coord=38, y_coord=82, symbol='*')]
+True
+PartNumber: 712   x_left_coord: 49, x_right_coord: 52, y_coord: 81
+[Symbol(x_coord=52, y_coord=82, symbol='$')]
+True
+PartNumber: 89   x_left_coord: 65, x_right_coord: 67, y_coord: 81
+[Symbol(x_coord=64, y_coord=80, symbol='*')]
+True
+PartNumber: 166   x_left_coord: 83, x_right_coord: 86, y_coord: 81
+[Symbol(x_coord=82, y_coord=81, symbol='@')]
+True
+PartNumber: 771   x_left_coord: 100, x_right_coord: 103, y_coord: 81
+[Symbol(x_coord=102, y_coord=82, symbol='*')]
+True
+PartNumber: 589   x_left_coord: 136, x_right_coord: 139, y_coord: 81
+[Symbol(x_coord=135, y_coord=82, symbol='*')]
+True
+PartNumber: 417   x_left_coord: 11, x_right_coord: 14, y_coord: 82
+[Symbol(x_coord=10, y_coord=83, symbol='*')]
+True
+PartNumber: 150   x_left_coord: 19, x_right_coord: 22, y_coord: 82
+[Symbol(x_coord=21, y_coord=83, symbol='-')]
+True
+PartNumber: 678   x_left_coord: 24, x_right_coord: 27, y_coord: 82
+[Symbol(x_coord=25, y_coord=83, symbol='*')]
+True
+PartNumber: 417   x_left_coord: 54, x_right_coord: 57, y_coord: 82
+[Symbol(x_coord=54, y_coord=81, symbol='*')]
+True
+PartNumber: 298   x_left_coord: 59, x_right_coord: 62, y_coord: 82
+[]
+False
+PartNumber: 611   x_left_coord: 75, x_right_coord: 78, y_coord: 82
+[Symbol(x_coord=78, y_coord=82, symbol='&')]
+True
+PartNumber: 811   x_left_coord: 89, x_right_coord: 92, y_coord: 82
+[Symbol(x_coord=91, y_coord=83, symbol='*')]
+True
+PartNumber: 327   x_left_coord: 93, x_right_coord: 96, y_coord: 82
+[Symbol(x_coord=94, y_coord=83, symbol='/')]
+True
+PartNumber: 610   x_left_coord: 109, x_right_coord: 112, y_coord: 82
+[Symbol(x_coord=112, y_coord=82, symbol='%')]
+True
+PartNumber: 614   x_left_coord: 114, x_right_coord: 117, y_coord: 82
+[Symbol(x_coord=115, y_coord=81, symbol='*')]
+True
+PartNumber: 443   x_left_coord: 122, x_right_coord: 125, y_coord: 82
+[Symbol(x_coord=121, y_coord=81, symbol='*')]
+True
+PartNumber: 658   x_left_coord: 7, x_right_coord: 10, y_coord: 83
+[Symbol(x_coord=10, y_coord=83, symbol='*')]
+True
+PartNumber: 622   x_left_coord: 33, x_right_coord: 36, y_coord: 83
+[Symbol(x_coord=36, y_coord=84, symbol='*')]
+True
+PartNumber: 940   x_left_coord: 38, x_right_coord: 41, y_coord: 83
+[Symbol(x_coord=38, y_coord=82, symbol='*')]
+True
+PartNumber: 773   x_left_coord: 97, x_right_coord: 100, y_coord: 83
+[Symbol(x_coord=99, y_coord=84, symbol='@')]
+True
+PartNumber: 194   x_left_coord: 101, x_right_coord: 104, y_coord: 83
+[Symbol(x_coord=102, y_coord=82, symbol='*'), Symbol(x_coord=105, y_coord=82, symbol='$')]
+True
+PartNumber: 479   x_left_coord: 105, x_right_coord: 108, y_coord: 83
+[Symbol(x_coord=105, y_coord=82, symbol='$'), Symbol(x_coord=109, y_coord=84, symbol='#')]
+True
+PartNumber: 996   x_left_coord: 118, x_right_coord: 121, y_coord: 83
+[Symbol(x_coord=118, y_coord=84, symbol='$')]
+True
+PartNumber: 263   x_left_coord: 130, x_right_coord: 133, y_coord: 83
+[Symbol(x_coord=131, y_coord=82, symbol='-')]
+True
+PartNumber: 872   x_left_coord: 135, x_right_coord: 138, y_coord: 83
+[Symbol(x_coord=135, y_coord=82, symbol='*')]
+True
+PartNumber: 90   x_left_coord: 4, x_right_coord: 6, y_coord: 84
+[Symbol(x_coord=6, y_coord=85, symbol='*')]
+True
+PartNumber: 550   x_left_coord: 13, x_right_coord: 16, y_coord: 84
+[Symbol(x_coord=12, y_coord=84, symbol='%')]
+True
+PartNumber: 587   x_left_coord: 17, x_right_coord: 20, y_coord: 84
+[Symbol(x_coord=21, y_coord=83, symbol='-'), Symbol(x_coord=18, y_coord=85, symbol='*')]
+True
+PartNumber: 215   x_left_coord: 26, x_right_coord: 29, y_coord: 84
+[Symbol(x_coord=25, y_coord=83, symbol='*')]
+True
+PartNumber: 322   x_left_coord: 44, x_right_coord: 47, y_coord: 84
+[Symbol(x_coord=44, y_coord=85, symbol='*')]
+True
+PartNumber: 229   x_left_coord: 52, x_right_coord: 55, y_coord: 84
+[Symbol(x_coord=51, y_coord=85, symbol='*')]
+True
+PartNumber: 841   x_left_coord: 61, x_right_coord: 64, y_coord: 84
+[Symbol(x_coord=64, y_coord=84, symbol='*')]
+True
+PartNumber: 996   x_left_coord: 69, x_right_coord: 72, y_coord: 84
+[Symbol(x_coord=70, y_coord=83, symbol='&')]
+True
+PartNumber: 826   x_left_coord: 83, x_right_coord: 86, y_coord: 84
+[Symbol(x_coord=82, y_coord=85, symbol='+')]
+True
+PartNumber: 305   x_left_coord: 90, x_right_coord: 93, y_coord: 84
+[Symbol(x_coord=91, y_coord=83, symbol='*'), Symbol(x_coord=94, y_coord=83, symbol='/')]
+True
+PartNumber: 405   x_left_coord: 110, x_right_coord: 113, y_coord: 84
+[Symbol(x_coord=109, y_coord=84, symbol='#')]
+True
+PartNumber: 671   x_left_coord: 37, x_right_coord: 40, y_coord: 85
+[Symbol(x_coord=36, y_coord=84, symbol='*')]
+True
+PartNumber: 695   x_left_coord: 65, x_right_coord: 68, y_coord: 85
+[Symbol(x_coord=64, y_coord=84, symbol='*')]
+True
+PartNumber: 694   x_left_coord: 75, x_right_coord: 78, y_coord: 85
+[Symbol(x_coord=74, y_coord=86, symbol='*')]
+True
+PartNumber: 223   x_left_coord: 129, x_right_coord: 132, y_coord: 85
+[Symbol(x_coord=132, y_coord=86, symbol='*')]
+True
+PartNumber: 462   x_left_coord: 133, x_right_coord: 136, y_coord: 85
+[Symbol(x_coord=132, y_coord=86, symbol='*')]
+True
+PartNumber: 826   x_left_coord: 137, x_right_coord: 140, y_coord: 85
+[]
+False
+PartNumber: 419   x_left_coord: 2, x_right_coord: 5, y_coord: 86
+[Symbol(x_coord=6, y_coord=85, symbol='*')]
+True
+PartNumber: 832   x_left_coord: 6, x_right_coord: 9, y_coord: 86
+[Symbol(x_coord=6, y_coord=85, symbol='*')]
+True
+PartNumber: 271   x_left_coord: 16, x_right_coord: 19, y_coord: 86
+[Symbol(x_coord=18, y_coord=85, symbol='*')]
+True
+PartNumber: 828   x_left_coord: 22, x_right_coord: 25, y_coord: 86
+[Symbol(x_coord=21, y_coord=87, symbol='*')]
+True
+PartNumber: 228   x_left_coord: 41, x_right_coord: 44, y_coord: 86
+[Symbol(x_coord=44, y_coord=85, symbol='*')]
+True
+PartNumber: 380   x_left_coord: 61, x_right_coord: 64, y_coord: 86
+[]
+False
+PartNumber: 21   x_left_coord: 72, x_right_coord: 74, y_coord: 86
+[Symbol(x_coord=74, y_coord=86, symbol='*')]
+True
+PartNumber: 644   x_left_coord: 85, x_right_coord: 88, y_coord: 86
+[Symbol(x_coord=87, y_coord=87, symbol='*')]
+True
+PartNumber: 725   x_left_coord: 100, x_right_coord: 103, y_coord: 86
+[Symbol(x_coord=102, y_coord=87, symbol='+')]
+True
+PartNumber: 703   x_left_coord: 107, x_right_coord: 110, y_coord: 86
+[Symbol(x_coord=108, y_coord=87, symbol='#'), Symbol(x_coord=111, y_coord=87, symbol='%')]
+True
+PartNumber: 255   x_left_coord: 116, x_right_coord: 119, y_coord: 86
+[Symbol(x_coord=118, y_coord=87, symbol='*')]
+True
+PartNumber: 330   x_left_coord: 121, x_right_coord: 124, y_coord: 86
+[Symbol(x_coord=123, y_coord=87, symbol='/')]
+True
+PartNumber: 357   x_left_coord: 51, x_right_coord: 54, y_coord: 87
+[Symbol(x_coord=50, y_coord=88, symbol='*')]
+True
+PartNumber: 360   x_left_coord: 96, x_right_coord: 99, y_coord: 87
+[]
+False
+PartNumber: 173   x_left_coord: 112, x_right_coord: 115, y_coord: 87
+[Symbol(x_coord=111, y_coord=87, symbol='%')]
+True
+PartNumber: 182   x_left_coord: 18, x_right_coord: 21, y_coord: 88
+[Symbol(x_coord=21, y_coord=87, symbol='*')]
+True
+PartNumber: 88   x_left_coord: 32, x_right_coord: 34, y_coord: 88
+[Symbol(x_coord=33, y_coord=89, symbol='*')]
+True
+PartNumber: 664   x_left_coord: 35, x_right_coord: 38, y_coord: 88
+[Symbol(x_coord=38, y_coord=88, symbol='*')]
+True
+PartNumber: 865   x_left_coord: 45, x_right_coord: 48, y_coord: 88
+[Symbol(x_coord=45, y_coord=89, symbol='*')]
+True
+PartNumber: 428   x_left_coord: 83, x_right_coord: 86, y_coord: 88
+[Symbol(x_coord=87, y_coord=87, symbol='*'), Symbol(x_coord=86, y_coord=89, symbol='*')]
+True
+PartNumber: 143   x_left_coord: 119, x_right_coord: 122, y_coord: 88
+[Symbol(x_coord=118, y_coord=87, symbol='*'), Symbol(x_coord=123, y_coord=87, symbol='/')]
+True
+PartNumber: 829   x_left_coord: 125, x_right_coord: 128, y_coord: 88
+[Symbol(x_coord=126, y_coord=87, symbol='/'), Symbol(x_coord=129, y_coord=89, symbol='*')]
+True
+PartNumber: 552   x_left_coord: 129, x_right_coord: 132, y_coord: 88
+[Symbol(x_coord=129, y_coord=89, symbol='*')]
+True
+PartNumber: 829   x_left_coord: 137, x_right_coord: 140, y_coord: 88
+[Symbol(x_coord=136, y_coord=89, symbol='=')]
+True
+PartNumber: 425   x_left_coord: 22, x_right_coord: 25, y_coord: 89
+[Symbol(x_coord=23, y_coord=90, symbol='*')]
+True
+PartNumber: 894   x_left_coord: 27, x_right_coord: 30, y_coord: 89
+[Symbol(x_coord=30, y_coord=90, symbol='*')]
+True
+PartNumber: 792   x_left_coord: 39, x_right_coord: 42, y_coord: 89
+[Symbol(x_coord=38, y_coord=88, symbol='*')]
+True
+PartNumber: 321   x_left_coord: 51, x_right_coord: 54, y_coord: 89
+[Symbol(x_coord=50, y_coord=88, symbol='*'), Symbol(x_coord=55, y_coord=90, symbol='-')]
+True
+PartNumber: 219   x_left_coord: 56, x_right_coord: 59, y_coord: 89
+[Symbol(x_coord=55, y_coord=90, symbol='-')]
+True
+PartNumber: 564   x_left_coord: 79, x_right_coord: 82, y_coord: 89
+[Symbol(x_coord=81, y_coord=90, symbol='=')]
+True
+PartNumber: 166   x_left_coord: 89, x_right_coord: 92, y_coord: 89
+[Symbol(x_coord=90, y_coord=90, symbol='*')]
+True
+PartNumber: 764   x_left_coord: 107, x_right_coord: 110, y_coord: 89
+[Symbol(x_coord=108, y_coord=90, symbol='+')]
+True
+PartNumber: 619   x_left_coord: 2, x_right_coord: 5, y_coord: 90
+[Symbol(x_coord=3, y_coord=89, symbol='&')]
+True
+PartNumber: 529   x_left_coord: 10, x_right_coord: 13, y_coord: 90
+[]
+False
+PartNumber: 384   x_left_coord: 15, x_right_coord: 18, y_coord: 90
+[Symbol(x_coord=17, y_coord=91, symbol='*')]
+True
+PartNumber: 693   x_left_coord: 34, x_right_coord: 37, y_coord: 90
+[Symbol(x_coord=33, y_coord=89, symbol='*')]
+True
+PartNumber: 188   x_left_coord: 46, x_right_coord: 49, y_coord: 90
+[Symbol(x_coord=45, y_coord=89, symbol='*')]
+True
+PartNumber: 281   x_left_coord: 68, x_right_coord: 71, y_coord: 90
+[Symbol(x_coord=69, y_coord=91, symbol='*')]
+True
+PartNumber: 238   x_left_coord: 72, x_right_coord: 75, y_coord: 90
+[Symbol(x_coord=75, y_coord=89, symbol='='), Symbol(x_coord=76, y_coord=91, symbol='*')]
+True
+PartNumber: 339   x_left_coord: 83, x_right_coord: 86, y_coord: 90
+[Symbol(x_coord=86, y_coord=89, symbol='*')]
+True
+PartNumber: 124   x_left_coord: 94, x_right_coord: 97, y_coord: 90
+[Symbol(x_coord=96, y_coord=89, symbol='%')]
+True
+PartNumber: 278   x_left_coord: 100, x_right_coord: 103, y_coord: 90
+[Symbol(x_coord=101, y_coord=89, symbol='+')]
+True
+PartNumber: 490   x_left_coord: 113, x_right_coord: 116, y_coord: 90
+[Symbol(x_coord=116, y_coord=91, symbol='*')]
+True
+PartNumber: 481   x_left_coord: 121, x_right_coord: 124, y_coord: 90
+[Symbol(x_coord=120, y_coord=91, symbol='*')]
+True
+PartNumber: 416   x_left_coord: 128, x_right_coord: 131, y_coord: 90
+[Symbol(x_coord=129, y_coord=89, symbol='*')]
+True
+PartNumber: 442   x_left_coord: 19, x_right_coord: 22, y_coord: 91
+[Symbol(x_coord=23, y_coord=90, symbol='*'), Symbol(x_coord=20, y_coord=92, symbol='#')]
+True
+PartNumber: 76   x_left_coord: 24, x_right_coord: 26, y_coord: 91
+[Symbol(x_coord=23, y_coord=90, symbol='*')]
+True
+PartNumber: 801   x_left_coord: 30, x_right_coord: 33, y_coord: 91
+[Symbol(x_coord=30, y_coord=90, symbol='*')]
+True
+PartNumber: 376   x_left_coord: 38, x_right_coord: 41, y_coord: 91
+[Symbol(x_coord=41, y_coord=92, symbol='*')]
+True
+PartNumber: 511   x_left_coord: 59, x_right_coord: 62, y_coord: 91
+[Symbol(x_coord=58, y_coord=91, symbol='+')]
+True
+PartNumber: 967   x_left_coord: 90, x_right_coord: 93, y_coord: 91
+[Symbol(x_coord=90, y_coord=90, symbol='*')]
+True
+PartNumber: 68   x_left_coord: 118, x_right_coord: 120, y_coord: 91
+[Symbol(x_coord=120, y_coord=91, symbol='*')]
+True
+PartNumber: 919   x_left_coord: 133, x_right_coord: 136, y_coord: 91
+[Symbol(x_coord=136, y_coord=92, symbol='*')]
+True
+PartNumber: 731   x_left_coord: 3, x_right_coord: 6, y_coord: 92
+[Symbol(x_coord=5, y_coord=93, symbol='%'), Symbol(x_coord=7, y_coord=93, symbol='=')]
+True
+PartNumber: 484   x_left_coord: 8, x_right_coord: 11, y_coord: 92
+[Symbol(x_coord=7, y_coord=93, symbol='=')]
+True
+PartNumber: 875   x_left_coord: 15, x_right_coord: 18, y_coord: 92
+[Symbol(x_coord=17, y_coord=91, symbol='*')]
+True
+PartNumber: 243   x_left_coord: 42, x_right_coord: 45, y_coord: 92
+[Symbol(x_coord=41, y_coord=92, symbol='*')]
+True
+PartNumber: 681   x_left_coord: 48, x_right_coord: 51, y_coord: 92
+[Symbol(x_coord=51, y_coord=93, symbol='*')]
+True
+PartNumber: 135   x_left_coord: 68, x_right_coord: 71, y_coord: 92
+[Symbol(x_coord=69, y_coord=91, symbol='*')]
+True
+PartNumber: 191   x_left_coord: 73, x_right_coord: 76, y_coord: 92
+[Symbol(x_coord=76, y_coord=91, symbol='*')]
+True
+PartNumber: 162   x_left_coord: 77, x_right_coord: 80, y_coord: 92
+[Symbol(x_coord=76, y_coord=91, symbol='*')]
+True
+PartNumber: 688   x_left_coord: 81, x_right_coord: 84, y_coord: 92
+[Symbol(x_coord=84, y_coord=92, symbol='%')]
+True
+PartNumber: 29   x_left_coord: 94, x_right_coord: 96, y_coord: 92
+[]
+False
+PartNumber: 688   x_left_coord: 114, x_right_coord: 117, y_coord: 92
+[Symbol(x_coord=116, y_coord=91, symbol='*')]
+True
+PartNumber: 437   x_left_coord: 127, x_right_coord: 130, y_coord: 92
+[Symbol(x_coord=127, y_coord=93, symbol='*')]
+True
+PartNumber: 329   x_left_coord: 32, x_right_coord: 35, y_coord: 93
+[Symbol(x_coord=35, y_coord=93, symbol='*')]
+True
+PartNumber: 87   x_left_coord: 36, x_right_coord: 38, y_coord: 93
+[Symbol(x_coord=35, y_coord=93, symbol='*')]
+True
+PartNumber: 138   x_left_coord: 52, x_right_coord: 55, y_coord: 93
+[Symbol(x_coord=51, y_coord=93, symbol='*'), Symbol(x_coord=56, y_coord=93, symbol='-')]
+True
+PartNumber: 949   x_left_coord: 57, x_right_coord: 60, y_coord: 93
+[Symbol(x_coord=56, y_coord=93, symbol='-')]
+True
+PartNumber: 186   x_left_coord: 62, x_right_coord: 65, y_coord: 93
+[Symbol(x_coord=65, y_coord=94, symbol='@')]
+True
+PartNumber: 595   x_left_coord: 98, x_right_coord: 101, y_coord: 93
+[Symbol(x_coord=101, y_coord=92, symbol='*')]
+True
+PartNumber: 554   x_left_coord: 102, x_right_coord: 105, y_coord: 93
+[Symbol(x_coord=101, y_coord=92, symbol='*')]
+True
+PartNumber: 755   x_left_coord: 120, x_right_coord: 123, y_coord: 93
+[Symbol(x_coord=123, y_coord=94, symbol='*')]
+True
+PartNumber: 454   x_left_coord: 133, x_right_coord: 136, y_coord: 93
+[Symbol(x_coord=136, y_coord=92, symbol='*')]
+True
+PartNumber: 341   x_left_coord: 12, x_right_coord: 15, y_coord: 94
+[Symbol(x_coord=13, y_coord=95, symbol='*'), Symbol(x_coord=16, y_coord=95, symbol='*')]
+True
+PartNumber: 302   x_left_coord: 17, x_right_coord: 20, y_coord: 94
+[Symbol(x_coord=16, y_coord=95, symbol='*')]
+True
+PartNumber: 330   x_left_coord: 41, x_right_coord: 44, y_coord: 94
+[Symbol(x_coord=40, y_coord=95, symbol='*')]
+True
+PartNumber: 779   x_left_coord: 89, x_right_coord: 92, y_coord: 94
+[Symbol(x_coord=89, y_coord=95, symbol='*')]
+True
+PartNumber: 353   x_left_coord: 106, x_right_coord: 109, y_coord: 94
+[Symbol(x_coord=105, y_coord=95, symbol='*')]
+True
+PartNumber: 535   x_left_coord: 126, x_right_coord: 129, y_coord: 94
+[Symbol(x_coord=127, y_coord=93, symbol='*')]
+True
+PartNumber: 766   x_left_coord: 5, x_right_coord: 8, y_coord: 95
+[Symbol(x_coord=8, y_coord=96, symbol='/')]
+True
+PartNumber: 315   x_left_coord: 27, x_right_coord: 30, y_coord: 95
+[Symbol(x_coord=29, y_coord=94, symbol='&')]
+True
+PartNumber: 856   x_left_coord: 36, x_right_coord: 39, y_coord: 95
+[Symbol(x_coord=40, y_coord=95, symbol='*'), Symbol(x_coord=36, y_coord=96, symbol='*')]
+True
+PartNumber: 540   x_left_coord: 57, x_right_coord: 60, y_coord: 95
+[Symbol(x_coord=58, y_coord=96, symbol='+')]
+True
+PartNumber: 136   x_left_coord: 74, x_right_coord: 77, y_coord: 95
+[Symbol(x_coord=77, y_coord=96, symbol='*')]
+True
+PartNumber: 914   x_left_coord: 97, x_right_coord: 100, y_coord: 95
+[Symbol(x_coord=98, y_coord=96, symbol='%')]
+True
+PartNumber: 162   x_left_coord: 102, x_right_coord: 105, y_coord: 95
+[Symbol(x_coord=105, y_coord=95, symbol='*')]
+True
+PartNumber: 7   x_left_coord: 113, x_right_coord: 114, y_coord: 95
+[Symbol(x_coord=115, y_coord=94, symbol='@')]
+True
+PartNumber: 336   x_left_coord: 116, x_right_coord: 119, y_coord: 95
+[Symbol(x_coord=115, y_coord=94, symbol='@')]
+True
+PartNumber: 383   x_left_coord: 121, x_right_coord: 124, y_coord: 95
+[Symbol(x_coord=123, y_coord=94, symbol='*')]
+True
+PartNumber: 642   x_left_coord: 136, x_right_coord: 139, y_coord: 95
+[]
+False
+PartNumber: 253   x_left_coord: 11, x_right_coord: 14, y_coord: 96
+[Symbol(x_coord=13, y_coord=95, symbol='*')]
+True
+PartNumber: 502   x_left_coord: 17, x_right_coord: 20, y_coord: 96
+[Symbol(x_coord=16, y_coord=95, symbol='*')]
+True
+PartNumber: 990   x_left_coord: 40, x_right_coord: 43, y_coord: 96
+[Symbol(x_coord=40, y_coord=95, symbol='*')]
+True
+PartNumber: 299   x_left_coord: 48, x_right_coord: 51, y_coord: 96
+[]
+False
+PartNumber: 413   x_left_coord: 62, x_right_coord: 65, y_coord: 96
+[Symbol(x_coord=64, y_coord=97, symbol='*')]
+True
+PartNumber: 338   x_left_coord: 88, x_right_coord: 91, y_coord: 96
+[Symbol(x_coord=89, y_coord=95, symbol='*')]
+True
+PartNumber: 294   x_left_coord: 128, x_right_coord: 131, y_coord: 96
+[Symbol(x_coord=131, y_coord=96, symbol='*')]
+True
+PartNumber: 636   x_left_coord: 24, x_right_coord: 27, y_coord: 97
+[Symbol(x_coord=26, y_coord=98, symbol='$')]
+True
+PartNumber: 986   x_left_coord: 28, x_right_coord: 31, y_coord: 97
+[Symbol(x_coord=29, y_coord=98, symbol='*')]
+True
+PartNumber: 431   x_left_coord: 32, x_right_coord: 35, y_coord: 97
+[Symbol(x_coord=36, y_coord=96, symbol='*'), Symbol(x_coord=33, y_coord=98, symbol='*')]
+True
+PartNumber: 345   x_left_coord: 36, x_right_coord: 39, y_coord: 97
+[Symbol(x_coord=36, y_coord=96, symbol='*')]
+True
+PartNumber: 693   x_left_coord: 54, x_right_coord: 57, y_coord: 97
+[Symbol(x_coord=58, y_coord=96, symbol='+'), Symbol(x_coord=57, y_coord=98, symbol='$')]
+True
+PartNumber: 276   x_left_coord: 104, x_right_coord: 107, y_coord: 97
+[Symbol(x_coord=103, y_coord=98, symbol='*')]
+True
+PartNumber: 836   x_left_coord: 117, x_right_coord: 120, y_coord: 97
+[Symbol(x_coord=120, y_coord=97, symbol='@')]
+True
+PartNumber: 278   x_left_coord: 122, x_right_coord: 125, y_coord: 97
+[]
+False
+PartNumber: 716   x_left_coord: 132, x_right_coord: 135, y_coord: 97
+[Symbol(x_coord=131, y_coord=96, symbol='*'), Symbol(x_coord=136, y_coord=98, symbol='*')]
+True
+PartNumber: 469   x_left_coord: 137, x_right_coord: 140, y_coord: 97
+[Symbol(x_coord=136, y_coord=98, symbol='*')]
+True
+PartNumber: 247   x_left_coord: 5, x_right_coord: 8, y_coord: 98
+[Symbol(x_coord=5, y_coord=97, symbol='&')]
+True
+PartNumber: 905   x_left_coord: 18, x_right_coord: 21, y_coord: 98
+[Symbol(x_coord=21, y_coord=98, symbol='*')]
+True
+PartNumber: 502   x_left_coord: 63, x_right_coord: 66, y_coord: 98
+[Symbol(x_coord=64, y_coord=97, symbol='*')]
+True
+PartNumber: 177   x_left_coord: 69, x_right_coord: 72, y_coord: 98
+[Symbol(x_coord=72, y_coord=97, symbol='*')]
+True
+PartNumber: 72   x_left_coord: 81, x_right_coord: 83, y_coord: 98
+[Symbol(x_coord=83, y_coord=98, symbol='=')]
+True
+PartNumber: 232   x_left_coord: 94, x_right_coord: 97, y_coord: 98
+[Symbol(x_coord=95, y_coord=99, symbol='*')]
+True
+PartNumber: 674   x_left_coord: 9, x_right_coord: 12, y_coord: 99
+[Symbol(x_coord=10, y_coord=100, symbol='/')]
+True
+PartNumber: 905   x_left_coord: 13, x_right_coord: 16, y_coord: 99
+[Symbol(x_coord=16, y_coord=98, symbol='*')]
+True
+PartNumber: 664   x_left_coord: 22, x_right_coord: 25, y_coord: 99
+[Symbol(x_coord=21, y_coord=98, symbol='*'), Symbol(x_coord=26, y_coord=98, symbol='$')]
+True
+PartNumber: 124   x_left_coord: 28, x_right_coord: 31, y_coord: 99
+[Symbol(x_coord=29, y_coord=98, symbol='*')]
+True
+PartNumber: 127   x_left_coord: 44, x_right_coord: 47, y_coord: 99
+[Symbol(x_coord=43, y_coord=99, symbol='*')]
+True
+PartNumber: 564   x_left_coord: 76, x_right_coord: 79, y_coord: 99
+[Symbol(x_coord=77, y_coord=100, symbol='*')]
+True
+PartNumber: 924   x_left_coord: 87, x_right_coord: 90, y_coord: 99
+[Symbol(x_coord=90, y_coord=98, symbol='$')]
+True
+PartNumber: 616   x_left_coord: 103, x_right_coord: 106, y_coord: 99
+[Symbol(x_coord=103, y_coord=98, symbol='*')]
+True
+PartNumber: 661   x_left_coord: 109, x_right_coord: 112, y_coord: 99
+[Symbol(x_coord=112, y_coord=100, symbol='*')]
+True
+PartNumber: 403   x_left_coord: 114, x_right_coord: 117, y_coord: 99
+[]
+False
+PartNumber: 10   x_left_coord: 121, x_right_coord: 123, y_coord: 99
+[Symbol(x_coord=120, y_coord=100, symbol='*')]
+True
+PartNumber: 429   x_left_coord: 132, x_right_coord: 135, y_coord: 99
+[Symbol(x_coord=136, y_coord=98, symbol='*'), Symbol(x_coord=133, y_coord=100, symbol='*')]
+True
+PartNumber: 724   x_left_coord: 136, x_right_coord: 139, y_coord: 99
+[Symbol(x_coord=136, y_coord=98, symbol='*')]
+True
+PartNumber: 78   x_left_coord: 41, x_right_coord: 43, y_coord: 100
+[Symbol(x_coord=43, y_coord=99, symbol='*')]
+True
+PartNumber: 5   x_left_coord: 58, x_right_coord: 59, y_coord: 100
+[Symbol(x_coord=57, y_coord=100, symbol='#')]
+True
+PartNumber: 498   x_left_coord: 94, x_right_coord: 97, y_coord: 100
+[Symbol(x_coord=95, y_coord=99, symbol='*')]
+True
+PartNumber: 650   x_left_coord: 99, x_right_coord: 102, y_coord: 100
+[Symbol(x_coord=101, y_coord=99, symbol='&')]
+True
+PartNumber: 348   x_left_coord: 5, x_right_coord: 8, y_coord: 101
+[Symbol(x_coord=4, y_coord=102, symbol='*')]
+True
+PartNumber: 488   x_left_coord: 22, x_right_coord: 25, y_coord: 101
+[]
+False
+PartNumber: 414   x_left_coord: 36, x_right_coord: 39, y_coord: 101
+[Symbol(x_coord=38, y_coord=102, symbol='&')]
+True
+PartNumber: 962   x_left_coord: 65, x_right_coord: 68, y_coord: 101
+[Symbol(x_coord=69, y_coord=102, symbol='+')]
+True
+PartNumber: 552   x_left_coord: 71, x_right_coord: 74, y_coord: 101
+[Symbol(x_coord=74, y_coord=102, symbol='/')]
+True
+PartNumber: 107   x_left_coord: 77, x_right_coord: 80, y_coord: 101
+[Symbol(x_coord=77, y_coord=100, symbol='*')]
+True
+PartNumber: 533   x_left_coord: 87, x_right_coord: 90, y_coord: 101
+[Symbol(x_coord=87, y_coord=102, symbol='$')]
+True
+PartNumber: 109   x_left_coord: 112, x_right_coord: 115, y_coord: 101
+[Symbol(x_coord=112, y_coord=100, symbol='*')]
+True
+PartNumber: 432   x_left_coord: 119, x_right_coord: 122, y_coord: 101
+[Symbol(x_coord=120, y_coord=100, symbol='*')]
+True
+PartNumber: 423   x_left_coord: 133, x_right_coord: 136, y_coord: 101
+[Symbol(x_coord=133, y_coord=100, symbol='*')]
+True
+PartNumber: 536   x_left_coord: 12, x_right_coord: 15, y_coord: 102
+[Symbol(x_coord=12, y_coord=101, symbol='*')]
+True
+PartNumber: 283   x_left_coord: 31, x_right_coord: 34, y_coord: 102
+[Symbol(x_coord=31, y_coord=103, symbol='*')]
+True
+PartNumber: 800   x_left_coord: 45, x_right_coord: 48, y_coord: 102
+[Symbol(x_coord=45, y_coord=103, symbol='*')]
+True
+PartNumber: 677   x_left_coord: 83, x_right_coord: 86, y_coord: 102
+[Symbol(x_coord=83, y_coord=101, symbol='@'), Symbol(x_coord=87, y_coord=102, symbol='$')]
+True
+PartNumber: 32   x_left_coord: 106, x_right_coord: 108, y_coord: 102
+[]
+False
+PartNumber: 410   x_left_coord: 123, x_right_coord: 126, y_coord: 102
+[Symbol(x_coord=126, y_coord=101, symbol='*')]
+True
+PartNumber: 392   x_left_coord: 127, x_right_coord: 130, y_coord: 102
+[Symbol(x_coord=126, y_coord=101, symbol='*')]
+True
+PartNumber: 826   x_left_coord: 4, x_right_coord: 7, y_coord: 103
+[Symbol(x_coord=4, y_coord=102, symbol='*')]
+True
+PartNumber: 755   x_left_coord: 20, x_right_coord: 23, y_coord: 103
+[Symbol(x_coord=21, y_coord=104, symbol='*')]
+True
+PartNumber: 396   x_left_coord: 40, x_right_coord: 43, y_coord: 103
+[Symbol(x_coord=43, y_coord=104, symbol='$')]
+True
+PartNumber: 771   x_left_coord: 62, x_right_coord: 65, y_coord: 103
+[Symbol(x_coord=61, y_coord=102, symbol='&')]
+True
+PartNumber: 837   x_left_coord: 70, x_right_coord: 73, y_coord: 103
+[Symbol(x_coord=69, y_coord=102, symbol='+'), Symbol(x_coord=74, y_coord=102, symbol='/')]
+True
+PartNumber: 577   x_left_coord: 95, x_right_coord: 98, y_coord: 103
+[Symbol(x_coord=95, y_coord=104, symbol='*'), Symbol(x_coord=99, y_coord=104, symbol='%')]
+True
+PartNumber: 53   x_left_coord: 115, x_right_coord: 117, y_coord: 103
+[Symbol(x_coord=117, y_coord=104, symbol='*')]
+True
+PartNumber: 314   x_left_coord: 132, x_right_coord: 135, y_coord: 103
+[]
+False
+PartNumber: 109   x_left_coord: 14, x_right_coord: 17, y_coord: 104
+[Symbol(x_coord=17, y_coord=104, symbol='$')]
+True
+PartNumber: 988   x_left_coord: 32, x_right_coord: 35, y_coord: 104
+[Symbol(x_coord=31, y_coord=103, symbol='*')]
+True
+PartNumber: 241   x_left_coord: 46, x_right_coord: 49, y_coord: 104
+[Symbol(x_coord=45, y_coord=103, symbol='*')]
+True
+PartNumber: 750   x_left_coord: 51, x_right_coord: 54, y_coord: 104
+[Symbol(x_coord=54, y_coord=103, symbol='/')]
+True
+PartNumber: 169   x_left_coord: 80, x_right_coord: 83, y_coord: 104
+[Symbol(x_coord=81, y_coord=103, symbol='=')]
+True
+PartNumber: 162   x_left_coord: 86, x_right_coord: 89, y_coord: 104
+[Symbol(x_coord=88, y_coord=105, symbol='*')]
+True
+PartNumber: 575   x_left_coord: 104, x_right_coord: 107, y_coord: 104
+[]
+False
+PartNumber: 743   x_left_coord: 108, x_right_coord: 111, y_coord: 104
+[Symbol(x_coord=111, y_coord=105, symbol='*')]
+True
+PartNumber: 278   x_left_coord: 136, x_right_coord: 139, y_coord: 104
+[Symbol(x_coord=135, y_coord=105, symbol='&')]
+True
+PartNumber: 862   x_left_coord: 10, x_right_coord: 13, y_coord: 105
+[Symbol(x_coord=9, y_coord=104, symbol='@')]
+True
+PartNumber: 227   x_left_coord: 21, x_right_coord: 24, y_coord: 105
+[Symbol(x_coord=21, y_coord=104, symbol='*')]
+True
+PartNumber: 585   x_left_coord: 28, x_right_coord: 31, y_coord: 105
+[Symbol(x_coord=28, y_coord=106, symbol='*')]
+True
+PartNumber: 158   x_left_coord: 39, x_right_coord: 42, y_coord: 105
+[Symbol(x_coord=43, y_coord=104, symbol='$'), Symbol(x_coord=38, y_coord=106, symbol='#'), Symbol(x_coord=43, y_coord=106, symbol='/')]
+True
+PartNumber: 262   x_left_coord: 55, x_right_coord: 58, y_coord: 105
+[Symbol(x_coord=54, y_coord=106, symbol='*')]
+True
+PartNumber: 51   x_left_coord: 63, x_right_coord: 65, y_coord: 105
+[]
+False
+PartNumber: 151   x_left_coord: 67, x_right_coord: 70, y_coord: 105
+[Symbol(x_coord=67, y_coord=104, symbol='@')]
+True
+PartNumber: 509   x_left_coord: 91, x_right_coord: 94, y_coord: 105
+[Symbol(x_coord=95, y_coord=104, symbol='*'), Symbol(x_coord=92, y_coord=106, symbol='*')]
+True
+PartNumber: 31   x_left_coord: 97, x_right_coord: 99, y_coord: 105
+[Symbol(x_coord=99, y_coord=104, symbol='%')]
+True
+PartNumber: 144   x_left_coord: 127, x_right_coord: 130, y_coord: 105
+[Symbol(x_coord=130, y_coord=106, symbol='*')]
+True
+PartNumber: 481   x_left_coord: 131, x_right_coord: 134, y_coord: 105
+[Symbol(x_coord=135, y_coord=105, symbol='&'), Symbol(x_coord=130, y_coord=106, symbol='*')]
+True
+PartNumber: 467   x_left_coord: 17, x_right_coord: 20, y_coord: 106
+[Symbol(x_coord=19, y_coord=107, symbol='*')]
+True
+PartNumber: 973   x_left_coord: 82, x_right_coord: 85, y_coord: 106
+[Symbol(x_coord=81, y_coord=107, symbol='*')]
+True
+PartNumber: 218   x_left_coord: 87, x_right_coord: 90, y_coord: 106
+[Symbol(x_coord=88, y_coord=105, symbol='*')]
+True
+PartNumber: 543   x_left_coord: 111, x_right_coord: 114, y_coord: 106
+[Symbol(x_coord=111, y_coord=105, symbol='*')]
+True
+PartNumber: 678   x_left_coord: 120, x_right_coord: 123, y_coord: 106
+[Symbol(x_coord=122, y_coord=105, symbol='+'), Symbol(x_coord=124, y_coord=107, symbol='/')]
+True
+PartNumber: 32   x_left_coord: 6, x_right_coord: 8, y_coord: 107
+[Symbol(x_coord=8, y_coord=106, symbol='*')]
+True
+PartNumber: 106   x_left_coord: 9, x_right_coord: 12, y_coord: 107
+[Symbol(x_coord=8, y_coord=106, symbol='*')]
+True
+PartNumber: 260   x_left_coord: 26, x_right_coord: 29, y_coord: 107
+[Symbol(x_coord=28, y_coord=106, symbol='*')]
+True
+PartNumber: 425   x_left_coord: 40, x_right_coord: 43, y_coord: 107
+[Symbol(x_coord=43, y_coord=106, symbol='/')]
+True
+PartNumber: 912   x_left_coord: 52, x_right_coord: 55, y_coord: 107
+[Symbol(x_coord=54, y_coord=106, symbol='*')]
+True
+PartNumber: 383   x_left_coord: 72, x_right_coord: 75, y_coord: 107
+[Symbol(x_coord=72, y_coord=108, symbol='*')]
+True
+PartNumber: 392   x_left_coord: 77, x_right_coord: 80, y_coord: 107
+[Symbol(x_coord=77, y_coord=106, symbol='%'), Symbol(x_coord=81, y_coord=107, symbol='*')]
+True
+PartNumber: 503   x_left_coord: 93, x_right_coord: 96, y_coord: 107
+[Symbol(x_coord=92, y_coord=106, symbol='*')]
+True
+PartNumber: 546   x_left_coord: 100, x_right_coord: 103, y_coord: 107
+[Symbol(x_coord=103, y_coord=106, symbol='@')]
+True
+PartNumber: 212   x_left_coord: 105, x_right_coord: 108, y_coord: 107
+[Symbol(x_coord=106, y_coord=108, symbol='*')]
+True
+PartNumber: 442   x_left_coord: 125, x_right_coord: 128, y_coord: 107
+[Symbol(x_coord=124, y_coord=107, symbol='/')]
+True
+PartNumber: 221   x_left_coord: 133, x_right_coord: 136, y_coord: 107
+[Symbol(x_coord=133, y_coord=108, symbol='&')]
+True
+PartNumber: 668   x_left_coord: 14, x_right_coord: 17, y_coord: 108
+[Symbol(x_coord=15, y_coord=107, symbol='$')]
+True
+PartNumber: 593   x_left_coord: 20, x_right_coord: 23, y_coord: 108
+[Symbol(x_coord=19, y_coord=107, symbol='*')]
+True
+PartNumber: 422   x_left_coord: 35, x_right_coord: 38, y_coord: 108
+[Symbol(x_coord=38, y_coord=109, symbol='*')]
+True
+PartNumber: 966   x_left_coord: 45, x_right_coord: 48, y_coord: 108
+[Symbol(x_coord=48, y_coord=108, symbol='*')]
+True
+PartNumber: 37   x_left_coord: 49, x_right_coord: 51, y_coord: 108
+[Symbol(x_coord=48, y_coord=108, symbol='*')]
+True
+PartNumber: 503   x_left_coord: 67, x_right_coord: 70, y_coord: 108
+[]
+False
+PartNumber: 776   x_left_coord: 82, x_right_coord: 85, y_coord: 108
+[Symbol(x_coord=81, y_coord=107, symbol='*')]
+True
+PartNumber: 5   x_left_coord: 90, x_right_coord: 91, y_coord: 108
+[Symbol(x_coord=91, y_coord=108, symbol='$')]
+True
+PartNumber: 833   x_left_coord: 113, x_right_coord: 116, y_coord: 108
+[Symbol(x_coord=116, y_coord=107, symbol='%')]
+True
+PartNumber: 21   x_left_coord: 32, x_right_coord: 34, y_coord: 109
+[]
+False
+PartNumber: 497   x_left_coord: 41, x_right_coord: 44, y_coord: 109
+[Symbol(x_coord=40, y_coord=109, symbol='-')]
+True
+PartNumber: 133   x_left_coord: 72, x_right_coord: 75, y_coord: 109
+[Symbol(x_coord=72, y_coord=108, symbol='*')]
+True
+PartNumber: 862   x_left_coord: 86, x_right_coord: 89, y_coord: 109
+[Symbol(x_coord=85, y_coord=110, symbol='-'), Symbol(x_coord=90, y_coord=110, symbol='%')]
+True
+PartNumber: 241   x_left_coord: 95, x_right_coord: 98, y_coord: 109
+[]
+False
+PartNumber: 824   x_left_coord: 122, x_right_coord: 125, y_coord: 109
+[Symbol(x_coord=122, y_coord=110, symbol='*')]
+True
+PartNumber: 215   x_left_coord: 9, x_right_coord: 12, y_coord: 110
+[Symbol(x_coord=12, y_coord=109, symbol='-')]
+True
+PartNumber: 851   x_left_coord: 35, x_right_coord: 38, y_coord: 110
+[Symbol(x_coord=38, y_coord=109, symbol='*')]
+True
+PartNumber: 932   x_left_coord: 56, x_right_coord: 59, y_coord: 110
+[Symbol(x_coord=59, y_coord=111, symbol='$')]
+True
+PartNumber: 597   x_left_coord: 109, x_right_coord: 112, y_coord: 110
+[Symbol(x_coord=111, y_coord=109, symbol='-')]
+True
+PartNumber: 323   x_left_coord: 17, x_right_coord: 20, y_coord: 111
+[Symbol(x_coord=16, y_coord=111, symbol='*')]
+True
+PartNumber: 557   x_left_coord: 24, x_right_coord: 27, y_coord: 111
+[Symbol(x_coord=24, y_coord=112, symbol='*')]
+True
+PartNumber: 782   x_left_coord: 31, x_right_coord: 34, y_coord: 111
+[Symbol(x_coord=31, y_coord=112, symbol='*')]
+True
+PartNumber: 964   x_left_coord: 44, x_right_coord: 47, y_coord: 111
+[Symbol(x_coord=47, y_coord=110, symbol='-')]
+True
+PartNumber: 14   x_left_coord: 50, x_right_coord: 52, y_coord: 111
+[Symbol(x_coord=50, y_coord=112, symbol='=')]
+True
+PartNumber: 631   x_left_coord: 65, x_right_coord: 68, y_coord: 111
+[Symbol(x_coord=67, y_coord=110, symbol='@'), Symbol(x_coord=69, y_coord=110, symbol='/')]
+True
+PartNumber: 144   x_left_coord: 69, x_right_coord: 72, y_coord: 111
+[Symbol(x_coord=69, y_coord=110, symbol='/')]
+True
+PartNumber: 588   x_left_coord: 77, x_right_coord: 80, y_coord: 111
+[Symbol(x_coord=77, y_coord=110, symbol='-')]
+True
+PartNumber: 316   x_left_coord: 89, x_right_coord: 92, y_coord: 111
+[Symbol(x_coord=90, y_coord=110, symbol='%')]
+True
+PartNumber: 252   x_left_coord: 114, x_right_coord: 117, y_coord: 111
+[Symbol(x_coord=113, y_coord=112, symbol='*')]
+True
+PartNumber: 396   x_left_coord: 119, x_right_coord: 122, y_coord: 111
+[Symbol(x_coord=122, y_coord=110, symbol='*')]
+True
+PartNumber: 257   x_left_coord: 130, x_right_coord: 133, y_coord: 111
+[Symbol(x_coord=131, y_coord=110, symbol='@')]
+True
+PartNumber: 957   x_left_coord: 136, x_right_coord: 139, y_coord: 111
+[Symbol(x_coord=135, y_coord=112, symbol='=')]
+True
+PartNumber: 367   x_left_coord: 13, x_right_coord: 16, y_coord: 112
+[Symbol(x_coord=16, y_coord=111, symbol='*')]
+True
+PartNumber: 64   x_left_coord: 37, x_right_coord: 39, y_coord: 112
+[]
+False
+PartNumber: 97   x_left_coord: 40, x_right_coord: 42, y_coord: 112
+[]
+False
+PartNumber: 976   x_left_coord: 53, x_right_coord: 56, y_coord: 112
+[Symbol(x_coord=54, y_coord=111, symbol='$')]
+True
+PartNumber: 245   x_left_coord: 61, x_right_coord: 64, y_coord: 112
+[]
+False
+PartNumber: 982   x_left_coord: 83, x_right_coord: 86, y_coord: 112
+[Symbol(x_coord=82, y_coord=112, symbol='/')]
+True
+PartNumber: 135   x_left_coord: 96, x_right_coord: 99, y_coord: 112
+[]
+False
+PartNumber: 169   x_left_coord: 102, x_right_coord: 105, y_coord: 112
+[Symbol(x_coord=102, y_coord=113, symbol='*')]
+True
+PartNumber: 513   x_left_coord: 4, x_right_coord: 7, y_coord: 113
+[]
+False
+PartNumber: 96   x_left_coord: 17, x_right_coord: 19, y_coord: 113
+[Symbol(x_coord=16, y_coord=114, symbol='*'), Symbol(x_coord=20, y_coord=114, symbol='+')]
+True
+PartNumber: 101   x_left_coord: 20, x_right_coord: 23, y_coord: 113
+[Symbol(x_coord=24, y_coord=112, symbol='*'), Symbol(x_coord=20, y_coord=114, symbol='+')]
+True
+PartNumber: 359   x_left_coord: 25, x_right_coord: 28, y_coord: 113
+[Symbol(x_coord=24, y_coord=112, symbol='*')]
+True
+PartNumber: 212   x_left_coord: 29, x_right_coord: 32, y_coord: 113
+[Symbol(x_coord=31, y_coord=112, symbol='*'), Symbol(x_coord=33, y_coord=114, symbol='#')]
+True
+PartNumber: 585   x_left_coord: 33, x_right_coord: 36, y_coord: 113
+[Symbol(x_coord=33, y_coord=114, symbol='#')]
+True
+PartNumber: 965   x_left_coord: 66, x_right_coord: 69, y_coord: 113
+[Symbol(x_coord=69, y_coord=113, symbol='*')]
+True
+PartNumber: 287   x_left_coord: 70, x_right_coord: 73, y_coord: 113
+[Symbol(x_coord=69, y_coord=113, symbol='*')]
+True
+PartNumber: 803   x_left_coord: 74, x_right_coord: 77, y_coord: 113
+[Symbol(x_coord=77, y_coord=114, symbol='*')]
+True
+PartNumber: 501   x_left_coord: 78, x_right_coord: 81, y_coord: 113
+[Symbol(x_coord=82, y_coord=112, symbol='/'), Symbol(x_coord=77, y_coord=114, symbol='*')]
+True
+PartNumber: 460   x_left_coord: 90, x_right_coord: 93, y_coord: 113
+[Symbol(x_coord=91, y_coord=114, symbol='*')]
+True
+PartNumber: 618   x_left_coord: 112, x_right_coord: 115, y_coord: 113
+[Symbol(x_coord=113, y_coord=112, symbol='*')]
+True
+PartNumber: 98   x_left_coord: 119, x_right_coord: 121, y_coord: 113
+[Symbol(x_coord=121, y_coord=114, symbol='*')]
+True
+PartNumber: 208   x_left_coord: 122, x_right_coord: 125, y_coord: 113
+[Symbol(x_coord=121, y_coord=114, symbol='*')]
+True
+PartNumber: 802   x_left_coord: 13, x_right_coord: 16, y_coord: 114
+[Symbol(x_coord=16, y_coord=114, symbol='*')]
+True
+PartNumber: 804   x_left_coord: 48, x_right_coord: 51, y_coord: 114
+[Symbol(x_coord=47, y_coord=115, symbol='*')]
+True
+PartNumber: 123   x_left_coord: 53, x_right_coord: 56, y_coord: 114
+[Symbol(x_coord=56, y_coord=115, symbol='@')]
+True
+PartNumber: 579   x_left_coord: 59, x_right_coord: 62, y_coord: 114
+[Symbol(x_coord=62, y_coord=114, symbol='*')]
+True
+PartNumber: 282   x_left_coord: 99, x_right_coord: 102, y_coord: 114
+[Symbol(x_coord=102, y_coord=113, symbol='*')]
+True
+PartNumber: 263   x_left_coord: 107, x_right_coord: 110, y_coord: 114
+[Symbol(x_coord=106, y_coord=115, symbol='*')]
+True
+PartNumber: 707   x_left_coord: 1, x_right_coord: 4, y_coord: 115
+[]
+False
+PartNumber: 522   x_left_coord: 8, x_right_coord: 11, y_coord: 115
+[Symbol(x_coord=10, y_coord=116, symbol='/')]
+True
+PartNumber: 106   x_left_coord: 63, x_right_coord: 66, y_coord: 115
+[Symbol(x_coord=62, y_coord=114, symbol='*'), Symbol(x_coord=67, y_coord=116, symbol='*')]
+True
+PartNumber: 143   x_left_coord: 68, x_right_coord: 71, y_coord: 115
+[Symbol(x_coord=67, y_coord=116, symbol='*')]
+True
+PartNumber: 716   x_left_coord: 80, x_right_coord: 83, y_coord: 115
+[Symbol(x_coord=81, y_coord=116, symbol='*')]
+True
+PartNumber: 770   x_left_coord: 89, x_right_coord: 92, y_coord: 115
+[Symbol(x_coord=91, y_coord=114, symbol='*')]
+True
+PartNumber: 576   x_left_coord: 103, x_right_coord: 106, y_coord: 115
+[Symbol(x_coord=106, y_coord=115, symbol='*')]
+True
+PartNumber: 497   x_left_coord: 129, x_right_coord: 132, y_coord: 115
+[Symbol(x_coord=129, y_coord=116, symbol='*')]
+True
+PartNumber: 835   x_left_coord: 24, x_right_coord: 27, y_coord: 116
+[Symbol(x_coord=25, y_coord=117, symbol='*')]
+True
+PartNumber: 545   x_left_coord: 39, x_right_coord: 42, y_coord: 116
+[Symbol(x_coord=42, y_coord=116, symbol='*')]
+True
+PartNumber: 610   x_left_coord: 43, x_right_coord: 46, y_coord: 116
+[Symbol(x_coord=47, y_coord=115, symbol='*'), Symbol(x_coord=42, y_coord=116, symbol='*')]
+True
+PartNumber: 462   x_left_coord: 47, x_right_coord: 50, y_coord: 116
+[Symbol(x_coord=47, y_coord=115, symbol='*')]
+True
+PartNumber: 188   x_left_coord: 52, x_right_coord: 55, y_coord: 116
+[Symbol(x_coord=56, y_coord=115, symbol='@')]
+True
+PartNumber: 115   x_left_coord: 120, x_right_coord: 123, y_coord: 116
+[Symbol(x_coord=119, y_coord=116, symbol='*')]
+True
+PartNumber: 928   x_left_coord: 0, x_right_coord: 3, y_coord: 117
+[Symbol(x_coord=3, y_coord=117, symbol='%')]
+True
+PartNumber: 606   x_left_coord: 5, x_right_coord: 8, y_coord: 117
+[Symbol(x_coord=6, y_coord=116, symbol='#')]
+True
+PartNumber: 207   x_left_coord: 15, x_right_coord: 18, y_coord: 117
+[Symbol(x_coord=14, y_coord=116, symbol='=')]
+True
+PartNumber: 61   x_left_coord: 32, x_right_coord: 34, y_coord: 117
+[Symbol(x_coord=34, y_coord=118, symbol='@')]
+True
+PartNumber: 797   x_left_coord: 60, x_right_coord: 63, y_coord: 117
+[]
+False
+PartNumber: 228   x_left_coord: 68, x_right_coord: 71, y_coord: 117
+[Symbol(x_coord=67, y_coord=116, symbol='*')]
+True
+PartNumber: 357   x_left_coord: 73, x_right_coord: 76, y_coord: 117
+[Symbol(x_coord=73, y_coord=118, symbol='+')]
+True
+PartNumber: 484   x_left_coord: 80, x_right_coord: 83, y_coord: 117
+[Symbol(x_coord=81, y_coord=116, symbol='*')]
+True
+PartNumber: 492   x_left_coord: 85, x_right_coord: 88, y_coord: 117
+[Symbol(x_coord=87, y_coord=116, symbol='$')]
+True
+PartNumber: 247   x_left_coord: 98, x_right_coord: 101, y_coord: 117
+[Symbol(x_coord=100, y_coord=118, symbol='*')]
+True
+PartNumber: 574   x_left_coord: 116, x_right_coord: 119, y_coord: 117
+[Symbol(x_coord=119, y_coord=116, symbol='*')]
+True
+PartNumber: 880   x_left_coord: 129, x_right_coord: 132, y_coord: 117
+[Symbol(x_coord=129, y_coord=116, symbol='*')]
+True
+PartNumber: 994   x_left_coord: 133, x_right_coord: 136, y_coord: 117
+[Symbol(x_coord=134, y_coord=116, symbol='*')]
+True
+PartNumber: 541   x_left_coord: 11, x_right_coord: 14, y_coord: 118
+[Symbol(x_coord=14, y_coord=119, symbol='*')]
+True
+PartNumber: 444   x_left_coord: 25, x_right_coord: 28, y_coord: 118
+[Symbol(x_coord=25, y_coord=117, symbol='*')]
+True
+PartNumber: 122   x_left_coord: 39, x_right_coord: 42, y_coord: 118
+[Symbol(x_coord=39, y_coord=119, symbol='*')]
+True
+PartNumber: 505   x_left_coord: 64, x_right_coord: 67, y_coord: 118
+[Symbol(x_coord=63, y_coord=119, symbol='*')]
+True
+PartNumber: 14   x_left_coord: 77, x_right_coord: 79, y_coord: 118
+[Symbol(x_coord=78, y_coord=119, symbol='*')]
+True
+PartNumber: 534   x_left_coord: 89, x_right_coord: 92, y_coord: 118
+[]
+False
+PartNumber: 210   x_left_coord: 106, x_right_coord: 109, y_coord: 118
+[Symbol(x_coord=105, y_coord=119, symbol='*')]
+True
+PartNumber: 150   x_left_coord: 120, x_right_coord: 123, y_coord: 118
+[Symbol(x_coord=123, y_coord=119, symbol='*')]
+True
+PartNumber: 948   x_left_coord: 124, x_right_coord: 127, y_coord: 118
+[Symbol(x_coord=123, y_coord=119, symbol='*')]
+True
+PartNumber: 210   x_left_coord: 137, x_right_coord: 140, y_coord: 118
+[Symbol(x_coord=136, y_coord=119, symbol='&')]
+True
+PartNumber: 676   x_left_coord: 17, x_right_coord: 20, y_coord: 119
+[Symbol(x_coord=20, y_coord=119, symbol='*')]
+True
+PartNumber: 765   x_left_coord: 21, x_right_coord: 24, y_coord: 119
+[Symbol(x_coord=20, y_coord=119, symbol='*')]
+True
+PartNumber: 295   x_left_coord: 45, x_right_coord: 48, y_coord: 119
+[]
+False
+PartNumber: 156   x_left_coord: 49, x_right_coord: 52, y_coord: 119
+[Symbol(x_coord=52, y_coord=120, symbol='*')]
+True
+PartNumber: 601   x_left_coord: 55, x_right_coord: 58, y_coord: 119
+[Symbol(x_coord=58, y_coord=119, symbol='#')]
+True
+PartNumber: 709   x_left_coord: 84, x_right_coord: 87, y_coord: 119
+[Symbol(x_coord=86, y_coord=120, symbol='/')]
+True
+PartNumber: 901   x_left_coord: 97, x_right_coord: 100, y_coord: 119
+[Symbol(x_coord=100, y_coord=118, symbol='*')]
+True
+PartNumber: 714   x_left_coord: 114, x_right_coord: 117, y_coord: 119
+[]
+False
+PartNumber: 723   x_left_coord: 7, x_right_coord: 10, y_coord: 120
+[]
+False
+PartNumber: 299   x_left_coord: 13, x_right_coord: 16, y_coord: 120
+[Symbol(x_coord=14, y_coord=119, symbol='*')]
+True
+PartNumber: 325   x_left_coord: 32, x_right_coord: 35, y_coord: 120
+[Symbol(x_coord=34, y_coord=121, symbol='#')]
+True
+PartNumber: 965   x_left_coord: 38, x_right_coord: 41, y_coord: 120
+[Symbol(x_coord=39, y_coord=119, symbol='*')]
+True
+PartNumber: 656   x_left_coord: 62, x_right_coord: 65, y_coord: 120
+[Symbol(x_coord=63, y_coord=119, symbol='*')]
+True
+PartNumber: 156   x_left_coord: 71, x_right_coord: 74, y_coord: 120
+[Symbol(x_coord=70, y_coord=119, symbol='-')]
+True
+PartNumber: 824   x_left_coord: 78, x_right_coord: 81, y_coord: 120
+[Symbol(x_coord=78, y_coord=119, symbol='*')]
+True
+PartNumber: 840   x_left_coord: 101, x_right_coord: 104, y_coord: 120
+[Symbol(x_coord=105, y_coord=119, symbol='*'), Symbol(x_coord=100, y_coord=121, symbol='*')]
+True
+PartNumber: 383   x_left_coord: 105, x_right_coord: 108, y_coord: 120
+[Symbol(x_coord=105, y_coord=119, symbol='*')]
+True
+PartNumber: 249   x_left_coord: 119, x_right_coord: 122, y_coord: 120
+[Symbol(x_coord=123, y_coord=119, symbol='*'), Symbol(x_coord=118, y_coord=121, symbol='*')]
+True
+PartNumber: 26   x_left_coord: 43, x_right_coord: 45, y_coord: 121
+[Symbol(x_coord=45, y_coord=121, symbol='*')]
+True
+PartNumber: 781   x_left_coord: 46, x_right_coord: 49, y_coord: 121
+[Symbol(x_coord=45, y_coord=121, symbol='*')]
+True
+PartNumber: 456   x_left_coord: 50, x_right_coord: 53, y_coord: 121
+[Symbol(x_coord=52, y_coord=120, symbol='*')]
+True
+PartNumber: 745   x_left_coord: 91, x_right_coord: 94, y_coord: 121
+[Symbol(x_coord=90, y_coord=122, symbol='+')]
+True
+PartNumber: 165   x_left_coord: 114, x_right_coord: 117, y_coord: 121
+[Symbol(x_coord=118, y_coord=121, symbol='*'), Symbol(x_coord=113, y_coord=122, symbol='%')]
+True
+PartNumber: 278   x_left_coord: 129, x_right_coord: 132, y_coord: 121
+[Symbol(x_coord=132, y_coord=120, symbol='=')]
+True
+PartNumber: 452   x_left_coord: 134, x_right_coord: 137, y_coord: 121
+[Symbol(x_coord=135, y_coord=122, symbol='*')]
+True
+PartNumber: 746   x_left_coord: 1, x_right_coord: 4, y_coord: 122
+[Symbol(x_coord=3, y_coord=123, symbol='*')]
+True
+PartNumber: 953   x_left_coord: 18, x_right_coord: 21, y_coord: 122
+[Symbol(x_coord=21, y_coord=123, symbol='*')]
+True
+PartNumber: 943   x_left_coord: 22, x_right_coord: 25, y_coord: 122
+[Symbol(x_coord=21, y_coord=123, symbol='*')]
+True
+PartNumber: 877   x_left_coord: 54, x_right_coord: 57, y_coord: 122
+[Symbol(x_coord=55, y_coord=123, symbol='=')]
+True
+PartNumber: 59   x_left_coord: 62, x_right_coord: 64, y_coord: 122
+[Symbol(x_coord=65, y_coord=123, symbol='+')]
+True
+PartNumber: 128   x_left_coord: 70, x_right_coord: 73, y_coord: 122
+[Symbol(x_coord=69, y_coord=121, symbol='#')]
+True
+PartNumber: 585   x_left_coord: 97, x_right_coord: 100, y_coord: 122
+[Symbol(x_coord=100, y_coord=121, symbol='*')]
+True
+PartNumber: 641   x_left_coord: 106, x_right_coord: 109, y_coord: 122
+[Symbol(x_coord=108, y_coord=123, symbol='*')]
+True
+PartNumber: 229   x_left_coord: 119, x_right_coord: 122, y_coord: 122
+[Symbol(x_coord=118, y_coord=121, symbol='*')]
+True
+PartNumber: 2   x_left_coord: 126, x_right_coord: 127, y_coord: 122
+[Symbol(x_coord=125, y_coord=122, symbol='*')]
+True
+PartNumber: 614   x_left_coord: 11, x_right_coord: 14, y_coord: 123
+[Symbol(x_coord=14, y_coord=123, symbol='=')]
+True
+PartNumber: 903   x_left_coord: 29, x_right_coord: 32, y_coord: 123
+[Symbol(x_coord=30, y_coord=124, symbol='%')]
+True
+PartNumber: 433   x_left_coord: 45, x_right_coord: 48, y_coord: 123
+[Symbol(x_coord=45, y_coord=124, symbol='-')]
+True
+PartNumber: 370   x_left_coord: 49, x_right_coord: 52, y_coord: 123
+[Symbol(x_coord=50, y_coord=124, symbol='$')]
+True
+PartNumber: 54   x_left_coord: 59, x_right_coord: 61, y_coord: 123
+[]
+False
+PartNumber: 336   x_left_coord: 86, x_right_coord: 89, y_coord: 123
+[Symbol(x_coord=85, y_coord=122, symbol='#'), Symbol(x_coord=90, y_coord=122, symbol='+')]
+True
+PartNumber: 856   x_left_coord: 135, x_right_coord: 138, y_coord: 123
+[Symbol(x_coord=135, y_coord=122, symbol='*')]
+True
+PartNumber: 698   x_left_coord: 0, x_right_coord: 3, y_coord: 124
+[Symbol(x_coord=3, y_coord=123, symbol='*')]
+True
+PartNumber: 272   x_left_coord: 6, x_right_coord: 9, y_coord: 124
+[Symbol(x_coord=9, y_coord=125, symbol='/')]
+True
+PartNumber: 545   x_left_coord: 37, x_right_coord: 40, y_coord: 124
+[Symbol(x_coord=40, y_coord=125, symbol='#')]
+True
+PartNumber: 223   x_left_coord: 64, x_right_coord: 67, y_coord: 124
+[Symbol(x_coord=65, y_coord=123, symbol='+')]
+True
+PartNumber: 183   x_left_coord: 68, x_right_coord: 71, y_coord: 124
+[Symbol(x_coord=71, y_coord=125, symbol='=')]
+True
+PartNumber: 339   x_left_coord: 81, x_right_coord: 84, y_coord: 124
+[Symbol(x_coord=80, y_coord=123, symbol='&')]
+True
+PartNumber: 189   x_left_coord: 92, x_right_coord: 95, y_coord: 124
+[Symbol(x_coord=94, y_coord=123, symbol='$')]
+True
+PartNumber: 994   x_left_coord: 107, x_right_coord: 110, y_coord: 124
+[Symbol(x_coord=108, y_coord=123, symbol='*')]
+True
+PartNumber: 531   x_left_coord: 117, x_right_coord: 120, y_coord: 124
+[]
+False
+PartNumber: 815   x_left_coord: 121, x_right_coord: 124, y_coord: 124
+[Symbol(x_coord=124, y_coord=124, symbol='*')]
+True
+PartNumber: 206   x_left_coord: 125, x_right_coord: 128, y_coord: 124
+[Symbol(x_coord=124, y_coord=124, symbol='*')]
+True
+PartNumber: 657   x_left_coord: 26, x_right_coord: 29, y_coord: 125
+[Symbol(x_coord=30, y_coord=124, symbol='%')]
+True
+PartNumber: 571   x_left_coord: 56, x_right_coord: 59, y_coord: 125
+[Symbol(x_coord=56, y_coord=126, symbol='*')]
+True
+PartNumber: 832   x_left_coord: 75, x_right_coord: 78, y_coord: 125
+[Symbol(x_coord=74, y_coord=125, symbol='-'), Symbol(x_coord=79, y_coord=125, symbol='+')]
+True
+PartNumber: 876   x_left_coord: 100, x_right_coord: 103, y_coord: 125
+[Symbol(x_coord=100, y_coord=126, symbol='*')]
+True
+PartNumber: 754   x_left_coord: 133, x_right_coord: 136, y_coord: 125
+[Symbol(x_coord=132, y_coord=126, symbol='*')]
+True
+PartNumber: 960   x_left_coord: 12, x_right_coord: 15, y_coord: 126
+[Symbol(x_coord=11, y_coord=126, symbol='*')]
+True
+PartNumber: 628   x_left_coord: 19, x_right_coord: 22, y_coord: 126
+[]
+False
+PartNumber: 597   x_left_coord: 35, x_right_coord: 38, y_coord: 126
+[Symbol(x_coord=34, y_coord=127, symbol='*')]
+True
+PartNumber: 747   x_left_coord: 51, x_right_coord: 54, y_coord: 126
+[Symbol(x_coord=54, y_coord=126, symbol='$')]
+True
+PartNumber: 776   x_left_coord: 63, x_right_coord: 66, y_coord: 126
+[Symbol(x_coord=65, y_coord=127, symbol='*')]
+True
+PartNumber: 709   x_left_coord: 79, x_right_coord: 82, y_coord: 126
+[Symbol(x_coord=79, y_coord=125, symbol='+')]
+True
+PartNumber: 266   x_left_coord: 111, x_right_coord: 114, y_coord: 126
+[Symbol(x_coord=113, y_coord=127, symbol='*')]
+True
+PartNumber: 225   x_left_coord: 124, x_right_coord: 127, y_coord: 126
+[Symbol(x_coord=124, y_coord=127, symbol='*')]
+True
+PartNumber: 541   x_left_coord: 3, x_right_coord: 6, y_coord: 127
+[Symbol(x_coord=5, y_coord=126, symbol='&')]
+True
+PartNumber: 511   x_left_coord: 8, x_right_coord: 11, y_coord: 127
+[Symbol(x_coord=11, y_coord=126, symbol='*')]
+True
+PartNumber: 353   x_left_coord: 24, x_right_coord: 27, y_coord: 127
+[Symbol(x_coord=23, y_coord=128, symbol='*')]
+True
+PartNumber: 649   x_left_coord: 57, x_right_coord: 60, y_coord: 127
+[Symbol(x_coord=56, y_coord=126, symbol='*')]
+True
+PartNumber: 753   x_left_coord: 68, x_right_coord: 71, y_coord: 127
+[Symbol(x_coord=68, y_coord=126, symbol='+')]
+True
+PartNumber: 719   x_left_coord: 74, x_right_coord: 77, y_coord: 127
+[Symbol(x_coord=74, y_coord=128, symbol='*')]
+True
+PartNumber: 212   x_left_coord: 83, x_right_coord: 86, y_coord: 127
+[Symbol(x_coord=82, y_coord=128, symbol='*')]
+True
+PartNumber: 526   x_left_coord: 88, x_right_coord: 91, y_coord: 127
+[Symbol(x_coord=91, y_coord=127, symbol='=')]
+True
+PartNumber: 578   x_left_coord: 95, x_right_coord: 98, y_coord: 127
+[Symbol(x_coord=94, y_coord=128, symbol='*')]
+True
+PartNumber: 634   x_left_coord: 100, x_right_coord: 103, y_coord: 127
+[Symbol(x_coord=100, y_coord=126, symbol='*')]
+True
+PartNumber: 113   x_left_coord: 131, x_right_coord: 134, y_coord: 127
+[Symbol(x_coord=132, y_coord=126, symbol='*')]
+True
+PartNumber: 996   x_left_coord: 16, x_right_coord: 19, y_coord: 128
+[Symbol(x_coord=19, y_coord=128, symbol='=')]
+True
+PartNumber: 18   x_left_coord: 35, x_right_coord: 37, y_coord: 128
+[Symbol(x_coord=34, y_coord=127, symbol='*')]
+True
+PartNumber: 628   x_left_coord: 46, x_right_coord: 49, y_coord: 128
+[Symbol(x_coord=45, y_coord=128, symbol='#')]
+True
+PartNumber: 321   x_left_coord: 63, x_right_coord: 66, y_coord: 128
+[Symbol(x_coord=65, y_coord=127, symbol='*')]
+True
+PartNumber: 194   x_left_coord: 114, x_right_coord: 117, y_coord: 128
+[Symbol(x_coord=113, y_coord=127, symbol='*')]
+True
+PartNumber: 334   x_left_coord: 121, x_right_coord: 124, y_coord: 128
+[Symbol(x_coord=124, y_coord=127, symbol='*')]
+True
+PartNumber: 126   x_left_coord: 137, x_right_coord: 140, y_coord: 128
+[]
+False
+PartNumber: 627   x_left_coord: 22, x_right_coord: 25, y_coord: 129
+[Symbol(x_coord=23, y_coord=128, symbol='*')]
+True
+PartNumber: 693   x_left_coord: 27, x_right_coord: 30, y_coord: 129
+[Symbol(x_coord=28, y_coord=130, symbol='=')]
+True
+PartNumber: 248   x_left_coord: 39, x_right_coord: 42, y_coord: 129
+[Symbol(x_coord=38, y_coord=130, symbol='*')]
+True
+PartNumber: 290   x_left_coord: 52, x_right_coord: 55, y_coord: 129
+[Symbol(x_coord=51, y_coord=130, symbol='*')]
+True
+PartNumber: 204   x_left_coord: 75, x_right_coord: 78, y_coord: 129
+[Symbol(x_coord=74, y_coord=128, symbol='*')]
+True
+PartNumber: 247   x_left_coord: 83, x_right_coord: 86, y_coord: 129
+[Symbol(x_coord=82, y_coord=128, symbol='*')]
+True
+PartNumber: 574   x_left_coord: 89, x_right_coord: 92, y_coord: 129
+[Symbol(x_coord=91, y_coord=130, symbol='*')]
+True
+PartNumber: 311   x_left_coord: 94, x_right_coord: 97, y_coord: 129
+[Symbol(x_coord=94, y_coord=128, symbol='*')]
+True
+PartNumber: 791   x_left_coord: 103, x_right_coord: 106, y_coord: 129
+[Symbol(x_coord=105, y_coord=130, symbol='+')]
+True
+PartNumber: 679   x_left_coord: 126, x_right_coord: 129, y_coord: 129
+[Symbol(x_coord=129, y_coord=129, symbol='*')]
+True
+PartNumber: 283   x_left_coord: 35, x_right_coord: 38, y_coord: 130
+[Symbol(x_coord=38, y_coord=130, symbol='*')]
+True
+PartNumber: 38   x_left_coord: 65, x_right_coord: 67, y_coord: 130
+[Symbol(x_coord=64, y_coord=131, symbol='*')]
+True
+PartNumber: 214   x_left_coord: 69, x_right_coord: 72, y_coord: 130
+[Symbol(x_coord=72, y_coord=129, symbol='@')]
+True
+PartNumber: 90   x_left_coord: 80, x_right_coord: 82, y_coord: 130
+[Symbol(x_coord=80, y_coord=129, symbol='=')]
+True
+PartNumber: 447   x_left_coord: 99, x_right_coord: 102, y_coord: 130
+[Symbol(x_coord=100, y_coord=131, symbol='$')]
+True
+PartNumber: 77   x_left_coord: 119, x_right_coord: 121, y_coord: 130
+[Symbol(x_coord=118, y_coord=131, symbol='*')]
+True
+PartNumber: 265   x_left_coord: 130, x_right_coord: 133, y_coord: 130
+[Symbol(x_coord=129, y_coord=129, symbol='*')]
+True
+PartNumber: 566   x_left_coord: 6, x_right_coord: 9, y_coord: 131
+[Symbol(x_coord=7, y_coord=130, symbol='@')]
+True
+PartNumber: 965   x_left_coord: 44, x_right_coord: 47, y_coord: 131
+[Symbol(x_coord=47, y_coord=132, symbol='*')]
+True
+PartNumber: 929   x_left_coord: 50, x_right_coord: 53, y_coord: 131
+[Symbol(x_coord=51, y_coord=130, symbol='*')]
+True
+PartNumber: 869   x_left_coord: 87, x_right_coord: 90, y_coord: 131
+[Symbol(x_coord=91, y_coord=130, symbol='*'), Symbol(x_coord=86, y_coord=132, symbol='*')]
+True
+PartNumber: 908   x_left_coord: 91, x_right_coord: 94, y_coord: 131
+[Symbol(x_coord=91, y_coord=130, symbol='*')]
+True
+PartNumber: 753   x_left_coord: 95, x_right_coord: 98, y_coord: 131
+[Symbol(x_coord=98, y_coord=132, symbol='*')]
+True
+PartNumber: 437   x_left_coord: 108, x_right_coord: 111, y_coord: 131
+[Symbol(x_coord=110, y_coord=132, symbol='&')]
+True
+PartNumber: 848   x_left_coord: 115, x_right_coord: 118, y_coord: 131
+[Symbol(x_coord=118, y_coord=131, symbol='*')]
+True
+PartNumber: 943   x_left_coord: 124, x_right_coord: 127, y_coord: 131
+[Symbol(x_coord=124, y_coord=130, symbol='%')]
+True
+PartNumber: 403   x_left_coord: 11, x_right_coord: 14, y_coord: 132
+[Symbol(x_coord=15, y_coord=131, symbol='&'), Symbol(x_coord=12, y_coord=133, symbol='*')]
+True
+PartNumber: 950   x_left_coord: 15, x_right_coord: 18, y_coord: 132
+[Symbol(x_coord=15, y_coord=131, symbol='&')]
+True
+PartNumber: 439   x_left_coord: 32, x_right_coord: 35, y_coord: 132
+[Symbol(x_coord=33, y_coord=131, symbol='*')]
+True
+PartNumber: 340   x_left_coord: 60, x_right_coord: 63, y_coord: 132
+[Symbol(x_coord=64, y_coord=131, symbol='*'), Symbol(x_coord=59, y_coord=133, symbol='*')]
+True
+PartNumber: 419   x_left_coord: 64, x_right_coord: 67, y_coord: 132
+[Symbol(x_coord=64, y_coord=131, symbol='*')]
+True
+PartNumber: 868   x_left_coord: 78, x_right_coord: 81, y_coord: 132
+[Symbol(x_coord=80, y_coord=133, symbol='*')]
+True
+PartNumber: 128   x_left_coord: 102, x_right_coord: 105, y_coord: 132
+[]
+False
+PartNumber: 869   x_left_coord: 132, x_right_coord: 135, y_coord: 132
+[]
+False
+PartNumber: 637   x_left_coord: 23, x_right_coord: 26, y_coord: 133
+[Symbol(x_coord=23, y_coord=134, symbol='*')]
+True
+PartNumber: 256   x_left_coord: 41, x_right_coord: 44, y_coord: 133
+[Symbol(x_coord=40, y_coord=134, symbol='-')]
+True
+PartNumber: 793   x_left_coord: 45, x_right_coord: 48, y_coord: 133
+[Symbol(x_coord=47, y_coord=132, symbol='*')]
+True
+PartNumber: 436   x_left_coord: 56, x_right_coord: 59, y_coord: 133
+[Symbol(x_coord=59, y_coord=133, symbol='*')]
+True
+PartNumber: 85   x_left_coord: 86, x_right_coord: 88, y_coord: 133
+[Symbol(x_coord=86, y_coord=132, symbol='*')]
+True
+PartNumber: 361   x_left_coord: 89, x_right_coord: 92, y_coord: 133
+[]
+False
+PartNumber: 280   x_left_coord: 97, x_right_coord: 100, y_coord: 133
+[Symbol(x_coord=98, y_coord=132, symbol='*'), Symbol(x_coord=101, y_coord=134, symbol='*')]
+True
+PartNumber: 349   x_left_coord: 118, x_right_coord: 121, y_coord: 133
+[Symbol(x_coord=117, y_coord=134, symbol='%')]
+True
+PartNumber: 654   x_left_coord: 9, x_right_coord: 12, y_coord: 134
+[Symbol(x_coord=12, y_coord=133, symbol='*'), Symbol(x_coord=13, y_coord=135, symbol='#')]
+True
+PartNumber: 949   x_left_coord: 49, x_right_coord: 52, y_coord: 134
+[Symbol(x_coord=48, y_coord=135, symbol='*'), Symbol(x_coord=53, y_coord=135, symbol='$')]
+True
+PartNumber: 224   x_left_coord: 69, x_right_coord: 72, y_coord: 134
+[Symbol(x_coord=70, y_coord=135, symbol='*')]
+True
+PartNumber: 506   x_left_coord: 74, x_right_coord: 77, y_coord: 134
+[Symbol(x_coord=76, y_coord=135, symbol='/')]
+True
+PartNumber: 631   x_left_coord: 78, x_right_coord: 81, y_coord: 134
+[Symbol(x_coord=80, y_coord=133, symbol='*')]
+True
+PartNumber: 21   x_left_coord: 102, x_right_coord: 104, y_coord: 134
+[Symbol(x_coord=101, y_coord=134, symbol='*'), Symbol(x_coord=105, y_coord=134, symbol='@')]
+True
+PartNumber: 44   x_left_coord: 16, x_right_coord: 18, y_coord: 135
+[Symbol(x_coord=18, y_coord=136, symbol='*')]
+True
+PartNumber: 105   x_left_coord: 25, x_right_coord: 28, y_coord: 135
+[Symbol(x_coord=27, y_coord=136, symbol='*')]
+True
+PartNumber: 108   x_left_coord: 29, x_right_coord: 32, y_coord: 135
+[]
+False
+PartNumber: 190   x_left_coord: 35, x_right_coord: 38, y_coord: 135
+[Symbol(x_coord=38, y_coord=134, symbol='=')]
+True
+PartNumber: 173   x_left_coord: 54, x_right_coord: 57, y_coord: 135
+[Symbol(x_coord=53, y_coord=135, symbol='$')]
+True
+PartNumber: 750   x_left_coord: 63, x_right_coord: 66, y_coord: 135
+[Symbol(x_coord=64, y_coord=134, symbol='=')]
+True
+PartNumber: 37   x_left_coord: 86, x_right_coord: 88, y_coord: 135
+[Symbol(x_coord=85, y_coord=136, symbol='*')]
+True
+PartNumber: 461   x_left_coord: 98, x_right_coord: 101, y_coord: 135
+[Symbol(x_coord=101, y_coord=134, symbol='*')]
+True
+PartNumber: 727   x_left_coord: 106, x_right_coord: 109, y_coord: 135
+[Symbol(x_coord=105, y_coord=134, symbol='@')]
+True
+PartNumber: 75   x_left_coord: 112, x_right_coord: 114, y_coord: 135
+[Symbol(x_coord=113, y_coord=136, symbol='*')]
+True
+PartNumber: 893   x_left_coord: 137, x_right_coord: 140, y_coord: 135
+[]
+False
+PartNumber: 583   x_left_coord: 10, x_right_coord: 13, y_coord: 136
+[Symbol(x_coord=13, y_coord=135, symbol='#')]
+True
+PartNumber: 358   x_left_coord: 44, x_right_coord: 47, y_coord: 136
+[Symbol(x_coord=48, y_coord=135, symbol='*'), Symbol(x_coord=43, y_coord=137, symbol='*')]
+True
+PartNumber: 750   x_left_coord: 58, x_right_coord: 61, y_coord: 136
+[Symbol(x_coord=57, y_coord=137, symbol='/')]
+True
+PartNumber: 532   x_left_coord: 92, x_right_coord: 95, y_coord: 136
+[Symbol(x_coord=95, y_coord=135, symbol='-')]
+True
+PartNumber: 22   x_left_coord: 117, x_right_coord: 119, y_coord: 136
+[Symbol(x_coord=116, y_coord=137, symbol='*')]
+True
+PartNumber: 512   x_left_coord: 129, x_right_coord: 132, y_coord: 136
+[Symbol(x_coord=130, y_coord=137, symbol='*')]
+True
+PartNumber: 863   x_left_coord: 0, x_right_coord: 3, y_coord: 137
+[Symbol(x_coord=4, y_coord=138, symbol='#')]
+True
+PartNumber: 112   x_left_coord: 6, x_right_coord: 9, y_coord: 137
+[Symbol(x_coord=6, y_coord=136, symbol='@')]
+True
+PartNumber: 178   x_left_coord: 25, x_right_coord: 28, y_coord: 137
+[Symbol(x_coord=27, y_coord=136, symbol='*')]
+True
+PartNumber: 5   x_left_coord: 55, x_right_coord: 56, y_coord: 137
+[Symbol(x_coord=57, y_coord=137, symbol='/'), Symbol(x_coord=54, y_coord=138, symbol='*')]
+True
+PartNumber: 98   x_left_coord: 70, x_right_coord: 72, y_coord: 137
+[Symbol(x_coord=69, y_coord=138, symbol='*')]
+True
+PartNumber: 584   x_left_coord: 78, x_right_coord: 81, y_coord: 137
+[Symbol(x_coord=77, y_coord=138, symbol='*')]
+True
+PartNumber: 222   x_left_coord: 83, x_right_coord: 86, y_coord: 137
+[Symbol(x_coord=85, y_coord=136, symbol='*')]
+True
+PartNumber: 862   x_left_coord: 96, x_right_coord: 99, y_coord: 137
+[Symbol(x_coord=95, y_coord=138, symbol='&')]
+True
+PartNumber: 235   x_left_coord: 102, x_right_coord: 105, y_coord: 137
+[Symbol(x_coord=101, y_coord=138, symbol='*')]
+True
+PartNumber: 448   x_left_coord: 110, x_right_coord: 113, y_coord: 137
+[Symbol(x_coord=113, y_coord=136, symbol='*')]
+True
+PartNumber: 737   x_left_coord: 122, x_right_coord: 125, y_coord: 137
+[Symbol(x_coord=124, y_coord=136, symbol='/')]
+True
+PartNumber: 516   x_left_coord: 136, x_right_coord: 139, y_coord: 137
+[Symbol(x_coord=135, y_coord=136, symbol='#')]
+True
+PartNumber: 425   x_left_coord: 12, x_right_coord: 15, y_coord: 138
+[]
+False
+PartNumber: 923   x_left_coord: 29, x_right_coord: 32, y_coord: 138
+[Symbol(x_coord=31, y_coord=137, symbol='+')]
+True
+PartNumber: 84   x_left_coord: 33, x_right_coord: 35, y_coord: 138
+[Symbol(x_coord=35, y_coord=138, symbol='*')]
+True
+PartNumber: 947   x_left_coord: 42, x_right_coord: 45, y_coord: 138
+[Symbol(x_coord=43, y_coord=137, symbol='*')]
+True
+PartNumber: 999   x_left_coord: 51, x_right_coord: 54, y_coord: 138
+[Symbol(x_coord=54, y_coord=138, symbol='*')]
+True
+PartNumber: 280   x_left_coord: 74, x_right_coord: 77, y_coord: 138
+[Symbol(x_coord=77, y_coord=138, symbol='*')]
+True
+PartNumber: 732   x_left_coord: 89, x_right_coord: 92, y_coord: 138
+[]
+False
+PartNumber: 14   x_left_coord: 115, x_right_coord: 117, y_coord: 138
+[Symbol(x_coord=116, y_coord=137, symbol='*')]
+True
+PartNumber: 683   x_left_coord: 130, x_right_coord: 133, y_coord: 138
+[Symbol(x_coord=130, y_coord=137, symbol='*')]
+True
+PartNumber: 353   x_left_coord: 5, x_right_coord: 8, y_coord: 139
+[Symbol(x_coord=4, y_coord=138, symbol='#')]
+True
+PartNumber: 914   x_left_coord: 36, x_right_coord: 39, y_coord: 139
+[Symbol(x_coord=35, y_coord=138, symbol='*')]
+True
+PartNumber: 105   x_left_coord: 47, x_right_coord: 50, y_coord: 139
+[]
+False
+PartNumber: 829   x_left_coord: 67, x_right_coord: 70, y_coord: 139
+[Symbol(x_coord=69, y_coord=138, symbol='*')]
+True
+PartNumber: 112   x_left_coord: 81, x_right_coord: 84, y_coord: 139
+[]
+False
+PartNumber: 75   x_left_coord: 99, x_right_coord: 101, y_coord: 139
+[Symbol(x_coord=101, y_coord=138, symbol='*')]
+True
