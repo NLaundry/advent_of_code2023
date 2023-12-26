@@ -35,9 +35,9 @@ class PartNumber:
         possible_symbol_collisions = list(filter(lambda symbol: symbol.y_coord in range(self.y_coord - 1, self.y_coord +2), symbol_list))
         return any(symbol.x_coord in range(self.x_left_coord -1, self.x_right_coord +2) for symbol in possible_symbol_collisions)
 
-    def has_collision_test(self, symbol_list: list[Symbol]) -> list[Symbol]:
-        possible_symbol_collisions = list(filter(lambda symbol: symbol.y_coord in range(self.y_coord - 1, self.y_coord +2), symbol_list))
-        return [ symbol for symbol in possible_symbol_collisions if symbol.x_coord in range(self.x_left_coord -1, self.x_right_coord +2) ]
+    # def has_collision_test(self, symbol_list: list[Symbol]) -> list[Symbol]:
+    #     possible_symbol_collisions = list(filter(lambda symbol: symbol.y_coord in range(self.y_coord - 1, self.y_coord +2), symbol_list))
+    #     return [ symbol for symbol in possible_symbol_collisions if symbol.x_coord in range(self.x_left_coord -1, self.x_right_coord +2) ]
 
 
 
